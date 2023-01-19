@@ -1,0 +1,66 @@
+DEBUG 17-06 14:25:09,445 (PGDSpiderGUI.java:<init>:121)  -starting PGD Spider ...
+INFO  17-06 14:25:09,449 (PGDSpiderConfig.java:loadConfig:64)  -load PGDSpider configuration from: /Users/brennalevine/Downloads/PGDSpider_2.1.1.5/spider.conf.xml
+DEBUG 17-06 14:25:12,179 (PGDSpiderGUI.java:initializeGUI:220)  -init actions
+DEBUG 17-06 14:25:12,180 (PGDSpiderGUI.java:initializeGUI:233)  -init menu bar
+DEBUG 17-06 14:25:12,244 (PGDSpiderGUI.java:initializeGUI:244)  -init input panel
+DEBUG 17-06 14:25:12,248 (ParserFactory.java:getParserInstance:161)  -New PGDParser instance
+DEBUG 17-06 14:25:12,256 (ParserFactory.java:getParserInstance:53)  -New ArlequinParser instance
+DEBUG 17-06 14:25:12,265 (ParserFactory.java:getParserInstance:185)  -Parser for type: BAMOVA is missing!
+DEBUG 17-06 14:25:12,265 (ParserFactory.java:getParserInstance:57)  -New BamParser instance
+DEBUG 17-06 14:25:12,272 (ParserFactory.java:getParserInstance:61)  -New BapsParser instance
+DEBUG 17-06 14:25:12,276 (ParserFactory.java:getParserInstance:65)  -New BatwingParser instance
+DEBUG 17-06 14:25:12,278 (ParserFactory.java:getParserInstance:185)  -Parser for type: BAYENV is missing!
+DEBUG 17-06 14:25:12,278 (ParserFactory.java:getParserInstance:69)  -New BcfParser instance
+DEBUG 17-06 14:25:12,280 (ParserFactory.java:getParserInstance:73)  -New ConvertParser instance
+DEBUG 17-06 14:25:12,281 (ParserFactory.java:getParserInstance:77)  -New EigensoftParser instance
+DEBUG 17-06 14:25:12,283 (ParserFactory.java:getParserInstance:181)  -New ExtendedFastaParser instance
+DEBUG 17-06 14:25:12,286 (ParserFactory.java:getParserInstance:81)  -New FastaParser instance
+DEBUG 17-06 14:25:12,287 (ParserFactory.java:getParserInstance:85)  -New FastqParser instance
+DEBUG 17-06 14:25:12,288 (ParserFactory.java:getParserInstance:185)  -Parser for type: FDist2 (datacal) is missing!
+DEBUG 17-06 14:25:12,288 (ParserFactory.java:getParserInstance:89)  -New FstatParser instance
+DEBUG 17-06 14:25:12,289 (ParserFactory.java:getParserInstance:93)  -New GdaParser instance
+DEBUG 17-06 14:25:12,291 (ParserFactory.java:getParserInstance:97)  -New GenelandParser instance
+DEBUG 17-06 14:25:12,293 (ParserFactory.java:getParserInstance:101)  -New GenepopParser instance
+DEBUG 17-06 14:25:12,295 (ParserFactory.java:getParserInstance:105)  -New GenetixParser instance
+DEBUG 17-06 14:25:12,296 (ParserFactory.java:getParserInstance:185)  -Parser for type: GESTE / BayeScan is missing!
+DEBUG 17-06 14:25:12,296 (ParserFactory.java:getParserInstance:109)  -New HgdpParser instance
+DEBUG 17-06 14:25:12,298 (ParserFactory.java:getParserInstance:113)  -New HgdpCephParser instance
+DEBUG 17-06 14:25:12,299 (ParserFactory.java:getParserInstance:117)  -New Ima2Parser instance
+DEBUG 17-06 14:25:12,300 (ParserFactory.java:getParserInstance:121)  -New ImmancParser instance
+DEBUG 17-06 14:25:12,302 (ParserFactory.java:getParserInstance:125)  -New ImParser instance
+DEBUG 17-06 14:25:12,304 (ParserFactory.java:getParserInstance:185)  -Parser for type: KML is missing!
+DEBUG 17-06 14:25:12,304 (ParserFactory.java:getParserInstance:129)  -New MafParser instance
+DEBUG 17-06 14:25:12,306 (ParserFactory.java:getParserInstance:133)  -New MegaParser instance
+DEBUG 17-06 14:25:12,307 (ParserFactory.java:getParserInstance:137)  -New MigrateParser instance
+DEBUG 17-06 14:25:12,309 (ParserFactory.java:getParserInstance:141)  -New MsaParser instance
+DEBUG 17-06 14:25:12,310 (ParserFactory.java:getParserInstance:185)  -Parser for type: MSVar is missing!
+DEBUG 17-06 14:25:12,310 (ParserFactory.java:getParserInstance:145)  -New NewHybridsParser instance
+DEBUG 17-06 14:25:12,312 (ParserFactory.java:getParserInstance:149)  -New NexusParser instance
+DEBUG 17-06 14:25:12,315 (ParserFactory.java:getParserInstance:153)  -New OneSampParser instance
+DEBUG 17-06 14:25:12,316 (ParserFactory.java:getParserInstance:157)  -New PedParser instance
+DEBUG 17-06 14:25:12,318 (ParserFactory.java:getParserInstance:165)  -New PhylipParser instance
+DEBUG 17-06 14:25:12,319 (ParserFactory.java:getParserInstance:169)  -New SamParser instance
+DEBUG 17-06 14:25:12,321 (ParserFactory.java:getParserInstance:185)  -Parser for type: Structurama is missing!
+DEBUG 17-06 14:25:12,322 (ParserFactory.java:getParserInstance:173)  -New StructureParser instance
+DEBUG 17-06 14:25:12,324 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+DEBUG 17-06 14:25:12,335 (PGDSpiderGUI.java:initializeGUI:247)  -init output panel
+DEBUG 17-06 14:25:12,360 (WriterFactory.java:getWriterInstance:171)  -Writer for type: CONVERT is missing!
+DEBUG 17-06 14:25:12,378 (WriterFactory.java:getWriterInstance:171)  -Writer for type: HGDP is missing!
+DEBUG 17-06 14:25:12,378 (WriterFactory.java:getWriterInstance:171)  -Writer for type: HGDP_CEPH (Arlequin) is missing!
+DEBUG 17-06 14:25:12,387 (WriterFactory.java:getWriterInstance:171)  -Writer for type: MAF is missing!
+DEBUG 17-06 14:25:12,412 (PGDSpiderGUI.java:initializeGUI:250)  -init spid panel
+DEBUG 17-06 14:25:12,413 (PGDSpiderGUI.java:initializeGUI:253)  -init log panel
+DEBUG 17-06 14:25:12,414 (PGDSpiderGUI.java:initializeGUI:256)  -init button panel
+DEBUG 17-06 14:25:14,293 (PGDSpiderGUI.java:<init>:187)  -PGD Spider up and running...
+DEBUG 17-06 14:26:18,425 (SelectOutputFileAction.java:actionPerformed:52)  -Added file extension: 
+INFO  17-06 14:26:33,238 (PGDSpiderGUI.java:setSpidFile:661)  -loading SPID file: vcf-to-structure.spid
+DEBUG 17-06 14:26:33,243 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+INFO  17-06 14:26:37,301 (ConvertAction.java:actionPerformed:65)  -Convert...
+DEBUG 17-06 14:26:37,301 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+INFO  17-06 14:26:37,302 (ConvertAction.java:actionPerformed:87)  -convert VCF:merged_10K.vcf to STRUCTURE:thin_10k
+DEBUG 17-06 14:26:37,305 (ParserFactory.java:getParserInstance:177)  -New VcfParser instance
+WARN  17-06 14:26:39,120 (StructureWriter.java:parseAlignedSampleData:589)  -Data are converted to integers (A=1, T=2, G=3, C=4)!
+INFO  17-06 14:26:39,772 (ConverterThread.java:run:87)  -translation completed
+DEBUG 17-06 14:26:59,007 (PGDSpiderGUI.java:closePGDSpider:526)  -Exiting PGDSpider
+DEBUG 17-06 14:26:59,007 (PGDSpiderGUI.java:closePGDSpider:527)  -Save window size
+DEBUG 17-06 14:26:59,085 (PGDSpiderGUI.java:closePGDSpider:531)  -Shutdown java vm ...

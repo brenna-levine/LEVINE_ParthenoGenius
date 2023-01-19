@@ -1,0 +1,23 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: 20/07/2022 17:04:01 #########
+
+
+Parameters:
+	Infile = COBRA-PARTH-TESTS/INFILES/baby_1.csv
+	Outfile = COBRA-PARTH-TESTS/OUTFILES/baby_1
+	Estimated Error Rate from Previous Homozygosity Scan = 0.00606
+	Max_Het = 0.8
+
+
+SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR OFFSPRING RETAINED HETEROZYGOSITY
+
+Total number of loci analyzed: 20562
+Number of loci for which mom is heterozygous: 278
+Number of mom's heterozygous loci for which offspring has retained heterozygosity: 64
+Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: 0.23022
+
+This parthenogen was likely produced via:	TERMINAL FUSION AUTOMIXIS
+
+	The proportion of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the estimated error rate from the homozygosity scan.
+	Therefore, offspring heterozygosity at these loci is not likely an artifact of sequencing error.

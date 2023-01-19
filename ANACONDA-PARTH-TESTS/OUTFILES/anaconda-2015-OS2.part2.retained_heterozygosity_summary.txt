@@ -1,0 +1,23 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: 19/01/2023 14:17:12 #########
+
+
+Parameters:
+	Infile = anaconda-2015-OS2.csv
+	Outfile = ../OUTFILES/anaconda-2015-OS2
+	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0
+	Het_Scan = 0
+
+
+SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR OFFSPRING RETAINED HETEROZYGOSITY
+
+Total number of loci analyzed: 16
+Number of loci for which mom is heterozygous: 14
+Number of mom's heterozygous loci for which offspring has retained heterozygosity: 0
+Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: 0.0
+
+This parthenogen was likely produced via:	GAMETIC DUPLICATION
+
+	The proportion of mom's heterozygous loci for which offspring has retained heterozygosity is less than the estimated error rate from the maternal locus scan.
+	Therefore, offspring heterozygosity at these loci is likely an artifact of error.
