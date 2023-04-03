@@ -1,0 +1,45 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 01/03/2023 17:06:26 #########
+
+
+Parameters:
+	Infile = ANACONDA-PARTH-TESTS/INFILES/anaconda-2015-OS1.csv
+	Outfile = ANACONDA-PARTH-TESTS/OUTFILES/het_option/anaconda-2015-OS1
+	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0
+	Het_Scan = 1
+
+
+The following are the IDs for the loci at which the mom is heterozygous.
+If the offspring is heterozygous for the mom's alleles, the mom's and offspring's alleles are printed below.
+
+Please refer to the maternal heterozygous loci summary output file for summary statistics.
+
+Locus: EmuTri001
+
+Locus: EmuTri002
+
+Locus: EmuTri003
+
+Locus: EmuTri004
+
+Locus: EmuTri005
+
+Locus: EmuTri006
+
+Locus: EmuTri007
+
+Locus: EmuTri009
+
+Locus: EmuTri011
+
+Locus: EmuTri014
+
+Locus: EmuTri015
+
+Locus: EmuTri016
+
+Locus: EmuTri017
+
+Locus: EmuTri018
+

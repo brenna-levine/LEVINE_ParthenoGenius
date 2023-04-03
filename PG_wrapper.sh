@@ -1,7 +1,7 @@
 #! /bin/bash
 
-in_dir=NEPALESE-VIPER-PARTH-TESTS/INFILES
-out_dir=NEPALESE-VIPER-PARTH-TESTS/OUTFILES
+in_dir=NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR
+
 
 #feed all ParthenoGenius input files to ParthenoGenius
 for file in $in_dir/*

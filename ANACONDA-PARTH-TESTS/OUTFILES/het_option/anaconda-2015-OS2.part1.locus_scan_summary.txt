@@ -1,0 +1,47 @@
+######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS AND HETEROZYGOUS LOCUS SCANS ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 01/03/2023 17:06:15 #########
+
+
+Parameters:
+	Infile = ANACONDA-PARTH-TESTS/INFILES/anaconda-2015-OS2.csv
+	Outfile = ANACONDA-PARTH-TESTS/OUTFILES/het_option/anaconda-2015-OS2
+	Error = 0.05
+	Het_Scan = 1
+
+
+Total number of loci analyzed: 16
+
+
+Maternal Homozygous Locus Scan Summary:
+	Number of loci for which mom is homozygous: 2
+	Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0
+	Maximum number of homozygous loci expected to differ between mom and offspring based on error rate: 0.1
+	Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.0
+	Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: 1.0
+
+
+Maternal Heterozygous Locus Scan Summary:
+	Number of loci for which mom is heterozygous: 14
+	Number of mom's heterozygous loci for which at least one of offspring's alleles differs from those represented in the maternal alleles: 0
+	Maximum number of offspring loci expected to exhibit alternate alleles from maternal genotype based on error rate: 0.7
+	Proportion of mom's heterozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.0
+	Proportion of mom's heterozygous loci for which offspring has identical heterozygous genotypes to maternal heterozygous genotypes: 1.0
+
+
+Maternal Locus Scan Summary (all loci):
+	Number of mom's loci (homozygous and heterogygous) for which offspring exhibits an allele differing from maternal genotype: 0
+	Maximum number of loci expected to differ between mom and offspring based on error rate: 0.8
+	Proportion of mom's loci for which at least one of offspring's alleles differs from maternal alleles: 0.0
+
+
+Genotype Sharing Index (Mxy):
+	Per Blouin et al. 1996, Mxy ranges from 0 - 2, as individuals can share up to 2 alleles per locus
+
+		Mxy: 1.125
+
+
+THE OFFSPRING IS LIKELY A PARTHENOGEN.
+
+	The number of mom's loci for which at least one of offspring's alleles differs from maternal alleles is less than expected from the error rate alone.
+	Incongruence between maternal genotypes and offspring genotypes is likely due to genotyping error rather than the presence of paternal alleles.

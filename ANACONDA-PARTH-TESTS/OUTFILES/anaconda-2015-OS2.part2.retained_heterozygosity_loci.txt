@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: 19/01/2023 14:17:12 #########
+######## Data generated: (D/M/Y) 01/03/2023 17:05:51 #########
 
 
 Parameters:
-	Infile = anaconda-2015-OS2.csv
-	Outfile = ../OUTFILES/anaconda-2015-OS2
+	Infile = ANACONDA-PARTH-TESTS/INFILES/anaconda-2015-OS2.csv
+	Outfile = ANACONDA-PARTH-TESTS/OUTFILES/anaconda-2015-OS2
 	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0
 	Het_Scan = 0
 

@@ -1,0 +1,37 @@
+######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS LOCUS SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 23/03/2023 10:57:00 #########
+
+
+Parameters:
+	Infile = NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR/NVP-009_PG_input.csv
+	Outfile = NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR/NVP-009_PG_input.csv
+	Error = 0.01
+	Het_Scan = 0
+
+
+Total number of loci analyzed: 9697
+
+
+Maternal Homozygous Locus Scan Summary:
+	Number of loci for which mom is homozygous: 4087
+	Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 1529
+	Maximum number of homozygous loci expected to differ between mom and offspring based on error rate: 40.87
+	Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.37411
+	Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: 0.62589
+
+
+Genotype Sharing Index (Mxy):
+	Per Blouin et al. 1996, Mxy ranges from 0 - 2, as individuals can share up to 2 alleles per locus
+
+		Mxy: 1.51315
+
+
+THE OFFSPRING IS UNLIKELY TO BE A PARTHENOGEN.
+
+	The number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles is greater than the number expected from the genotyping error rate alone.
+	Incongruence between maternal genotypes and offspring genotypes may be due to presence of paternal alleles.
+
+
+Note: Part 2 maternal heterozygosity analysis will not be conducted to test for mode of parthenogenesis.
+Note: Part 2 heterozygosity outfiles will not be created.

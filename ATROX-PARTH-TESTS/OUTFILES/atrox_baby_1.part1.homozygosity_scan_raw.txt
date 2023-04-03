@@ -1,6 +1,6 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: 19/01/2023 13:38:17 #########
+######## Data generated: (D/M/Y) 01/03/2023 17:03:31 #########
 
 
 Parameters:
@@ -11,7 +11,7 @@ Parameters:
 
 
 The following are the IDs for the loci at which the mom is homozygous.
-If an offspring allele differs from the maternal homozygous genotype, the discordant maternal allele and the offspring allele are printed below the locus.
+If an offspring allele differs from the maternal homozygous genotype, the incongruous maternal allele and offspring allele are printed below the locus.
 
 Please refer to the maternal homozygous loci scan summary output file for summary statistics.
 

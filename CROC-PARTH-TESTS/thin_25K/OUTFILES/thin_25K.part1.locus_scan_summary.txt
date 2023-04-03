@@ -1,0 +1,33 @@
+######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS LOCUS SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 01/03/2023 16:49:01 #########
+
+
+Parameters:
+	Infile = CROC-PARTH-TESTS/thin_25K/INFILES/thin_25K.csv
+	Outfile = CROC-PARTH-TESTS/thin_25K/OUTFILES/thin_25K
+	Error = 0.001
+	Het_Scan = 0
+
+
+Total number of loci analyzed: 78603
+
+
+Maternal Homozygous Locus Scan Summary:
+	Number of loci for which mom is homozygous: 76580
+	Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 33
+	Maximum number of homozygous loci expected to differ between mom and offspring based on error rate: 76.58
+	Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.00043
+	Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: 0.99957
+
+
+Genotype Sharing Index (Mxy):
+	Per Blouin et al. 1996, Mxy ranges from 0 - 2, as individuals can share up to 2 alleles per locus
+
+		Mxy: 1.97481
+
+
+THE OFFSPRING IS LIKELY A PARTHENOGEN.
+
+	The number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles is less than expected from the genotyping error rate alone.
+	Incongruence between maternal genotypes and offspring genotypes is likely due to genotyping error rather than the presence of paternal alleles.
