@@ -515,19 +515,23 @@ else:
             fileobject.write(f"Total number of loci analyzed: {column_total}\n")
             fileobject.write(f"Number of loci for which mom is heterozygous: {len(mom_het)}\n") #print total number of loci
             fileobject.write(f"Number of mom's heterozygous loci for which offspring has retained heterozygosity: {len(males)}\n") #print number of loci for which all males have paternal alleles
-            fileobject.write(f"Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication (based on error rate): {round((len(mom_het))*float(estim_error), 5)}\n")
+            fileobject.write(f"Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication (based on error rate): {round((len(mom_het))*float(estim_error), 3)}\n")
+            fileobject.write(f"Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of central fusion automixis (based on retained heterozyosity assumption of 66%): {round((len(mom_het))*float(0.66), 3)}\n")
+            fileobject.write(f"Range of numbers of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of terminal fusion automixis: {round((len(mom_het))*float(estim_error), 3)} - {round((len(mom_het))*float(0.66), 3)}\n")
             fileobject.write(f"Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: {round(len(males)/len(mom_het), 5)}\n\n")
 
             #Test for significance - if proportion on mom's heterozygous loci for which male is heterozygous differ is less
             #than or equal to default or user-defined sequencing error rate, call a likely parthenogen
-            if ((len(males)) > (float(estim_error)*len(mom_het))):
-                fileobject.write(f"This parthenogen was likely produced via:\tTERMINAL OR CENTRAL FUSION AUTOMIXIS\n\n")
-                fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the number expected based on estimated error rate alone assuming a null hypothesis of gametic duplication.\n")
-                fileobject.write(f"\tTherefore, offspring heterozygosity at these loci is not likely an artifact of error.")
+            if ((len(males)) > (float(estim_error)*len(mom_het))) and ((len(males)) < (float(0.66)*len(mom_het))): #######EDITED 27 NOV 23
+                fileobject.write(f"This parthenogen was likely produced via:\tTERMINAL FUSION AUTOMIXIS\n\n")
+                fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the number expected based on estimated error rate alone assuming a null hypothesis of gametic duplication and less than the number expected given an alternative hypothesis of central fusion automixis (assuming at last 66% retained maternal heterozygosity).\n")
+            elif ((len(males)) >= (float(0.66)*len(mom_het))): #######EDITED 27 NOV 23
+                fileobject.write(f"This parthenogen was likely produced via:\tCENTRAL FUSION AUTOMIXIS\n\n")
+                fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the number expected given an alternative hypothesis of central fusion automixis (assuming at last 66% retained maternal heterozygosity).\n")
             else:
                 fileobject.write(f"This parthenogen was likely produced via:\tGAMETIC DUPLICATION\n\n")
                 fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is less than the number expected based on estimated error rate alone assuming a null hypothesis of gametic duplication.\n")
-                fileobject.write(f"\tTherefore, offspring heterozygosity at these loci is likely an artifact of error.")
+                fileobject.write(f"\tTherefore, apparent offspring heterozygosity at these loci is likely an artifact of error.")
            
 
         #close the fileobject
