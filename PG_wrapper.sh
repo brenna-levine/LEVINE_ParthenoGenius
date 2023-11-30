@@ -1,22 +1,20 @@
 #! /bin/bash
 
-in_dir=NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR
+### The following wrapper script will run ParthenoGenius on all files contained 
+### within a directory. This is useful if you have many offspring that you would like
+### to evaluate for parthenogenesis.
+
+#directory containing infiles for ParthenoGenius
+# The below example is the directory containing all of the test files.
+in_dir=TEST-DATA-SETS/INFILES/
 
 
-#feed all ParthenoGenius input files to ParthenoGenius
-for file in $in_dir/*
-do
+#Run ParthenoGenius on all input files in the directory
+# For each file in the directory, run ParthenoGenius on the file, name the output file based on the name of the input 
+#file, and use an error rate of 0.01
+for file in $in_dir/*           
+do			
 	python3 ParthenoGenius.py $file $file --error 0.01
 done
 
-# mkdir $out_dir/parths
-# mkdir $out_dir/non_parths
 
-# for file in $in_dir/*
-# do
-# 	if [[ "$file" == *"$part"* ]]; then
-# 		mv $file $out_dir/
-# 	#else 
-# 		#mv $file.part* ../$out_dir/non_parths/
-# 	fi
-# done
