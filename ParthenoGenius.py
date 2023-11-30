@@ -27,10 +27,9 @@ with open(args.infile) as data_file:
 
 #name output files
 outfile_homozyg_part1 = "%s.part1.homozygosity_scan_raw.txt" % args.outfile
-outfile_locus_scan = "%s.part1.locus_scan_summary.txt" % args.outfile
-outfile_heterozyg_part1 = "%s.part1.heterozygosity_scan_raw.txt" % args.outfile
-outfile_heterozyg_part2 = "%s.part2.retained_heterozygosity_loci.txt" % args.outfile
-outfile_heterozyg_sum_part2 = "%s.part2.retained_heterozygosity_summary.txt" % args.outfile
+outfile_locus_scan = "%s.part1.homozygosity_scan_summary.txt" % args.outfile
+outfile_heterozyg_part2 = "%s.part2.heterozygosity_scan_raw.txt" % args.outfile
+outfile_heterozyg_sum_part2 = "%s.part2.heterozygosity_scan_summary.txt" % args.outfile
 
 #get date and time of run
 from datetime import datetime
@@ -225,7 +224,7 @@ if ((len(males_homo)) <= (float(args.error)*len(mom_homozyg))): #if evidence of 
             mom1 = columnData.values[0] #mom1 = mom allele 1
             mom2 = columnData.values[1] #mom2 = mom allele 2
         
-            if mom1 != mom2: #if mom is heterozygous - i.e., if the mom's two alleles at the locus are not identical
+            if mom1 != mom2 and mom1 != missing_data and mom2 != missing_data and columnData.values[2] != missing_data and columnData.values[3] != missing_data: #if mom is heterozygous - i.e., if the mom's two alleles at the locus are not identical
             
                 fileobject.write(f"Locus: {columnName}\n\n") #write the locus name to the outfile
                 mom_het.append(columnName) #append the locus name to the mom_het list
@@ -289,7 +288,7 @@ if ((len(males_homo)) <= (float(args.error)*len(mom_homozyg))): #if evidence of 
         else:
             fileobject.write(f"This parthenogen was likely produced via:\tGAMETIC DUPLICATION\n\n")
             fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is less than the number expected based on estimated error rate alone assuming a null hypothesis of gametic duplication.\n")
-            fileobject.write(f"\tTherefore, apparent offspring heterozygosity at these loci is likely an artifact of error.")
+            fileobject.write(f"\tTherefore, any apparent offspring heterozygosity at these loci is likely an artifact of error.")
            
 
     #close the fileobject
