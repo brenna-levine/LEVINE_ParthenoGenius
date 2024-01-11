@@ -268,7 +268,7 @@ if ((len(males_homo)) <= (float(args.error)*len(mom_homozyg))): #if evidence of 
         fileobject.write(f"Number of mom's heterozygous loci for which offspring has retained maternal heterozygosity: {len(males)}\n") #print number of loci for which all males have paternal alleles
         fileobject.write(f"Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication (based on error rate): {round((len(mom_het))*float(estim_error), 3)}\n")
         fileobject.write(f"Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of central fusion automixis (based on retained heterozyosity assumption of 66%): {round((len(mom_het))*float(0.66), 3)}\n")
-        fileobject.write(f"Range of numbers of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of terminal fusion automixis: {round((len(mom_het))*float(estim_error), 3)} - {round((len(mom_het))*float(0.66), 3)}\n")
+        fileobject.write(f"Range of numbers of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of terminal fusion automixis: > {round((len(mom_het))*float(estim_error), 3)} - < {round((len(mom_het))*float(0.66), 3)}\n")
         fileobject.write(f"Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: {round(len(males)/len(mom_het), 5)}\n\n")
 
 

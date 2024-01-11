@@ -1,0 +1,6 @@
+Note on Zebra Shark Parthenogenesis Tests
+
+ParthenoGenius requires that the mother is homozygous for at least 1 locus in order to test for parthenogenesis, a condition 
+that is usually met particularly in large SNP data sets and often met in microsatellite data sets. However,in this data set  
+mother F2(2009) was heterozygous at all loci. Therefore, ParthenoGenius was not run on the mother/offspring pair 
+F2(2009)/2016:5.

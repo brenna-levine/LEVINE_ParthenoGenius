@@ -1,0 +1,31 @@
+######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS LOCUS SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 30/11/2023 14:27:06 #########
+
+
+Parameters:
+	Infile = NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR/NVP-006_PG_input.csv
+	Outfile = NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR/NVP-006_PG_input.csv
+	Error = 0.01
+
+
+Total number of loci in input file scanned (may include loci with missing data): 9697
+
+
+THE FOLLOWING STATS REFERS ONLY TO LOCI AT WHICH NEITHER THE MOTHER NOR OFFSPRING HAVE MISSING DATA:
+
+	Number of loci for which mom is homozygous and offspring are not missing data: 4087
+	Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 1601
+	Maximum number of homozygous loci expected to differ between mom and offspring based on error rate: 40.87
+	Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.39173
+	Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: 0.60827
+
+
+THE OFFSPRING IS UNLIKELY TO BE A PARTHENOGEN.
+
+	The number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles is greater than the number expected from the genotyping error rate alone.
+	Incongruence between maternal genotypes and offspring genotypes may be due to presence of paternal alleles.
+
+
+Note: Part 2 maternal heterozygosity analysis will not be conducted to test for mode of parthenogenesis.
+Note: Part 2 heterozygosity outfiles will not be created.

@@ -1,0 +1,37 @@
+######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 30/11/2023 16:12:56 #########
+
+
+Parameters:
+	Infile = CONDOR-PARTH-TESTS/INFILES/condor-SB260.csv
+	Outfile = CONDOR-PARTH-TESTS/INFILES/condor-SB260.csv
+	Error = 0.01
+
+
+The following are the IDs for the loci at which the mom is homozygous. Loci at which the mom or offspring have missing data are not included.
+If an offspring allele differs from the maternal homozygous genotype, the incongruous maternal allele and offspring allele are printed below the locus.
+
+Please refer to the maternal homozygous loci scan summary output file for summary statistics.
+
+
+Locus: 156A
+
+Locus: D6
+
+Locus: H115
+
+Locus: D126
+
+Locus: D24
+
+Locus: H269
+
+Locus: H238
+
+Locus: H127
+
+Locus: A20
+
+Locus: D9
+

@@ -4,8 +4,8 @@
 ############### See README for info about these files
 
 #store input file names as variables
-ID_pairs=ID_pairs.txt
-genotypes=genotypes.csv
+ID_pairs=ID_pairs.txt    #file containing the names of the mom/offspring pairs
+genotypes=genotypes.csv  #file containing genotypes for the individuals in the pairs
 
 #extract offspring IDs (no header/case insensitive) and write to a temporary file
 cut -f 1 $ID_pairs | grep -v -i OFFSPRING_ID > offspring_list

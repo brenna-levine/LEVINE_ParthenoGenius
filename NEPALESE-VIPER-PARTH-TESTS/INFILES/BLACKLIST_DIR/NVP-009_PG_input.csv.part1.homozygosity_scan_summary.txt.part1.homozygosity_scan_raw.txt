@@ -1,0 +1,17 @@
+######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 30/11/2023 14:27:12 #########
+
+
+Parameters:
+	Infile = NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR/NVP-009_PG_input.csv.part1.homozygosity_scan_summary.txt
+	Outfile = NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR/NVP-009_PG_input.csv.part1.homozygosity_scan_summary.txt
+	Error = 0.01
+
+
+The following are the IDs for the loci at which the mom is homozygous. Loci at which the mom or offspring have missing data are not included.
+If an offspring allele differs from the maternal homozygous genotype, the incongruous maternal allele and offspring allele are printed below the locus.
+
+Please refer to the maternal homozygous loci scan summary output file for summary statistics.
+
+

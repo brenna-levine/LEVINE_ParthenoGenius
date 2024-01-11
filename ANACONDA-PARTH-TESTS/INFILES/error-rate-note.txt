@@ -1,1 +1,0 @@
-Note: used genotyping error rate of 0.01 (assumed in msat simulations by Kalinowski et al. 2007 - "Revising how the computer program CERVUS accomodates genotyping error increases success in paternity assignment")

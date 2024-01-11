@@ -1,16 +1,15 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 03/03/2023 16:10:49 #########
+######## Data generated: (D/M/Y) 30/11/2023 15:27:48 #########
 
 
 Parameters:
-	Infile = BEADED-LIZARD-PARTH-TESTS/GBL-18-R005_PG_input.csv
-	Outfile = BEADED-LIZARD-PARTH-TESTS/GBL-18-R005_PG_input.csv
+	Infile = BEADED-LIZARD-PARTH-TESTS/INFILES/GBL-18-R005_PG_input.csv
+	Outfile = BEADED-LIZARD-PARTH-TESTS/INFILES/GBL-18-R005_PG_input.csv
 	Error = 0.01
-	Het_Scan = 0
 
 
-The following are the IDs for the loci at which the mom is homozygous.
+The following are the IDs for the loci at which the mom is homozygous. Loci at which the mom or offspring have missing data are not included.
 If an offspring allele differs from the maternal homozygous genotype, the incongruous maternal allele and offspring allele are printed below the locus.
 
 Please refer to the maternal homozygous loci scan summary output file for summary statistics.
