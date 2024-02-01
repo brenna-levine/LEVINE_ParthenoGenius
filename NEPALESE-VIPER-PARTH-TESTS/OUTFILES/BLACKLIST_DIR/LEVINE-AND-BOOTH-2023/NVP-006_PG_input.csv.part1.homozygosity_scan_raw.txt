@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 14:27:02 #########
+######## Data generated: (D/M/Y) 26/01/2024 13:45:01 #########
 
 
 Parameters:
-	Infile = NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR/NVP-003_PG_input.csv
-	Outfile = NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR/NVP-003_PG_input.csv
+	Infile = NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR/NVP-006_PG_input.csv
+	Outfile = NEPALESE-VIPER-PARTH-TESTS/INFILES/BLACKLIST_DIR/NVP-006_PG_input.csv
 	Error = 0.01
 
 
@@ -21,13 +21,21 @@ Locus: 29_34
 
 Locus: 49_18
 
-Locus: 51_135
-
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
+Locus: 51_135
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 2
+
 Locus: 54_94
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 65_161
 
@@ -35,13 +43,13 @@ Locus: 76_144
 
 Locus: 85_50
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 94_28
 
 Locus: 97_83
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 112_12
 
@@ -50,10 +58,6 @@ Locus: 112_12
 	Offspring allele 2: 4
 
 Locus: 114_94
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 124_50
 
@@ -67,10 +71,6 @@ Locus: 148_94
 
 Locus: 179_178
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 187_214
 
 	Mom homozygous allele: 2
@@ -82,10 +82,6 @@ Locus: 199_133
 Locus: 203_75
 
 Locus: 206_6
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 228_58
 
@@ -99,11 +95,11 @@ Locus: 244_75
 
 Locus: 258_93
 
-Locus: 259_19
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 2
-	Offspring allele 2: 2
+Locus: 259_19
 
 Locus: 290_28
 
@@ -113,21 +109,9 @@ Locus: 341_186
 
 Locus: 342_62
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 344_38
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 370_109
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 2
 
 Locus: 372_21
 
@@ -145,15 +129,19 @@ Locus: 408_93
 
 Locus: 418_93
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 432_41
 
 Locus: 473_60
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 493_59
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 500_137
 
@@ -165,9 +153,17 @@ Locus: 522_86
 
 Locus: 557_58
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 568_203
 
 Locus: 613_199
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 624_14
 
@@ -175,9 +171,21 @@ Locus: 682_68
 
 Locus: 723_138
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 729_27
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 749_162
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 758_129
 
@@ -191,37 +199,37 @@ Locus: 778_19
 
 Locus: 782_93
 
+Locus: 783_55
+
+Locus: 787_49
+
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
-Locus: 783_55
+Locus: 801_205
 
-	Mom homozygous allele: 2
+	Mom homozygous allele: 4
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
-Locus: 787_49
-
-Locus: 801_205
-
 Locus: 827_116
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 831_46
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 834_115
 
 Locus: 840_93
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 843_157
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 844_23
 
@@ -231,6 +239,10 @@ Locus: 844_23
 
 Locus: 848_51
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 849_41
 
 	Mom homozygous allele: 3
@@ -239,10 +251,6 @@ Locus: 849_41
 
 Locus: 858_28
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 865_93
 
 Locus: 885_47
@@ -250,6 +258,10 @@ Locus: 885_47
 Locus: 890_57
 
 Locus: 892_118
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 895_24
 
@@ -263,19 +275,27 @@ Locus: 934_40
 
 Locus: 942_169
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 943_15
 
 Locus: 951_38
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 954_120
 
 Locus: 958_13
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 963_7
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 966_172
 
@@ -289,10 +309,6 @@ Locus: 983_94
 
 Locus: 990_94
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 992_78
 
 Locus: 1002_176
@@ -305,10 +321,6 @@ Locus: 1005_82
 
 Locus: 1008_14
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 1019_52
 
 Locus: 1027_64
@@ -319,7 +331,7 @@ Locus: 1069_158
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 1071_18
 
@@ -341,21 +353,13 @@ Locus: 1108_93
 
 Locus: 1114_29
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 1140_41
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 1165_2
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 2
+	Offspring allele 2: 4
 
 Locus: 1168_5
 
@@ -385,9 +389,21 @@ Locus: 1233_28
 
 Locus: 1241_78
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 1244_67
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 1245_152
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 1280_48
 
@@ -407,17 +423,29 @@ Locus: 1371_202
 
 Locus: 1405_36
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 1420_94
 
 Locus: 1421_136
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 1422_156
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 1429_76
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 1431_31
 
@@ -436,6 +464,10 @@ Locus: 1455_28
 Locus: 1462_57
 
 Locus: 1470_82
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 1473_94
 
@@ -459,6 +491,10 @@ Locus: 1515_93
 
 Locus: 1518_149
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 1542_112
 
 	Mom homozygous allele: 4
@@ -469,7 +505,7 @@ Locus: 1565_93
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 1
-	Offspring allele 2: 4
+	Offspring allele 2: 1
 
 Locus: 1567_93
 
@@ -477,29 +513,21 @@ Locus: 1571_71
 
 Locus: 1600_87
 
-Locus: 1614_22
-
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
+Locus: 1614_22
+
 Locus: 1619_158
 
 Locus: 1625_148
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 1635_43
 
 Locus: 1639_94
 
 Locus: 1665_129
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 1677_59
 
@@ -508,6 +536,10 @@ Locus: 1677_59
 	Offspring allele 2: 4
 
 Locus: 1679_65
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 1702_145
 
@@ -525,15 +557,27 @@ Locus: 1743_179
 
 Locus: 1767_29
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 1802_129
 
 Locus: 1803_93
 
 Locus: 1813_121
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 1814_22
 
 Locus: 1867_112
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 1868_47
 
@@ -547,13 +591,17 @@ Locus: 1879_36
 
 Locus: 1881_54
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 1884_94
 
-Locus: 1934_122
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 1934_122
 
 Locus: 1936_200
 
@@ -565,11 +613,11 @@ Locus: 1996_43
 
 Locus: 2007_94
 
+Locus: 2025_54
+
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
-	Offspring allele 2: 3
-
-Locus: 2025_54
+	Offspring allele 2: 2
 
 Locus: 2104_140
 
@@ -583,34 +631,38 @@ Locus: 2151_149
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 2158_142
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 2179_188
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 2180_22
 
 Locus: 2197_201
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 2198_146
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 2199_109
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 2247_110
 
 Locus: 2434_109
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 2505_189
@@ -619,9 +671,17 @@ Locus: 2542_66
 
 Locus: 2565_122
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 2583_5
 
 Locus: 2609_123
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 2639_179
 
@@ -630,7 +690,7 @@ Locus: 2640_12
 Locus: 2650_79
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 2788_72
@@ -648,30 +708,34 @@ Locus: 3071_32
 Locus: 3252_30
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 3339_31
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 3616_131
 
 Locus: 3676_13
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 3683_70
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 3723_120
 
 Locus: 3805_178
 
 Locus: 3868_50
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
 
 Locus: 3882_66
 
@@ -680,6 +744,10 @@ Locus: 3930_134
 Locus: 3941_148
 
 Locus: 3948_39
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 3952_128
 
@@ -703,27 +771,31 @@ Locus: 4086_9
 
 Locus: 4102_58
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 4155_44
 
 	Mom homozygous allele: 3
-	Offspring allele 1: 3
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 4186_77
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 4190_44
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 4208_52
 
-Locus: 4211_62
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
 	Offspring allele 2: 4
+
+Locus: 4211_62
 
 Locus: 4219_131
 
@@ -749,15 +821,7 @@ Locus: 4328_152
 
 Locus: 4419_124
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 4477_136
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 4483_12
 
@@ -765,19 +829,27 @@ Locus: 4529_40
 
 Locus: 4565_6
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 4600_159
 
 Locus: 4613_58
 
 Locus: 4639_31
 
-Locus: 4646_72
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-Locus: 4698_47
+Locus: 4646_72
 
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 4698_47
 
 Locus: 4743_198
 
@@ -787,43 +859,59 @@ Locus: 4852_114
 
 Locus: 4872_82
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 4916_164
 
 Locus: 4927_17
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 4934_89
 
 Locus: 4948_62
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 4980_113
 
 Locus: 4984_91
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 5011_113
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 5028_15
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 5069_90
 
 Locus: 5083_42
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 5127_137
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 5176_124
 
 Locus: 5185_148
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 5192_62
 
@@ -845,6 +933,10 @@ Locus: 5376_69
 
 Locus: 5387_122
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 5407_10
 
 Locus: 5430_125
@@ -863,17 +955,25 @@ Locus: 5443_179
 
 Locus: 5486_160
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 5497_66
 
 Locus: 5509_71
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 5586_43
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 5607_90
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 5610_195
 
@@ -887,6 +987,10 @@ Locus: 5697_54
 
 Locus: 5730_21
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 5734_47
 
 Locus: 5744_91
@@ -894,7 +998,7 @@ Locus: 5744_91
 Locus: 5782_107
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 5800_48
@@ -903,27 +1007,19 @@ Locus: 5847_182
 
 Locus: 5868_41
 
-Locus: 5894_162
-
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 5894_162
 
 Locus: 5895_175
 
 Locus: 5907_76
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-
 Locus: 5940_171
 
 Locus: 5984_77
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 5991_109
 
@@ -941,10 +1037,6 @@ Locus: 6022_75
 
 Locus: 6037_184
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 6061_45
 
 	Mom homozygous allele: 1
@@ -953,21 +1045,25 @@ Locus: 6061_45
 
 Locus: 6067_139
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 6095_29
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 6099_44
 
 Locus: 6114_150
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 6118_45
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 1
-	Offspring allele 2: 2
+	Offspring allele 2: 1
 
 Locus: 6119_189
 
@@ -987,11 +1083,15 @@ Locus: 6292_7
 
 Locus: 6344_75
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 6359_196
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 6398_10
 
@@ -1030,7 +1130,7 @@ Locus: 6696_112
 Locus: 6711_147
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 6742_162
@@ -1039,7 +1139,15 @@ Locus: 6834_92
 
 Locus: 6891_206
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 6902_117
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 6913_38
 
@@ -1053,25 +1161,17 @@ Locus: 6935_122
 
 Locus: 7045_23
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 7076_174
 
 Locus: 7123_11
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 7129_12
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 7137_42
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 7138_60
 
@@ -1085,11 +1185,11 @@ Locus: 7171_79
 
 Locus: 7199_50
 
-Locus: 7207_28
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 7207_28
 
 Locus: 7209_139
 
@@ -1107,6 +1207,10 @@ Locus: 7268_24
 
 Locus: 7269_75
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 7283_27
 
 Locus: 7293_188
@@ -1122,10 +1226,6 @@ Locus: 7294_26
 	Offspring allele 2: 3
 
 Locus: 7328_18
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 7418_193
 
@@ -1147,17 +1247,9 @@ Locus: 7448_168
 
 Locus: 7451_15
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 7476_73
 
 Locus: 7478_200
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
 
 Locus: 7511_78
 
@@ -1171,25 +1263,17 @@ Locus: 7585_50
 
 Locus: 7605_13
 
-Locus: 7660_185
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
-Locus: 7671_149
-
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 7660_185
+
+Locus: 7671_149
 
 Locus: 7672_124
 
 Locus: 7675_51
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 7679_94
 
@@ -1199,17 +1283,21 @@ Locus: 7679_94
 
 Locus: 7681_11
 
-Locus: 7694_73
-
-	Mom homozygous allele: 3
+	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 7694_73
 
 Locus: 7724_8
 
 Locus: 7764_127
 
 Locus: 7788_12
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 7859_71
 
@@ -1219,13 +1307,29 @@ Locus: 7867_135
 
 Locus: 7897_69
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 7925_81
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 7940_63
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 7944_119
 
 Locus: 7954_61
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 7992_21
 
@@ -1240,10 +1344,6 @@ Locus: 8050_32
 	Offspring allele 2: 4
 
 Locus: 8102_190
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 8122_32
 
@@ -1289,15 +1389,7 @@ Locus: 8495_91
 
 Locus: 8502_14
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 8559_200
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 8619_19
 
@@ -1315,9 +1407,17 @@ Locus: 8634_24
 
 Locus: 8653_185
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 8659_162
 
 Locus: 8663_58
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 8670_74
 
@@ -1329,27 +1429,35 @@ Locus: 8680_83
 
 Locus: 8693_108
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 8791_23
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 8859_197
 
 Locus: 8869_34
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 8877_165
 
 Locus: 8886_68
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 8929_122
 
 Locus: 8943_87
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 8968_82
 
@@ -1361,35 +1469,35 @@ Locus: 8975_155
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 1
-	Offspring allele 2: 2
+	Offspring allele 2: 1
 
 Locus: 8985_123
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 8995_45
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 9017_109
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 9079_93
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 9111_10
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 9127_123
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 9203_177
 
@@ -1405,15 +1513,15 @@ Locus: 9233_183
 
 Locus: 9246_51
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 9252_135
 
 Locus: 9254_71
 
 Locus: 9257_179
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 9295_130
 
@@ -1421,11 +1529,11 @@ Locus: 9296_126
 
 Locus: 9311_51
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 9316_161
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 9385_149
 
@@ -1443,15 +1551,27 @@ Locus: 9456_174
 
 Locus: 9465_115
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 9488_19
 
 Locus: 9489_186
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 9495_130
 
 Locus: 9532_47
 
 Locus: 9562_113
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 9569_78
 
@@ -1461,9 +1581,21 @@ Locus: 9569_78
 
 Locus: 9662_41
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 9686_143
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 9714_68
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 9748_7
 
@@ -1473,15 +1605,7 @@ Locus: 9748_7
 
 Locus: 9770_145
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 9808_11
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 9839_94
 
@@ -1499,6 +1623,10 @@ Locus: 9957_90
 
 Locus: 9961_31
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 10004_84
 
 Locus: 10053_158
@@ -1513,6 +1641,10 @@ Locus: 10133_152
 
 Locus: 10228_109
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 10258_183
 
 	Mom homozygous allele: 2
@@ -1521,14 +1653,10 @@ Locus: 10258_183
 
 Locus: 10323_183
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 10344_146
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 4
+	Offspring allele 1: 2
 	Offspring allele 2: 4
 
 Locus: 10359_90
@@ -1539,13 +1667,17 @@ Locus: 10359_90
 
 Locus: 10400_55
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 10436_84
 
-	Mom homozygous allele: 2
+Locus: 10466_87
+
+	Mom homozygous allele: 4
 	Offspring allele 1: 2
 	Offspring allele 2: 4
-
-Locus: 10466_87
 
 Locus: 10517_166
 
@@ -1553,13 +1685,29 @@ Locus: 10611_64
 
 Locus: 10634_131
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 10660_46
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 10673_167
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 10717_146
 
 Locus: 10722_164
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 10731_127
 
@@ -1568,10 +1716,6 @@ Locus: 10735_128
 Locus: 10748_119
 
 Locus: 10754_169
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 10767_78
 
@@ -1582,6 +1726,10 @@ Locus: 10767_78
 Locus: 10774_165
 
 Locus: 10792_190
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 10834_12
 
@@ -1595,6 +1743,10 @@ Locus: 10859_48
 
 Locus: 10875_112
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 10943_153
 
 Locus: 11044_177
@@ -1605,13 +1757,25 @@ Locus: 11044_177
 
 Locus: 11056_39
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 11067_55
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 11071_22
 
 Locus: 11079_126
 
 Locus: 11129_39
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 11163_14
 
@@ -1624,6 +1788,10 @@ Locus: 11187_22
 Locus: 11199_184
 
 Locus: 11214_148
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 11229_196
 
@@ -1647,15 +1815,19 @@ Locus: 11425_124
 
 Locus: 11434_30
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 11480_91
 
 Locus: 11490_24
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 11497_166
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 11507_7
 
@@ -1663,7 +1835,15 @@ Locus: 11568_90
 
 Locus: 11576_174
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 11615_156
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 11616_93
 
@@ -1681,6 +1861,10 @@ Locus: 11657_21
 
 Locus: 11666_70
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
+
 Locus: 11686_94
 
 Locus: 11696_154
@@ -1691,31 +1875,39 @@ Locus: 11798_172
 
 Locus: 11807_32
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 11846_122
 
 Locus: 11880_65
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 11881_114
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 11904_129
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 11933_68
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 11955_151
 
 Locus: 12014_14
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 12034_107
 
@@ -1725,6 +1917,10 @@ Locus: 12034_107
 
 Locus: 12038_107
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 12043_44
 
 	Mom homozygous allele: 4
@@ -1733,15 +1929,15 @@ Locus: 12043_44
 
 Locus: 12058_75
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 12065_194
 
 Locus: 12072_86
 
 Locus: 12111_6
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 12190_88
 
@@ -1763,11 +1959,11 @@ Locus: 12229_68
 
 Locus: 12249_175
 
+Locus: 12277_18
+
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
-
-Locus: 12277_18
 
 Locus: 12292_17
 
@@ -1786,14 +1982,10 @@ Locus: 12328_69
 Locus: 12330_120
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 4
+	Offspring allele 1: 2
 	Offspring allele 2: 4
 
 Locus: 12361_185
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 12363_47
 
@@ -1811,37 +2003,53 @@ Locus: 12446_186
 
 Locus: 12448_153
 
-Locus: 12469_82
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
-Locus: 12474_34
+Locus: 12469_82
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 12474_34
 
 Locus: 12519_78
 
 Locus: 12536_17
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 12588_77
 
 Locus: 12598_38
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 12628_39
 
 Locus: 12640_179
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 12641_15
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
 
 Locus: 12655_91
 
 Locus: 12710_17
 
 Locus: 12713_79
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 12714_10
 
@@ -1861,7 +2069,7 @@ Locus: 12878_20
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 12946_137
 
@@ -1878,6 +2086,10 @@ Locus: 12986_22
 Locus: 13016_164
 
 Locus: 13051_74
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 13054_151
 
@@ -1903,19 +2115,23 @@ Locus: 13111_125
 
 Locus: 13116_29
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 13132_68
 
 Locus: 13165_135
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 3
 
 Locus: 13168_41
 
 Locus: 13184_74
 
 Locus: 13227_203
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 13244_23
 
@@ -1935,21 +2151,9 @@ Locus: 13330_37
 
 Locus: 13346_40
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 13361_8
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 13400_121
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
 
 Locus: 13418_11
 
@@ -1965,23 +2169,35 @@ Locus: 13446_17
 
 Locus: 13449_144
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 13476_72
-
-Locus: 13477_150
-
-Locus: 13504_141
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
+Locus: 13477_150
+
+Locus: 13504_141
+
 Locus: 13511_15
 
 Locus: 13519_141
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 13546_146
 
 Locus: 13553_75
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 13596_185
 
@@ -1991,29 +2207,29 @@ Locus: 13694_158
 
 Locus: 13701_181
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 13715_201
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 13738_78
 
-Locus: 13788_165
-
-	Mom homozygous allele: 1
+	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 2
+	Offspring allele 2: 3
+
+Locus: 13788_165
 
 Locus: 13924_61
 
 Locus: 13953_185
 
 Locus: 13963_37
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 13995_91
 
@@ -2025,15 +2241,19 @@ Locus: 14029_139
 
 Locus: 14064_19
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 14076_116
 
 Locus: 14087_27
 
-Locus: 14123_77
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 14123_77
 
 Locus: 14131_43
 
@@ -2051,6 +2271,10 @@ Locus: 14206_57
 
 Locus: 14211_78
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 14219_187
 
 Locus: 14222_133
@@ -2067,13 +2291,9 @@ Locus: 14245_75
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 14261_131
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 14278_8
 
@@ -2093,9 +2313,17 @@ Locus: 14354_84
 
 Locus: 14358_38
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 14374_111
 
 Locus: 14384_65
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 14430_148
 
@@ -2119,30 +2347,18 @@ Locus: 14702_160
 
 Locus: 14703_20
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 14723_122
 
 Locus: 14726_77
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 14733_69
 
 Locus: 14736_10
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 14769_68
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 14793_81
@@ -2152,7 +2368,7 @@ Locus: 14803_51
 Locus: 14820_33
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 14826_31
@@ -2179,6 +2395,10 @@ Locus: 15066_86
 
 Locus: 15068_52
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 15102_39
 
 Locus: 15134_68
@@ -2193,29 +2413,21 @@ Locus: 15170_122
 
 Locus: 15202_18
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 15229_111
 
 Locus: 15237_36
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 15272_58
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
 
 Locus: 15309_84
 
 Locus: 15354_92
 
 Locus: 15416_116
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 15421_19
 
@@ -2224,10 +2436,6 @@ Locus: 15421_19
 	Offspring allele 2: 2
 
 Locus: 15465_83
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 4
-	Offspring allele 2: 4
 
 Locus: 15472_153
 
@@ -2239,17 +2447,25 @@ Locus: 15623_120
 
 Locus: 15637_80
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 15718_25
 
 Locus: 15735_21
 
-Locus: 15744_142
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-Locus: 15750_87
+Locus: 15744_142
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 15750_87
 
 Locus: 15887_77
 
@@ -2267,14 +2483,14 @@ Locus: 16014_142
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 16040_180
 
 Locus: 16053_6
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 2
 	Offspring allele 2: 2
 
 Locus: 16060_22
@@ -2282,10 +2498,6 @@ Locus: 16060_22
 Locus: 16070_74
 
 Locus: 16081_168
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 16088_192
 
@@ -2295,11 +2507,11 @@ Locus: 16088_192
 
 Locus: 16128_9
 
-Locus: 16145_94
-
-	Mom homozygous allele: 3
+	Mom homozygous allele: 2
 	Offspring allele 1: 2
-	Offspring allele 2: 3
+	Offspring allele 2: 4
+
+Locus: 16145_94
 
 Locus: 16178_34
 
@@ -2307,27 +2519,27 @@ Locus: 16210_49
 
 Locus: 16226_194
 
+Locus: 16238_47
+
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
-Locus: 16238_47
-
 Locus: 16293_17
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 16353_84
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 16414_53
 
 Locus: 16430_64
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 16482_41
 
@@ -2337,6 +2549,10 @@ Locus: 16482_41
 
 Locus: 16501_23
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 16524_78
 
 Locus: 16541_133
@@ -2344,6 +2560,10 @@ Locus: 16541_133
 Locus: 16548_194
 
 Locus: 16577_49
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 16629_39
 
@@ -2359,11 +2579,11 @@ Locus: 16631_202
 
 Locus: 16650_154
 
-Locus: 16659_9
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 2
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 16659_9
 
 Locus: 16697_202
 
@@ -2371,11 +2591,11 @@ Locus: 16728_67
 
 Locus: 16745_114
 
-Locus: 16785_24
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
+Locus: 16785_24
 
 Locus: 16798_26
 
@@ -2387,13 +2607,21 @@ Locus: 16885_8
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 16887_202
 
 Locus: 16945_176
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 16958_113
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 17039_154
 
@@ -2405,15 +2633,15 @@ Locus: 17066_164
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 17094_56
 
-Locus: 17179_162
-
-	Mom homozygous allele: 2
+	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 2
+	Offspring allele 2: 3
+
+Locus: 17179_162
 
 Locus: 17255_200
 
@@ -2431,15 +2659,15 @@ Locus: 17373_171
 
 Locus: 17411_183
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 17413_171
 
 Locus: 17418_148
 
 Locus: 17436_200
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 17445_27
 
@@ -2448,10 +2676,6 @@ Locus: 17445_27
 	Offspring allele 2: 4
 
 Locus: 17446_38
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 17461_8
 
@@ -2475,15 +2699,15 @@ Locus: 17582_110
 
 Locus: 17602_197
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 17603_160
 
 Locus: 17610_117
 
 Locus: 17642_185
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 17653_113
 
@@ -2492,6 +2716,10 @@ Locus: 17675_151
 Locus: 17740_107
 
 Locus: 17757_171
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 17817_161
 
@@ -2513,47 +2741,43 @@ Locus: 17924_52
 
 Locus: 17926_10
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 17936_112
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
 
 Locus: 17951_202
 
 Locus: 17985_89
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 17991_169
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 18013_45
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 18030_199
 
 Locus: 18031_82
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 18049_55
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 18067_88
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 18086_31
 
 Locus: 18095_195
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 18152_123
 
@@ -2573,9 +2797,21 @@ Locus: 18263_24
 
 Locus: 18301_113
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 18379_50
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 18391_6
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 18406_84
 
@@ -2587,17 +2823,17 @@ Locus: 18480_63
 
 Locus: 18487_118
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 18497_44
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 18510_17
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 18513_146
 
@@ -2607,15 +2843,27 @@ Locus: 18513_146
 
 Locus: 18521_33
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 18537_91
 
 Locus: 18549_137
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 18558_62
 
 Locus: 18577_121
 
 Locus: 18594_11
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 18602_20
 
@@ -2637,11 +2885,23 @@ Locus: 18676_146
 
 Locus: 18683_177
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 18700_41
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 18712_126
 
 Locus: 18775_203
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 18784_59
 
@@ -2649,11 +2909,11 @@ Locus: 18789_163
 
 Locus: 18795_13
 
-Locus: 18829_92
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
+Locus: 18829_92
 
 Locus: 18847_179
 
@@ -2663,33 +2923,21 @@ Locus: 18880_113
 
 Locus: 18899_25
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 18924_67
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 18926_57
 
 Locus: 18966_52
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 18976_81
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 18978_86
 
 Locus: 18981_131
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
 
 Locus: 18984_26
 
@@ -2703,15 +2951,19 @@ Locus: 18987_29
 
 Locus: 19072_29
 
-Locus: 19075_178
-
-	Mom homozygous allele: 3
+	Mom homozygous allele: 2
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 2
+
+Locus: 19075_178
 
 Locus: 19095_113
 
 Locus: 19160_118
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 19192_137
 
@@ -2721,10 +2973,14 @@ Locus: 19192_137
 
 Locus: 19198_204
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 19200_121
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 19215_181
@@ -2735,35 +2991,47 @@ Locus: 19250_9
 
 Locus: 19271_27
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 19311_198
 
 Locus: 19333_87
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 3
-	Offspring allele 2: 4
-
 Locus: 19384_28
-
-Locus: 19404_44
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
-Locus: 19406_161
-
-Locus: 19445_79
 
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
+Locus: 19404_44
+
+Locus: 19406_161
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 19445_79
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 3
+
 Locus: 19461_189
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 19477_36
 
 Locus: 19497_46
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 19505_36
 
@@ -2777,13 +3045,13 @@ Locus: 19636_121
 
 Locus: 19639_66
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 19647_53
 
 Locus: 19694_177
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 19697_90
 
@@ -2793,15 +3061,15 @@ Locus: 19697_90
 
 Locus: 19712_203
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 19736_42
 
 Locus: 19795_128
 
 Locus: 19804_187
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 19810_28
 
@@ -2812,6 +3080,10 @@ Locus: 19929_72
 Locus: 19934_34
 
 Locus: 19938_60
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 19954_136
 
@@ -2825,15 +3097,19 @@ Locus: 20121_70
 
 Locus: 20142_168
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 20175_111
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 20226_82
 
 Locus: 20232_77
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 20237_138
 
@@ -2849,19 +3125,15 @@ Locus: 20284_157
 
 Locus: 20287_47
 
-Locus: 20333_27
-
 	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 20333_27
 
 Locus: 20334_184
 
 Locus: 20345_189
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 20368_75
 
@@ -2869,19 +3141,15 @@ Locus: 20384_176
 
 Locus: 20385_12
 
-Locus: 20414_190
-
-	Mom homozygous allele: 3
+	Mom homozygous allele: 1
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 2
+
+Locus: 20414_190
 
 Locus: 20429_81
 
 Locus: 20448_27
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 20456_169
 
@@ -2889,7 +3157,7 @@ Locus: 20464_180
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 20529_77
 
@@ -2899,11 +3167,11 @@ Locus: 20529_77
 
 Locus: 20539_30
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 20596_111
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 20607_15
 
@@ -2931,21 +3199,37 @@ Locus: 20686_64
 
 Locus: 20688_183
 
-Locus: 20701_20
-
 	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 4
+
+Locus: 20701_20
 
 Locus: 20722_91
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 20723_27
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 20738_116
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 20757_81
 
 Locus: 20766_66
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 20780_49
 
@@ -2957,6 +3241,10 @@ Locus: 20799_184
 
 Locus: 20800_25
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 20844_43
 
 Locus: 20872_21
@@ -2967,11 +3255,11 @@ Locus: 20885_159
 
 Locus: 20919_180
 
-Locus: 20921_67
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
+Locus: 20921_67
 
 Locus: 20929_9
 
@@ -2988,14 +3276,10 @@ Locus: 21100_53
 Locus: 21106_161
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 2
 	Offspring allele 2: 2
 
 Locus: 21140_178
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 21189_6
 
@@ -3006,6 +3290,10 @@ Locus: 21216_44
 Locus: 21248_171
 
 Locus: 21263_87
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 21264_20
 
@@ -3029,9 +3317,17 @@ Locus: 21291_91
 
 Locus: 21293_30
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 21332_84
 
 Locus: 21363_141
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 21367_200
 
@@ -3041,6 +3337,10 @@ Locus: 21385_92
 
 Locus: 21392_187
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 21400_109
 
 	Mom homozygous allele: 1
@@ -3049,13 +3349,13 @@ Locus: 21400_109
 
 Locus: 21405_185
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 21446_5
 
 Locus: 21501_169
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 21539_30
 
@@ -3071,13 +3371,25 @@ Locus: 21562_139
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 21574_39
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 2
+
 Locus: 21575_23
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 21606_79
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 21616_59
 
@@ -3089,7 +3401,7 @@ Locus: 21737_12
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 21776_199
 
@@ -3103,7 +3415,7 @@ Locus: 21793_155
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 2
-	Offspring allele 2: 3
+	Offspring allele 2: 2
 
 Locus: 21799_119
 
@@ -3113,15 +3425,19 @@ Locus: 21799_119
 
 Locus: 21824_64
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 21828_141
 
 Locus: 21882_77
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 21892_47
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 21944_53
 
@@ -3137,11 +3453,19 @@ Locus: 21994_30
 
 Locus: 22022_46
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 22028_155
 
 Locus: 22032_162
 
 Locus: 22045_46
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 22050_55
 
@@ -3151,27 +3475,59 @@ Locus: 22075_120
 
 Locus: 22087_126
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 22108_14
 
 Locus: 22117_20
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 2
 
 Locus: 22119_181
 
 Locus: 22120_41
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 22137_34
 
 Locus: 22155_119
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 22159_157
 
 Locus: 22176_109
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 22180_187
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
 
 Locus: 22215_24
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 22230_128
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 22237_64
 
@@ -3183,35 +3539,51 @@ Locus: 22240_32
 
 Locus: 22267_197
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 22283_91
+
+Locus: 22287_196
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
-	Offspring allele 2: 3
-
-Locus: 22287_196
+	Offspring allele 2: 4
 
 Locus: 22290_29
 
 Locus: 22327_167
 
-Locus: 22329_193
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
-Locus: 22335_186
+Locus: 22329_193
 
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
-	Offspring allele 2: 4
+	Offspring allele 2: 3
+
+Locus: 22335_186
 
 Locus: 22376_24
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 22378_157
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 22393_170
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 22406_18
 
@@ -3224,10 +3596,6 @@ Locus: 22426_203
 Locus: 22435_110
 
 Locus: 22442_58
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 22447_154
 
@@ -3247,10 +3615,14 @@ Locus: 22492_35
 
 Locus: 22498_31
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 22503_177
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 22546_81
@@ -3260,10 +3632,6 @@ Locus: 22549_18
 Locus: 22576_199
 
 Locus: 22602_12
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 22660_8
 
@@ -3289,10 +3657,6 @@ Locus: 22783_201
 
 Locus: 22856_154
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 22860_29
 
 	Mom homozygous allele: 2
@@ -3302,7 +3666,7 @@ Locus: 22860_29
 Locus: 22861_67
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 22867_174
@@ -3321,6 +3685,10 @@ Locus: 22920_48
 
 Locus: 23014_141
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 23016_79
 
 Locus: 23026_157
@@ -3337,7 +3705,7 @@ Locus: 23047_53
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 23052_201
 
@@ -3345,15 +3713,15 @@ Locus: 23058_128
 
 Locus: 23093_192
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 23116_137
 
 Locus: 23126_63
 
 Locus: 23144_30
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 23151_65
 
@@ -3361,11 +3729,15 @@ Locus: 23168_31
 
 Locus: 23183_202
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 23184_120
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 23188_132
 
@@ -3395,20 +3767,16 @@ Locus: 23299_15
 
 Locus: 23316_188
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 23322_131
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 23329_178
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 23335_25
@@ -3423,23 +3791,27 @@ Locus: 23343_16
 
 Locus: 23344_159
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 23370_29
 
 Locus: 23380_53
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 23412_127
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 23424_76
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 23426_8
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 23447_58
 
@@ -3456,14 +3828,22 @@ Locus: 23554_191
 Locus: 23573_169
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 23588_131
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 23599_110
 
 Locus: 23618_83
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 4
 
 Locus: 23640_66
 
@@ -3476,10 +3856,6 @@ Locus: 23697_137
 Locus: 23715_65
 
 Locus: 23726_175
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 23743_68
 
@@ -3498,16 +3874,16 @@ Locus: 23819_31
 Locus: 23821_48
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 23878_56
 
-Locus: 23896_69
-
-	Mom homozygous allele: 1
+	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 23896_69
 
 Locus: 23897_90
 
@@ -3517,11 +3893,19 @@ Locus: 23972_47
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 1
-	Offspring allele 2: 2
+	Offspring allele 2: 1
 
 Locus: 23997_144
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 24002_159
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 24038_16
 
@@ -3541,17 +3925,29 @@ Locus: 24149_43
 
 Locus: 24169_13
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 24197_39
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 24202_37
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 24255_133
 
 Locus: 24258_50
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 24261_113
 
@@ -3561,31 +3957,23 @@ Locus: 24261_113
 
 Locus: 24262_38
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 24270_113
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 24311_54
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 24316_178
 
 Locus: 24329_202
 
-Locus: 24344_167
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
+Locus: 24344_167
 
 Locus: 24378_113
 
@@ -3593,15 +3981,7 @@ Locus: 24394_196
 
 Locus: 24416_159
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 24419_30
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 24420_25
 
@@ -3617,11 +3997,11 @@ Locus: 24472_127
 
 Locus: 24480_171
 
-Locus: 24485_138
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 24485_138
 
 Locus: 24493_31
 
@@ -3637,6 +4017,10 @@ Locus: 24563_187
 
 Locus: 24602_122
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 24642_158
 
 	Mom homozygous allele: 3
@@ -3647,19 +4031,27 @@ Locus: 24685_79
 
 Locus: 24694_25
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 24697_63
 
 Locus: 24699_59
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 24739_171
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 24759_119
 
 Locus: 24782_77
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 3
 
 Locus: 24799_43
 
@@ -3671,7 +4063,7 @@ Locus: 24817_16
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 24841_160
 
@@ -3681,23 +4073,31 @@ Locus: 24864_146
 
 Locus: 24887_159
 
-Locus: 24910_91
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
+Locus: 24910_91
 
 Locus: 24932_147
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 24939_185
 
 Locus: 24949_194
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 4
+	Offspring allele 2: 4
+
 Locus: 24977_68
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 25015_54
 
@@ -3719,21 +4119,25 @@ Locus: 25051_84
 
 Locus: 25053_121
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 25056_6
 
 Locus: 25060_55
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 25073_15
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 4
+	Offspring allele 1: 2
 	Offspring allele 2: 4
 
 Locus: 25090_23
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 25091_82
 
@@ -3771,19 +4175,19 @@ Locus: 25278_72
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 25297_111
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
 
 Locus: 25300_144
 
 Locus: 25341_52
 
 Locus: 25344_153
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 25371_59
 
@@ -3795,13 +4199,17 @@ Locus: 25382_31
 
 Locus: 25408_38
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 25414_64
 
 Locus: 25421_145
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 25438_144
 
@@ -3809,33 +4217,41 @@ Locus: 25482_186
 
 Locus: 25493_188
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 25501_141
 
 Locus: 25533_61
 
 Locus: 25544_76
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 25551_112
-
-Locus: 25554_146
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
+Locus: 25554_146
+
 Locus: 25610_69
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 25617_49
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 25619_125
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 25628_193
 
@@ -3850,10 +4266,6 @@ Locus: 25644_135
 Locus: 25650_39
 
 Locus: 25701_145
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 25703_20
 
@@ -3873,17 +4285,21 @@ Locus: 25760_111
 
 Locus: 25774_62
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 25800_35
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 25803_76
 
 Locus: 25819_14
 
 Locus: 25831_61
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 25836_61
 
@@ -3895,19 +4311,27 @@ Locus: 25852_129
 
 Locus: 25857_170
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 25860_168
 
 Locus: 25863_60
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 25875_155
 
 Locus: 25884_79
 
-Locus: 25892_34
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
+Locus: 25892_34
 
 Locus: 25895_138
 
@@ -3919,6 +4343,10 @@ Locus: 25956_119
 
 Locus: 25967_54
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 25997_111
 
 	Mom homozygous allele: 3
@@ -3928,6 +4356,10 @@ Locus: 25997_111
 Locus: 26001_62
 
 Locus: 26008_157
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 26013_199
 
@@ -3953,15 +4385,23 @@ Locus: 26179_183
 
 Locus: 26189_36
 
-Locus: 26203_195
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
-Locus: 26216_21
+Locus: 26203_195
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
+Locus: 26216_21
+
 Locus: 26225_157
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 26228_31
 
@@ -3973,7 +4413,15 @@ Locus: 26238_194
 
 Locus: 26245_161
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 26246_84
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 26250_133
 
@@ -4005,9 +4453,17 @@ Locus: 26330_54
 
 Locus: 26336_67
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 26384_38
 
 Locus: 26390_177
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 26409_91
 
@@ -4019,15 +4475,19 @@ Locus: 26466_50
 
 Locus: 26469_184
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 26490_85
 
 Locus: 26514_41
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 26525_71
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 26527_65
 
@@ -4037,15 +4497,19 @@ Locus: 26569_185
 
 Locus: 26592_50
 
-Locus: 26599_6
-
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
+Locus: 26599_6
+
 Locus: 26639_18
 
 Locus: 26700_25
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 26701_61
 
@@ -4057,10 +4521,6 @@ Locus: 26702_80
 
 Locus: 26745_107
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 26761_16
 
 	Mom homozygous allele: 3
@@ -4068,10 +4528,6 @@ Locus: 26761_16
 	Offspring allele 2: 3
 
 Locus: 26795_193
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 26808_127
 
@@ -4083,21 +4539,17 @@ Locus: 26827_32
 
 Locus: 26831_114
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-
 Locus: 26852_49
 
 Locus: 26866_46
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 26874_174
 
 Locus: 26896_59
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
 
 Locus: 26909_32
 
@@ -4113,19 +4565,11 @@ Locus: 26991_193
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 2
-	Offspring allele 2: 3
+	Offspring allele 2: 2
 
 Locus: 27003_42
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 27021_156
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 2
-	Offspring allele 2: 2
 
 Locus: 27035_138
 
@@ -4137,29 +4581,21 @@ Locus: 27094_142
 
 Locus: 27119_11
 
-Locus: 27146_175
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
-Locus: 27149_154
-
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
+Locus: 27146_175
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
+
+Locus: 27149_154
+
 Locus: 27150_19
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 27162_82
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 2
 
 Locus: 27210_84
 
@@ -4170,6 +4606,10 @@ Locus: 27210_84
 Locus: 27217_72
 
 Locus: 27264_13
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 27266_161
 
@@ -4189,6 +4629,10 @@ Locus: 27321_201
 
 Locus: 27338_175
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 27355_56
 
 Locus: 27377_107
@@ -4197,13 +4641,21 @@ Locus: 27417_25
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 1
-	Offspring allele 2: 4
+	Offspring allele 2: 1
 
 Locus: 27423_64
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 27461_119
 
 Locus: 27465_195
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 27473_188
 
@@ -4211,41 +4663,37 @@ Locus: 27495_20
 
 Locus: 27499_92
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 27506_90
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 27519_70
 
 Locus: 27559_90
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 27590_26
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 27616_58
 
 Locus: 27617_6
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 27682_84
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
-
 Locus: 27704_174
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 27706_104
 
@@ -4253,33 +4701,37 @@ Locus: 27721_21
 
 Locus: 27729_79
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 27741_150
 
 Locus: 27759_50
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 27761_6
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 27763_114
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 27764_107
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 1
-	Offspring allele 2: 1
+	Offspring allele 2: 2
 
 Locus: 27777_63
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 27778_71
 
@@ -4293,10 +4745,6 @@ Locus: 27813_82
 
 Locus: 27817_78
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 27819_197
 
 	Mom homozygous allele: 3
@@ -4305,30 +4753,30 @@ Locus: 27819_197
 
 Locus: 27823_144
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 27835_36
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+
+Locus: 27856_164
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 27857_112
+
+Locus: 27879_92
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
-Locus: 27856_164
-
-Locus: 27857_112
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
-Locus: 27879_92
-
 Locus: 27889_86
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 27890_10
@@ -4337,11 +4785,11 @@ Locus: 27895_200
 
 Locus: 27924_25
 
-Locus: 27944_124
-
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 27944_124
 
 Locus: 27953_178
 
@@ -4356,13 +4804,13 @@ Locus: 27990_121
 Locus: 28001_5
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 28002_36
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 28003_29
@@ -4387,6 +4835,10 @@ Locus: 28059_115
 
 Locus: 28071_92
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 28091_136
 
 	Mom homozygous allele: 2
@@ -4395,17 +4847,21 @@ Locus: 28091_136
 
 Locus: 28097_166
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 28115_129
 
 Locus: 28132_176
 
 Locus: 28164_55
 
-	Mom homozygous allele: 2
+Locus: 28178_29
+
+	Mom homozygous allele: 4
 	Offspring allele 1: 2
 	Offspring allele 2: 4
-
-Locus: 28178_29
 
 Locus: 28209_54
 
@@ -4414,14 +4870,10 @@ Locus: 28215_193
 Locus: 28228_128
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 28236_33
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 28243_88
 
@@ -4433,15 +4885,7 @@ Locus: 28273_170
 
 Locus: 28282_41
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 28317_136
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
 
 Locus: 28325_136
 
@@ -4449,11 +4893,23 @@ Locus: 28358_142
 
 Locus: 28370_63
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 28384_33
 
 Locus: 28397_11
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 28405_196
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 28416_185
 
@@ -4461,13 +4917,25 @@ Locus: 28423_67
 
 Locus: 28429_197
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 28432_48
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 28436_46
 
 Locus: 28456_16
 
 Locus: 28460_22
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 28463_139
 
@@ -4483,10 +4951,6 @@ Locus: 28469_113
 
 Locus: 28477_203
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 28516_65
 
 Locus: 28517_155
@@ -4496,10 +4960,6 @@ Locus: 28517_155
 	Offspring allele 2: 3
 
 Locus: 28527_187
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 28536_188
 
@@ -4519,10 +4979,6 @@ Locus: 28623_148
 
 Locus: 28654_189
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 28665_205
 
 Locus: 28677_39
@@ -4532,6 +4988,10 @@ Locus: 28723_87
 Locus: 28750_175
 
 Locus: 28760_168
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 28774_189
 
@@ -4543,19 +5003,19 @@ Locus: 28775_123
 
 Locus: 28778_68
 
-Locus: 28780_36
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
-Locus: 28786_116
+Locus: 28780_36
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
-Locus: 28801_142
+Locus: 28786_116
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 28801_142
 
 Locus: 28827_79
 
@@ -4573,22 +5033,18 @@ Locus: 28857_82
 
 Locus: 28859_157
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 28870_160
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 28873_37
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 28887_63
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 28925_65
@@ -4601,9 +5057,13 @@ Locus: 28998_17
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 29016_13
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 29019_53
 
@@ -4613,11 +5073,11 @@ Locus: 29019_53
 
 Locus: 29020_112
 
-	Mom homozygous allele: 1
+Locus: 29029_195
+
+	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
-
-Locus: 29029_195
 
 Locus: 29031_168
 
@@ -4635,9 +5095,17 @@ Locus: 29112_62
 
 Locus: 29133_44
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 29153_133
 
 Locus: 29167_24
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 29188_12
 
@@ -4651,11 +5119,11 @@ Locus: 29196_87
 
 Locus: 29211_175
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 29226_44
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 29231_7
 
@@ -4667,7 +5135,7 @@ Locus: 29233_199
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 2
-	Offspring allele 2: 2
+	Offspring allele 2: 3
 
 Locus: 29260_187
 
@@ -4683,17 +5151,29 @@ Locus: 29286_110
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 29291_163
 
 Locus: 29293_37
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 29342_144
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 29386_176
 
 Locus: 29394_70
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 29420_202
 
@@ -4701,23 +5181,19 @@ Locus: 29453_81
 
 Locus: 29457_10
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 29461_10
 
 Locus: 29475_23
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 29481_118
 
 Locus: 29485_83
 
 Locus: 29556_21
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 29565_176
 
@@ -4749,6 +5225,10 @@ Locus: 29741_22
 
 Locus: 29748_121
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 29770_196
 
 	Mom homozygous allele: 3
@@ -4759,17 +5239,21 @@ Locus: 29805_15
 
 Locus: 29841_50
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 29857_170
 
 Locus: 29902_150
 
 Locus: 29918_65
 
-Locus: 29960_20
-
-	Mom homozygous allele: 4
+	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 29960_20
 
 Locus: 29976_138
 
@@ -4779,11 +5263,11 @@ Locus: 29978_188
 
 Locus: 29982_69
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 30007_205
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 30009_11
 
@@ -4791,21 +5275,33 @@ Locus: 30016_72
 
 Locus: 30045_184
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 30046_39
 
 Locus: 30047_143
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 30078_39
 
 Locus: 30088_13
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 30106_217
 
 Locus: 30114_139
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 30139_196
 
@@ -4813,11 +5309,11 @@ Locus: 30141_51
 
 Locus: 30183_51
 
-Locus: 30186_64
-
-	Mom homozygous allele: 3
+	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 30186_64
 
 Locus: 30191_70
 
@@ -4829,7 +5325,15 @@ Locus: 30196_144
 
 Locus: 30198_125
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 30209_56
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 30215_125
 
@@ -4841,9 +5345,13 @@ Locus: 30222_157
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 30232_199
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
 
 Locus: 30243_14
 
@@ -4861,17 +5369,25 @@ Locus: 30283_69
 
 Locus: 30286_136
 
-Locus: 30298_126
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
+Locus: 30298_126
 
 Locus: 30303_6
 
 Locus: 30305_196
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 30331_5
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 2
 
 Locus: 30350_37
 
@@ -4881,9 +5397,21 @@ Locus: 30414_109
 
 Locus: 30417_155
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 30435_171
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 30450_54
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 30451_202
 
@@ -4893,11 +5421,11 @@ Locus: 30476_57
 
 Locus: 30480_41
 
-Locus: 30494_122
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 30494_122
 
 Locus: 30497_140
 
@@ -4911,23 +5439,23 @@ Locus: 30577_162
 
 Locus: 30583_52
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 30631_25
 
 Locus: 30641_6
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 30645_199
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 30648_75
 
 Locus: 30655_86
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 30672_149
 
@@ -4939,7 +5467,15 @@ Locus: 30673_92
 
 Locus: 30675_108
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 30697_65
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 30698_198
 
@@ -4948,7 +5484,7 @@ Locus: 30710_145
 Locus: 30722_79
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 30733_113
@@ -4963,11 +5499,19 @@ Locus: 30784_200
 
 Locus: 30831_180
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 30838_136
 
 Locus: 30846_15
 
 Locus: 30864_145
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 30873_16
 
@@ -4975,7 +5519,7 @@ Locus: 30889_88
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 30892_70
 
@@ -4986,7 +5530,7 @@ Locus: 30892_70
 Locus: 30940_60
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 30944_71
@@ -4995,23 +5539,15 @@ Locus: 30966_148
 
 Locus: 30968_90
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 30972_135
 
 Locus: 30994_47
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 30998_47
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 31016_49
 
@@ -5025,6 +5561,10 @@ Locus: 31048_45
 
 Locus: 31076_82
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 31077_8
 
 Locus: 31093_21
@@ -5036,7 +5576,7 @@ Locus: 31093_21
 Locus: 31113_47
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 2
 	Offspring allele 2: 2
 
 Locus: 31127_157
@@ -5047,11 +5587,11 @@ Locus: 31127_157
 
 Locus: 31144_117
 
-Locus: 31147_23
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 31147_23
 
 Locus: 31151_17
 
@@ -5067,19 +5607,15 @@ Locus: 31213_134
 
 Locus: 31239_71
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 31244_206
 
 Locus: 31253_54
 
-Locus: 31275_35
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 3
+Locus: 31275_35
 
 Locus: 31287_188
 
@@ -5105,11 +5641,11 @@ Locus: 31435_162
 
 Locus: 31438_43
 
-Locus: 31443_26
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
+Locus: 31443_26
 
 Locus: 31447_77
 
@@ -5123,15 +5659,19 @@ Locus: 31496_195
 
 Locus: 31502_43
 
-Locus: 31507_46
-
-	Mom homozygous allele: 4
+	Mom homozygous allele: 2
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 3
+
+Locus: 31507_46
 
 Locus: 31524_32
 
 Locus: 31530_78
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 31533_78
 
@@ -5163,6 +5703,10 @@ Locus: 31640_39
 
 Locus: 31646_67
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 31677_16
 
 Locus: 31694_107
@@ -5177,21 +5721,29 @@ Locus: 31822_171
 
 Locus: 31829_194
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 31832_134
 
 Locus: 31846_37
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 31854_87
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 31866_8
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 31871_20
 
@@ -5202,10 +5754,6 @@ Locus: 31912_53
 	Offspring allele 2: 3
 
 Locus: 31944_186
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 31949_154
 
@@ -5247,10 +5795,6 @@ Locus: 32096_90
 
 Locus: 32107_55
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 32117_147
 
 Locus: 32126_139
@@ -5259,7 +5803,7 @@ Locus: 32131_81
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 3
-	Offspring allele 2: 4
+	Offspring allele 2: 3
 
 Locus: 32138_32
 
@@ -5271,13 +5815,17 @@ Locus: 32146_91
 
 Locus: 32158_22
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 32182_115
+
+Locus: 32208_201
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
-
-Locus: 32208_201
 
 Locus: 32211_158
 
@@ -5313,15 +5861,15 @@ Locus: 32405_9
 
 Locus: 32409_144
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 32433_83
 
 Locus: 32436_93
 
 Locus: 32459_78
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 32465_169
 
@@ -5329,7 +5877,15 @@ Locus: 32469_117
 
 Locus: 32503_88
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 32528_12
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 32536_190
 
@@ -5340,7 +5896,7 @@ Locus: 32536_190
 Locus: 32552_21
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 32562_68
@@ -5350,6 +5906,10 @@ Locus: 32576_71
 Locus: 32598_81
 
 Locus: 32629_111
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 32654_26
 
@@ -5366,10 +5926,6 @@ Locus: 32695_60
 Locus: 32731_12
 
 Locus: 32749_43
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 32751_196
 
@@ -5389,9 +5945,13 @@ Locus: 32929_110
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 1
-	Offspring allele 2: 4
+	Offspring allele 2: 1
 
 Locus: 32930_62
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 32935_51
 
@@ -5402,30 +5962,26 @@ Locus: 32946_139
 Locus: 32963_155
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 32985_19
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 33006_61
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 33023_32
 
 Locus: 33064_47
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 33075_20
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 33078_24
 
@@ -5451,10 +6007,6 @@ Locus: 33164_153
 
 Locus: 33192_135
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 33194_46
 
 Locus: 33197_77
@@ -5465,15 +6017,19 @@ Locus: 33197_77
 
 Locus: 33211_196
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 33233_111
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 33246_36
 
 Locus: 33254_90
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 33257_36
 
@@ -5493,6 +6049,10 @@ Locus: 33301_195
 
 Locus: 33313_129
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 33320_47
 
 Locus: 33336_51
@@ -5507,11 +6067,11 @@ Locus: 33368_93
 
 Locus: 33369_179
 
-Locus: 33378_73
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 33378_73
 
 Locus: 33391_73
 
@@ -5525,21 +6085,29 @@ Locus: 33445_76
 
 Locus: 33451_57
 
-Locus: 33453_167
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
+Locus: 33453_167
 
 Locus: 33462_166
 
 Locus: 33463_44
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 33472_151
 
 Locus: 33475_30
 
 Locus: 33476_31
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 33480_9
 
@@ -5555,6 +6123,10 @@ Locus: 33525_63
 
 Locus: 33530_33
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 33531_55
 
 Locus: 33575_41
@@ -5564,14 +6136,22 @@ Locus: 33603_45
 Locus: 33604_197
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 2
 	Offspring allele 2: 2
 
 Locus: 33606_138
 
 Locus: 33618_165
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 33645_193
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 33654_112
 
@@ -5597,6 +6177,10 @@ Locus: 33737_154
 
 Locus: 33740_151
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 33743_77
 
 	Mom homozygous allele: 4
@@ -5605,15 +6189,19 @@ Locus: 33743_77
 
 Locus: 33746_130
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 33760_8
 
 Locus: 33859_66
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 33897_187
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 1
 
 Locus: 33911_136
 
@@ -5625,6 +6213,10 @@ Locus: 33922_127
 
 Locus: 33928_60
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 33942_117
 
 	Mom homozygous allele: 3
@@ -5632,6 +6224,10 @@ Locus: 33942_117
 	Offspring allele 2: 3
 
 Locus: 33961_190
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 33963_186
 
@@ -5647,11 +6243,23 @@ Locus: 33992_46
 
 Locus: 33996_66
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 34012_153
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 34036_43
 
 Locus: 34045_13
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 34069_120
 
@@ -5669,23 +6277,23 @@ Locus: 34140_48
 
 Locus: 34179_59
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 34193_196
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 34198_24
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 34199_191
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 34220_167
 
@@ -5697,13 +6305,25 @@ Locus: 34246_94
 
 Locus: 34268_85
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 34269_122
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 34277_167
 
 Locus: 34282_59
 
 Locus: 34285_73
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 34321_10
 
@@ -5713,17 +6333,33 @@ Locus: 34321_10
 
 Locus: 34329_75
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 34332_179
 
 Locus: 34335_89
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 3
+	Offspring allele 2: 3
 
 Locus: 34341_142
 
 Locus: 34346_18
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 34351_12
 
 Locus: 34354_129
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 34356_155
 
@@ -5733,13 +6369,17 @@ Locus: 34356_155
 
 Locus: 34371_136
 
-Locus: 34372_141
-
-Locus: 34396_24
-
-	Mom homozygous allele: 3
+	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 34372_141
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 34396_24
 
 Locus: 34400_75
 
@@ -5765,7 +6405,15 @@ Locus: 34510_91
 
 Locus: 34514_125
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 34515_19
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 34550_59
 
@@ -5777,6 +6425,10 @@ Locus: 34573_112
 
 Locus: 34592_51
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 34610_29
 
 Locus: 34615_187
@@ -5785,19 +6437,11 @@ Locus: 34636_147
 
 Locus: 34647_32
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 3
-	Offspring allele 2: 4
-
 Locus: 34664_117
 
 Locus: 34684_199
 
 Locus: 34685_32
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 3
 
 Locus: 34698_155
 
@@ -5807,19 +6451,23 @@ Locus: 34698_155
 
 Locus: 34723_192
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 34742_82
 
 Locus: 34743_94
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 34749_163
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 34792_37
 
@@ -5829,7 +6477,7 @@ Locus: 34864_131
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 34875_137
 
@@ -5845,6 +6493,10 @@ Locus: 34990_177
 
 Locus: 35032_152
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 35037_11
 
 Locus: 35051_135
@@ -5853,9 +6505,17 @@ Locus: 35117_79
 
 Locus: 35120_190
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 35133_138
 
 Locus: 35148_135
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 35156_69
 
@@ -5865,11 +6525,19 @@ Locus: 35173_159
 
 Locus: 35177_34
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 35193_51
 
 Locus: 35196_75
 
 Locus: 35200_159
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 35239_187
 
@@ -5885,10 +6553,6 @@ Locus: 35289_50
 
 Locus: 35290_37
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 35322_74
 
 Locus: 35324_42
@@ -5896,10 +6560,6 @@ Locus: 35324_42
 Locus: 35325_111
 
 Locus: 35346_21
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 35370_110
 
@@ -5911,6 +6571,10 @@ Locus: 35422_76
 
 Locus: 35428_189
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 35431_153
 
 Locus: 35460_68
@@ -5920,6 +6584,10 @@ Locus: 35469_47
 Locus: 35521_14
 
 Locus: 35537_176
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 35539_186
 
@@ -5932,6 +6600,10 @@ Locus: 35610_134
 Locus: 35627_7
 
 Locus: 35634_108
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 35636_88
 
@@ -5949,9 +6621,13 @@ Locus: 35720_171
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 35729_60
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 35737_8
 
@@ -5966,10 +6642,6 @@ Locus: 35760_52
 Locus: 35761_119
 
 Locus: 35837_82
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
 
 Locus: 35848_164
 
@@ -5991,6 +6663,10 @@ Locus: 36019_60
 
 Locus: 36021_76
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 36030_20
 
 	Mom homozygous allele: 1
@@ -6001,6 +6677,10 @@ Locus: 36035_190
 
 Locus: 36073_117
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 36112_160
 
 Locus: 36124_189
@@ -6010,10 +6690,6 @@ Locus: 36124_189
 	Offspring allele 2: 4
 
 Locus: 36133_49
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 36146_177
 
@@ -6045,13 +6721,13 @@ Locus: 36319_203
 
 Locus: 36331_112
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 36349_90
 
 Locus: 36351_191
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 36364_51
 
@@ -6061,30 +6737,30 @@ Locus: 36399_31
 
 Locus: 36411_118
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 36440_12
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 36443_30
 
 Locus: 36452_205
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 36475_7
 
 Locus: 36478_140
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 36480_128
 
 Locus: 36481_27
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 36503_181
@@ -6093,15 +6769,19 @@ Locus: 36515_18
 
 Locus: 36518_74
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 36524_33
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 36549_128
 
 Locus: 36553_142
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 36582_41
 
@@ -6113,27 +6793,35 @@ Locus: 36587_7
 
 Locus: 36591_15
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 36608_139
 
 Locus: 36627_139
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 36667_191
 
-Locus: 36697_63
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 36697_63
 
 Locus: 36702_36
 
 Locus: 36705_130
 
-Locus: 36745_156
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 36745_156
 
 Locus: 36752_143
 
@@ -6151,16 +6839,20 @@ Locus: 36823_142
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 3
-	Offspring allele 2: 4
+	Offspring allele 2: 3
 
 Locus: 36831_74
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 36842_142
 
 Locus: 36855_17
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 36857_74
@@ -6171,17 +6863,17 @@ Locus: 36857_74
 
 Locus: 36858_167
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 36885_157
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 36899_114
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 36924_122
 
@@ -6189,15 +6881,15 @@ Locus: 36967_149
 
 Locus: 36971_178
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 36974_161
 
 Locus: 36980_89
 
 Locus: 36982_165
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 37009_59
 
@@ -6207,6 +6899,10 @@ Locus: 37014_151
 
 Locus: 37040_155
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 37057_174
 
 	Mom homozygous allele: 4
@@ -6215,7 +6911,15 @@ Locus: 37057_174
 
 Locus: 37058_126
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 37071_91
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 1
 
 Locus: 37079_44
 
@@ -6227,21 +6931,25 @@ Locus: 37114_25
 
 Locus: 37151_63
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+
 Locus: 37158_198
 
 Locus: 37182_85
-
-Locus: 37187_184
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
+Locus: 37187_184
+
 Locus: 37199_187
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 37223_131
 
@@ -6249,21 +6957,17 @@ Locus: 37233_27
 
 Locus: 37235_9
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 37244_43
 
 Locus: 37288_22
 
 Locus: 37290_131
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 37314_19
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 37327_116
 
@@ -6277,7 +6981,15 @@ Locus: 37393_128
 
 Locus: 37400_8
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 37405_82
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 37409_161
 
@@ -6295,9 +7007,13 @@ Locus: 37429_71
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 3
-	Offspring allele 2: 4
+	Offspring allele 2: 3
 
 Locus: 37438_47
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 37454_193
 
@@ -6317,14 +7033,10 @@ Locus: 37479_7
 
 Locus: 37508_175
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 37526_202
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 37530_50
@@ -6336,7 +7048,7 @@ Locus: 37541_145
 Locus: 37549_168
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 37552_50
@@ -6347,13 +7059,13 @@ Locus: 37552_50
 
 Locus: 37579_144
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 37581_17
 
 Locus: 37606_54
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 37623_59
 
@@ -6403,6 +7115,10 @@ Locus: 37868_127
 
 Locus: 37879_56
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+
 Locus: 37883_176
 
 Locus: 37889_27
@@ -6418,18 +7134,22 @@ Locus: 37900_31
 Locus: 37906_62
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 2
 	Offspring allele 2: 2
 
 Locus: 37916_146
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 37921_53
 
-Locus: 37935_171
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 3
-	Offspring allele 2: 4
+Locus: 37935_171
 
 Locus: 37939_139
 
@@ -6438,7 +7158,7 @@ Locus: 37976_36
 Locus: 38002_185
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 38017_23
@@ -6447,6 +7167,10 @@ Locus: 38052_123
 
 Locus: 38062_135
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 38067_203
 
 	Mom homozygous allele: 2
@@ -6454,6 +7178,10 @@ Locus: 38067_203
 	Offspring allele 2: 4
 
 Locus: 38098_42
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 38117_260
 
@@ -6466,7 +7194,7 @@ Locus: 38135_111
 Locus: 38147_132
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 38149_9
@@ -6475,22 +7203,22 @@ Locus: 38155_78
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 38187_166
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 38200_132
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 38211_202
 
 Locus: 38222_113
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 2
 	Offspring allele 2: 2
 
 Locus: 38235_37
@@ -6505,6 +7233,10 @@ Locus: 38305_66
 
 Locus: 38315_169
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 38339_18
 
 	Mom homozygous allele: 2
@@ -6515,10 +7247,6 @@ Locus: 38341_188
 
 Locus: 38380_11
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 38385_127
 
 Locus: 38403_58
@@ -6527,37 +7255,25 @@ Locus: 38417_163
 
 Locus: 38431_84
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 38443_87
 
 Locus: 38452_51
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 38491_18
 
-Locus: 38504_175
-
-	Mom homozygous allele: 3
+	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
+Locus: 38504_175
+
 Locus: 38526_85
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 38529_185
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 38554_64
 
@@ -6565,27 +7281,31 @@ Locus: 38574_24
 
 Locus: 38586_145
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 38591_201
 
 Locus: 38618_18
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 38621_154
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 38624_73
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 38636_13
 
 Locus: 38687_150
 
 Locus: 38696_32
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 38700_24
 
@@ -6603,11 +7323,19 @@ Locus: 38748_126
 
 Locus: 38751_110
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 38767_114
 
 Locus: 38810_154
 
 Locus: 38821_196
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 38849_11
 
@@ -6617,33 +7345,25 @@ Locus: 38849_11
 
 Locus: 38852_127
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 38865_131
 
 Locus: 38879_85
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 38891_139
 
 Locus: 38929_21
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 38957_142
 
 Locus: 38963_109
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 38977_85
 
@@ -6659,6 +7379,10 @@ Locus: 39006_36
 
 Locus: 39048_49
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 39060_79
 
 Locus: 39077_169
@@ -6669,17 +7393,13 @@ Locus: 39077_169
 
 Locus: 39090_129
 
+Locus: 39099_69
+
+Locus: 39156_156
+
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
-
-Locus: 39099_69
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
-Locus: 39156_156
 
 Locus: 39209_46
 
@@ -6691,7 +7411,15 @@ Locus: 39248_38
 
 Locus: 39249_25
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 39256_133
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 39260_22
 
@@ -6711,10 +7439,6 @@ Locus: 39339_25
 
 Locus: 39371_7
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 39409_140
 
 	Mom homozygous allele: 2
@@ -6723,19 +7447,15 @@ Locus: 39409_140
 
 Locus: 39413_174
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 39424_175
 
 Locus: 39427_142
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 39436_69
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 2
 
 Locus: 39460_141
 
@@ -6755,11 +7475,19 @@ Locus: 39563_60
 
 Locus: 39598_49
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 39618_51
 
 Locus: 39620_188
 
 Locus: 39627_203
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 39638_78
 
@@ -6771,6 +7499,10 @@ Locus: 39651_36
 
 Locus: 39655_135
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 39658_153
 
 Locus: 39670_31
@@ -6778,20 +7510,28 @@ Locus: 39670_31
 Locus: 39678_52
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 39688_73
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 39703_66
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 39704_23
 
 Locus: 39709_25
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 39713_32
 
@@ -6807,13 +7547,21 @@ Locus: 39759_31
 
 Locus: 39763_18
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 39765_21
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 3
-	Offspring allele 2: 4
+	Offspring allele 2: 3
 
 Locus: 39791_122
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 39795_91
 
@@ -6830,10 +7578,6 @@ Locus: 39800_134
 Locus: 39829_26
 
 Locus: 39833_112
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 39849_120
 
@@ -6869,11 +7613,11 @@ Locus: 39918_161
 
 Locus: 39923_65
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 39933_24
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 39951_173
 
@@ -6882,10 +7626,6 @@ Locus: 39992_60
 Locus: 40013_24
 
 Locus: 40023_22
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 3
 
 Locus: 40042_173
 
@@ -6909,10 +7649,6 @@ Locus: 40095_165
 
 Locus: 40132_191
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 40133_77
 
 	Mom homozygous allele: 1
@@ -6921,11 +7657,11 @@ Locus: 40133_77
 
 Locus: 40171_19
 
-Locus: 40177_6
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 40177_6
 
 Locus: 40179_67
 
@@ -6965,11 +7701,11 @@ Locus: 40344_144
 
 Locus: 40353_142
 
-Locus: 40361_31
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
 	Offspring allele 2: 4
+
+Locus: 40361_31
 
 Locus: 40375_143
 
@@ -6987,11 +7723,11 @@ Locus: 40498_151
 
 Locus: 40536_9
 
-	Mom homozygous allele: 4
+Locus: 40538_8
+
+	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 4
-
-Locus: 40538_8
 
 Locus: 40542_57
 
@@ -7017,7 +7753,15 @@ Locus: 40637_52
 
 Locus: 40641_191
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 40655_192
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 40698_54
 
@@ -7029,10 +7773,6 @@ Locus: 40705_116
 
 Locus: 40717_12
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 40720_157
 
 	Mom homozygous allele: 3
@@ -7040,10 +7780,6 @@ Locus: 40720_157
 	Offspring allele 2: 3
 
 Locus: 40729_42
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 40744_131
 
@@ -7053,17 +7789,21 @@ Locus: 40767_130
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 40811_52
 
 Locus: 40824_137
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 40826_149
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 40828_33
 
@@ -7073,15 +7813,11 @@ Locus: 40832_151
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 40838_123
 
 Locus: 40840_24
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 40852_87
 
@@ -7093,13 +7829,9 @@ Locus: 40911_176
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 40930_58
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 40934_160
 
@@ -7107,43 +7839,51 @@ Locus: 40941_196
 
 Locus: 40942_10
 
-Locus: 40944_23
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
-Locus: 40948_178
-
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
+Locus: 40944_23
+
+Locus: 40948_178
+
 Locus: 40957_131
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 40958_57
 
 Locus: 40960_74
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 40975_156
 
 Locus: 41008_146
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 41014_69
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 41019_155
 
 Locus: 41033_202
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 41067_19
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 41076_118
 
@@ -7161,23 +7901,19 @@ Locus: 41161_127
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 41166_79
 
 Locus: 41174_77
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 41182_162
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 41193_46
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 41207_52
 
@@ -7189,6 +7925,10 @@ Locus: 41217_124
 
 Locus: 41218_33
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 41286_107
 
 Locus: 41292_192
@@ -7198,10 +7938,6 @@ Locus: 41329_157
 Locus: 41351_7
 
 Locus: 41352_79
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 41396_185
 
@@ -7215,15 +7951,15 @@ Locus: 41455_111
 
 Locus: 41464_151
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 41490_13
 
 Locus: 41499_32
 
 Locus: 41511_159
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 41520_167
 
@@ -7231,11 +7967,11 @@ Locus: 41536_177
 
 Locus: 41595_62
 
-Locus: 41604_165
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 41604_165
 
 Locus: 41605_71
 
@@ -7249,9 +7985,17 @@ Locus: 41649_133
 
 Locus: 41651_86
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 41660_117
 
 Locus: 41674_28
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 41688_109
 
@@ -7271,10 +8015,6 @@ Locus: 41751_32
 
 Locus: 41760_130
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-
 Locus: 41770_5
 
 	Mom homozygous allele: 4
@@ -7285,14 +8025,22 @@ Locus: 41783_18
 
 Locus: 41824_188
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 41863_14
 
 Locus: 41873_29
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 41912_29
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 41913_162
@@ -7303,7 +8051,15 @@ Locus: 41935_17
 
 Locus: 41955_15
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 41971_79
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 41993_72
 
@@ -7320,10 +8076,6 @@ Locus: 42022_131
 	Offspring allele 2: 3
 
 Locus: 42036_116
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 42047_159
 
@@ -7342,10 +8094,6 @@ Locus: 42124_49
 	Offspring allele 2: 3
 
 Locus: 42132_124
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 42150_37
 
@@ -7377,19 +8125,15 @@ Locus: 42294_139
 
 Locus: 42330_131
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 42347_168
 
 Locus: 42373_114
 
-Locus: 42467_78
-
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 42467_78
 
 Locus: 42471_140
 
@@ -7399,19 +8143,15 @@ Locus: 42487_50
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 42492_186
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 42495_160
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 42524_168
 
@@ -7429,9 +8169,13 @@ Locus: 42540_20
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 1
-	Offspring allele 2: 4
+	Offspring allele 2: 1
 
 Locus: 42559_139
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 4
+	Offspring allele 2: 4
 
 Locus: 42563_65
 
@@ -7449,10 +8193,6 @@ Locus: 42650_102
 
 Locus: 42652_74
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 42659_111
 
 Locus: 42670_80
@@ -7467,10 +8207,6 @@ Locus: 42727_90
 
 Locus: 42731_49
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 42742_111
 
 	Mom homozygous allele: 1
@@ -7479,13 +8215,17 @@ Locus: 42742_111
 
 Locus: 42791_169
 
-Locus: 42802_7
-
-Locus: 42858_68
-
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 42802_7
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 42858_68
 
 Locus: 42881_150
 
@@ -7505,12 +8245,12 @@ Locus: 42956_115
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 42957_138
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 42964_140
@@ -7518,6 +8258,10 @@ Locus: 42964_140
 Locus: 42973_80
 
 Locus: 42975_128
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 43023_188
 
@@ -7543,6 +8287,10 @@ Locus: 43063_34
 
 Locus: 43068_138
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 43104_36
 
 Locus: 43127_129
@@ -7550,7 +8298,7 @@ Locus: 43127_129
 Locus: 43132_152
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 43157_43
@@ -7559,31 +8307,31 @@ Locus: 43166_6
 
 Locus: 43170_163
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 43175_66
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 43188_201
 
 Locus: 43202_111
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 43251_20
 
 Locus: 43252_23
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 43253_91
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 43265_51
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 43302_160
 
@@ -7597,13 +8345,13 @@ Locus: 43337_110
 
 Locus: 43341_127
 
-Locus: 43393_93
-
-Locus: 43397_123
-
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 43393_93
+
+Locus: 43397_123
 
 Locus: 43405_54
 
@@ -7617,12 +8365,12 @@ Locus: 43419_16
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 43468_131
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 3
+	Offspring allele 1: 1
 	Offspring allele 2: 3
 
 Locus: 43474_163
@@ -7633,12 +8381,12 @@ Locus: 43539_82
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 3
-	Offspring allele 2: 4
+	Offspring allele 2: 3
 
 Locus: 43562_44
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 43563_79
@@ -7647,21 +8395,17 @@ Locus: 43564_108
 
 Locus: 43579_113
 
-Locus: 43586_17
-
-	Mom homozygous allele: 1
+	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 43586_17
 
 Locus: 43615_153
 
 Locus: 43617_114
 
 Locus: 43618_141
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 43636_188
 
@@ -7681,7 +8425,7 @@ Locus: 43783_188
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 43788_178
 
@@ -7705,21 +8449,25 @@ Locus: 43865_41
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 43867_28
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 43873_28
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 43882_117
 
 Locus: 43958_84
 
 Locus: 44047_134
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
 
 Locus: 44089_147
 
@@ -7750,26 +8498,26 @@ Locus: 44133_178
 Locus: 44140_41
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 44146_39
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 44161_194
 
 Locus: 44166_173
 
-Locus: 44167_12
-
-	Mom homozygous allele: 4
+	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
-Locus: 44208_21
+Locus: 44167_12
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 44208_21
 
 Locus: 44234_140
 
@@ -7783,6 +8531,10 @@ Locus: 44286_141
 
 Locus: 44307_50
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 44309_202
 
 	Mom homozygous allele: 1
@@ -7792,6 +8544,10 @@ Locus: 44309_202
 Locus: 44312_62
 
 Locus: 44315_15
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 1
 
 Locus: 44322_86
 
@@ -7807,10 +8563,6 @@ Locus: 44346_34
 
 Locus: 44382_49
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 44386_7
 
 	Mom homozygous allele: 2
@@ -7821,19 +8573,23 @@ Locus: 44396_47
 
 Locus: 44423_60
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 44450_38
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 2
+	Offspring allele 2: 4
 
 Locus: 44468_185
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 44470_134
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 44471_188
 
@@ -7843,11 +8599,11 @@ Locus: 44471_188
 
 Locus: 44495_134
 
+Locus: 44534_160
+
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
-
-Locus: 44534_160
 
 Locus: 44540_160
 
@@ -7864,6 +8620,10 @@ Locus: 44576_46
 Locus: 44585_38
 
 Locus: 44599_170
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 44613_124
 
@@ -7893,25 +8653,17 @@ Locus: 44693_195
 
 Locus: 44731_131
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 44733_158
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 1
-	Offspring allele 2: 1
+	Offspring allele 2: 2
 
 Locus: 44745_57
 
 Locus: 44768_63
 
 Locus: 44775_67
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
 
 Locus: 44776_135
 
@@ -7951,6 +8703,10 @@ Locus: 44957_8
 
 Locus: 44992_21
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 44996_123
 
 	Mom homozygous allele: 3
@@ -7971,6 +8727,10 @@ Locus: 45048_11
 
 Locus: 45057_36
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 45059_89
 
 	Mom homozygous allele: 3
@@ -7979,19 +8739,11 @@ Locus: 45059_89
 
 Locus: 45060_47
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 45082_57
 
 Locus: 45093_23
 
 Locus: 45125_119
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 45126_46
 
@@ -8000,10 +8752,6 @@ Locus: 45126_46
 	Offspring allele 2: 4
 
 Locus: 45138_154
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 45143_121
 
@@ -8015,7 +8763,15 @@ Locus: 45202_36
 
 Locus: 45254_59
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 45273_195
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 45274_170
 
@@ -8027,15 +8783,23 @@ Locus: 45304_176
 
 Locus: 45316_133
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 45341_25
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 45347_124
 
 Locus: 45358_45
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 45395_115
 
@@ -8045,12 +8809,12 @@ Locus: 45489_173
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 45515_8
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 45537_64
@@ -8058,7 +8822,7 @@ Locus: 45537_64
 Locus: 45547_35
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 45552_29
@@ -8075,7 +8839,15 @@ Locus: 45553_59
 
 Locus: 45557_5
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 45604_66
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 45620_73
 
@@ -8089,17 +8861,17 @@ Locus: 45672_155
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 45684_72
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 45717_61
 
 Locus: 45722_169
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 45726_197
 
@@ -8114,6 +8886,10 @@ Locus: 45788_177
 Locus: 45789_33
 
 Locus: 45812_142
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 45820_7
 
@@ -8147,19 +8923,39 @@ Locus: 45970_167
 
 Locus: 45988_162
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 46021_33
 
 Locus: 46083_27
 
 Locus: 46090_127
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 46099_13
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 46112_27
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 46118_157
 
 Locus: 46141_146
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 46162_211
 
@@ -8170,6 +8966,10 @@ Locus: 46162_211
 Locus: 46220_165
 
 Locus: 46224_24
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 46242_67
 
@@ -8183,10 +8983,6 @@ Locus: 46294_20
 
 Locus: 46298_198
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 46304_117
 
 Locus: 46313_59
@@ -8195,21 +8991,25 @@ Locus: 46347_57
 
 Locus: 46365_181
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 46366_167
+
+Locus: 46374_27
+
+Locus: 46375_19
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
-Locus: 46374_27
+Locus: 46381_91
 
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
-
-Locus: 46375_19
-
-Locus: 46381_91
 
 Locus: 46480_124
 
@@ -8221,11 +9021,19 @@ Locus: 46490_170
 
 Locus: 46518_117
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 46524_109
 
 Locus: 46529_158
 
 Locus: 46530_56
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 46554_14
 
@@ -8233,19 +9041,15 @@ Locus: 46562_190
 
 Locus: 46570_205
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 46583_23
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 46590_257
 
 Locus: 46624_144
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 46632_135
 
@@ -8253,19 +9057,23 @@ Locus: 46647_133
 
 Locus: 46703_46
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 46706_160
 
 Locus: 46731_69
 
 Locus: 46735_23
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 46749_141
 
 Locus: 46771_141
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 46786_23
 
@@ -8289,7 +9097,15 @@ Locus: 46870_70
 
 Locus: 46898_15
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 46900_59
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 46905_113
 
@@ -8305,15 +9121,15 @@ Locus: 46909_186
 
 Locus: 46913_137
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 46917_15
 
 Locus: 46938_123
 
 Locus: 46944_51
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 46963_197
 
@@ -8327,13 +9143,13 @@ Locus: 47001_81
 
 Locus: 47013_68
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 47083_148
 
 Locus: 47085_194
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 47087_69
 
@@ -8353,39 +9169,35 @@ Locus: 47145_7
 
 Locus: 47156_70
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 47168_24
 
 Locus: 47172_71
 
 Locus: 47219_48
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 3
-	Offspring allele 2: 4
-
 Locus: 47230_26
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 47281_21
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 47288_75
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 47313_138
 
 Locus: 47317_21
 
 Locus: 47340_58
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 47351_10
 
@@ -8407,11 +9219,11 @@ Locus: 47452_94
 
 Locus: 47465_6
 
-Locus: 47496_65
-
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 2
+
+Locus: 47496_65
 
 Locus: 47550_157
 
@@ -8422,6 +9234,10 @@ Locus: 47591_42
 Locus: 47596_87
 
 Locus: 47611_134
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 47651_186
 
@@ -8438,10 +9254,14 @@ Locus: 47721_171
 Locus: 47740_47
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 47802_23
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 47811_172
 
@@ -8455,13 +9275,13 @@ Locus: 47841_166
 
 Locus: 47864_37
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 47878_142
 
 Locus: 47895_59
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 47900_32
 
@@ -8477,7 +9297,7 @@ Locus: 47926_135
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 47933_124
 
@@ -8485,15 +9305,7 @@ Locus: 47950_40
 
 Locus: 47968_71
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 47976_29
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
 
 Locus: 47991_63
 
@@ -8505,27 +9317,39 @@ Locus: 48035_163
 
 Locus: 48042_191
 
-Locus: 48078_128
-
 	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 48078_128
 
 Locus: 48092_80
 
 Locus: 48129_168
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 48133_6
 
 Locus: 48138_58
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 48143_56
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 48166_78
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 48189_159
 
@@ -8533,19 +9357,23 @@ Locus: 48208_29
 
 Locus: 48219_111
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 48251_182
 
 Locus: 48252_49
 
 Locus: 48256_66
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 48284_19
 
 Locus: 48292_132
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 48327_151
 
@@ -8556,6 +9384,10 @@ Locus: 48348_60
 	Offspring allele 2: 4
 
 Locus: 48448_118
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 48507_127
 
@@ -8576,7 +9408,7 @@ Locus: 48524_66
 Locus: 48542_171
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 48552_7
@@ -8595,14 +9427,18 @@ Locus: 48624_176
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 48659_130
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 48668_34
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 48685_154
@@ -8618,6 +9454,10 @@ Locus: 48707_68
 Locus: 48733_28
 
 Locus: 48743_181
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 48761_20
 
@@ -8639,13 +9479,17 @@ Locus: 48851_188
 
 Locus: 48868_87
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 48894_90
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 48903_201
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 48909_139
 
@@ -8654,6 +9498,10 @@ Locus: 48909_139
 	Offspring allele 2: 4
 
 Locus: 48914_169
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 48919_78
 
@@ -8671,11 +9519,23 @@ Locus: 48956_46
 
 Locus: 48975_126
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 48978_205
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 49038_67
 
 Locus: 49065_35
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 49084_143
 
@@ -8697,10 +9557,6 @@ Locus: 49133_145
 
 Locus: 49155_23
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 49162_131
 
 Locus: 49181_46
@@ -8713,27 +9569,19 @@ Locus: 49226_45
 
 Locus: 49251_202
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 49263_79
 
 Locus: 49339_40
 
 Locus: 49345_32
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 49385_184
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 49397_194
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 49419_161
 
@@ -8743,10 +9591,14 @@ Locus: 49463_23
 
 Locus: 49474_154
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 49521_201
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 49533_21
@@ -8773,19 +9625,15 @@ Locus: 49601_121
 
 Locus: 49610_109
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 49645_49
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 49662_13
 
 Locus: 49698_202
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 49703_16
 
@@ -8803,15 +9651,19 @@ Locus: 49746_11
 
 Locus: 49763_29
 
-	Mom homozygous allele: 3
+Locus: 49782_83
+
+	Mom homozygous allele: 4
 	Offspring allele 1: 3
 	Offspring allele 2: 4
-
-Locus: 49782_83
 
 Locus: 49805_191
 
 Locus: 49808_174
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 49837_44
 
@@ -8822,6 +9674,10 @@ Locus: 49884_134
 Locus: 49909_22
 
 Locus: 49911_141
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 49918_150
 
@@ -8837,29 +9693,41 @@ Locus: 50003_22
 
 Locus: 50009_124
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 50041_39
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 50044_107
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 50054_54
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 50068_5
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 50071_117
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 2
+	Offspring allele 1: 1
 	Offspring allele 2: 2
 
 Locus: 50087_111
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 50089_205
 
@@ -8879,6 +9747,10 @@ Locus: 50169_147
 
 Locus: 50170_33
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 50180_142
 
 Locus: 50184_67
@@ -8889,33 +9761,45 @@ Locus: 50211_203
 
 Locus: 50256_189
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 50285_121
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 50307_117
 
 Locus: 50326_137
 
-Locus: 50355_64
-
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
+Locus: 50355_64
+
 Locus: 50367_171
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 50381_195
+
+Locus: 50383_71
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
-Locus: 50383_71
-
 Locus: 50392_191
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 50393_72
 
@@ -8935,10 +9819,6 @@ Locus: 50445_149
 
 Locus: 50451_192
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 50454_17
 
 Locus: 50511_81
@@ -8950,6 +9830,10 @@ Locus: 50545_161
 	Offspring allele 2: 3
 
 Locus: 50563_165
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 50605_184
 
@@ -8983,7 +9867,15 @@ Locus: 50648_124
 
 Locus: 50661_203
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 50663_62
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 50664_8
 
@@ -8995,21 +9887,29 @@ Locus: 50666_130
 
 Locus: 50675_9
 
-Locus: 50681_165
-
-	Mom homozygous allele: 2
+	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 3
+	Offspring allele 2: 4
+
+Locus: 50681_165
 
 Locus: 50718_37
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 50720_65
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 50766_212
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 50768_13
 
@@ -9019,27 +9919,31 @@ Locus: 50768_13
 
 Locus: 50778_152
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 50785_125
 
 Locus: 50786_87
 
 Locus: 50793_139
 
-Locus: 50831_53
-
-Locus: 50874_54
-
-Locus: 50891_30
-
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
-Locus: 50901_86
+Locus: 50831_53
+
+Locus: 50874_54
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 50891_30
+
+Locus: 50901_86
 
 Locus: 50908_83
 
@@ -9051,6 +9955,10 @@ Locus: 50930_30
 
 Locus: 50942_8
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 50951_124
 
 	Mom homozygous allele: 2
@@ -9058,6 +9966,10 @@ Locus: 50951_124
 	Offspring allele 2: 4
 
 Locus: 50969_23
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 50976_65
 
@@ -9068,7 +9980,7 @@ Locus: 50976_65
 Locus: 50983_156
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 51105_86
@@ -9077,13 +9989,13 @@ Locus: 51118_65
 
 Locus: 51119_119
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 51128_110
 
 Locus: 51141_189
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 51156_132
 
@@ -9097,6 +10009,10 @@ Locus: 51183_57
 
 Locus: 51185_153
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 51204_30
 
 Locus: 51220_201
@@ -9108,10 +10024,6 @@ Locus: 51267_141
 Locus: 51285_12
 
 Locus: 51288_156
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 51296_35
 
@@ -9126,10 +10038,6 @@ Locus: 51401_25
 Locus: 51425_129
 
 Locus: 51428_73
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 51430_56
 
@@ -9147,6 +10055,10 @@ Locus: 51446_47
 
 Locus: 51461_145
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
+
 Locus: 51506_61
 
 Locus: 51510_108
@@ -9159,21 +10071,21 @@ Locus: 51537_44
 
 Locus: 51545_14
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 51558_185
 
 Locus: 51567_78
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 51588_21
 
 Locus: 51637_130
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 51691_122
 
@@ -9181,13 +10093,13 @@ Locus: 51694_138
 
 Locus: 51696_193
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 51704_19
 
 Locus: 51706_71
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
 
 Locus: 51738_60
 
@@ -9195,11 +10107,11 @@ Locus: 51762_26
 
 Locus: 51773_186
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 51791_42
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 51843_197
 
@@ -9209,7 +10121,15 @@ Locus: 51898_117
 
 Locus: 51910_182
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 51939_16
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 51947_130
 
@@ -9221,13 +10141,9 @@ Locus: 51982_54
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 52001_169
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 52013_162
 
@@ -9242,6 +10158,10 @@ Locus: 52048_10
 Locus: 52050_159
 
 Locus: 52056_202
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 52088_20
 
@@ -9259,11 +10179,11 @@ Locus: 52284_139
 
 Locus: 52287_33
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
-
 Locus: 52292_197
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 52294_177
 
@@ -9273,7 +10193,7 @@ Locus: 52329_46
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 52369_94
 
@@ -9283,15 +10203,15 @@ Locus: 52376_71
 
 Locus: 52394_6
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 52415_39
 
 Locus: 52443_201
 
 Locus: 52444_179
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 52454_13
 
@@ -9303,13 +10223,17 @@ Locus: 52495_203
 
 Locus: 52510_184
 
-Locus: 52545_70
-
 	Mom homozygous allele: 3
-	Offspring allele 1: 1
+	Offspring allele 1: 2
 	Offspring allele 2: 3
 
+Locus: 52545_70
+
 Locus: 52547_57
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 52609_35
 
@@ -9322,10 +10246,6 @@ Locus: 52687_147
 Locus: 52696_53
 
 Locus: 52707_147
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 52726_9
 
@@ -9353,6 +10273,10 @@ Locus: 52788_47
 
 Locus: 52826_135
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 52835_42
 
 Locus: 52855_61
@@ -9373,6 +10297,10 @@ Locus: 52953_37
 
 Locus: 52976_194
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
+
 Locus: 53023_164
 
 Locus: 53030_120
@@ -9381,7 +10309,7 @@ Locus: 53076_128
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 53095_141
 
@@ -9394,23 +10322,27 @@ Locus: 53134_67
 Locus: 53171_141
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 2
 	Offspring allele 2: 2
 
 Locus: 53172_117
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 53174_187
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 53179_151
 
 Locus: 53182_27
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 53207_73
@@ -9427,6 +10359,10 @@ Locus: 53241_116
 
 Locus: 53259_148
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 53278_85
 
 Locus: 53282_151
@@ -9439,25 +10375,33 @@ Locus: 53295_39
 
 Locus: 53319_84
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 53358_162
 
 Locus: 53394_62
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 53399_142
 
 Locus: 53401_146
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 53446_5
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 53501_218
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 53511_93
 
@@ -9465,7 +10409,15 @@ Locus: 53516_10
 
 Locus: 53536_198
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 53596_129
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 53601_8
 
@@ -9475,6 +10427,10 @@ Locus: 53601_8
 
 Locus: 53631_30
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 53636_190
 
 	Mom homozygous allele: 2
@@ -9482,6 +10438,10 @@ Locus: 53636_190
 	Offspring allele 2: 2
 
 Locus: 53668_72
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 53707_45
 
@@ -9491,17 +10451,21 @@ Locus: 53735_44
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 53751_27
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 53772_117
 
 Locus: 53781_149
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 53893_38
 
@@ -9527,17 +10491,25 @@ Locus: 54073_87
 
 Locus: 54094_139
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 54095_147
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 54119_47
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 54129_185
 
 Locus: 54148_117
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 54185_12
 
@@ -9550,14 +10522,22 @@ Locus: 54257_147
 Locus: 54265_133
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 54270_164
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 54290_205
 
 Locus: 54292_112
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 54306_75
 
@@ -9568,7 +10548,7 @@ Locus: 54313_22
 Locus: 54323_114
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 54325_160
@@ -9585,7 +10565,15 @@ Locus: 54373_167
 
 Locus: 54387_51
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 54471_133
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 54500_82
 
@@ -9607,17 +10595,21 @@ Locus: 54606_115
 
 Locus: 54634_157
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 54640_38
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 3
+	Offspring allele 1: 1
 	Offspring allele 2: 3
 
 Locus: 54653_117
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 1
-	Offspring allele 2: 1
+	Offspring allele 2: 2
 
 Locus: 54660_89
 
@@ -9633,7 +10625,7 @@ Locus: 54777_177
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 1
+	Offspring allele 2: 3
 
 Locus: 54794_153
 
@@ -9645,9 +10637,13 @@ Locus: 54872_28
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 54873_135
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 54884_86
 
@@ -9657,21 +10653,37 @@ Locus: 54884_86
 
 Locus: 54902_37
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 54929_68
-
-Locus: 54957_29
-
-Locus: 54963_66
-
-Locus: 54995_194
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
+Locus: 54957_29
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 54963_66
+
+Locus: 54995_194
+
 Locus: 55004_187
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 55007_183
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 55053_143
 
@@ -9683,11 +10695,19 @@ Locus: 55104_112
 
 Locus: 55106_56
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 55112_39
 
 Locus: 55132_77
 
 Locus: 55134_21
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 55144_60
 
@@ -9709,15 +10729,23 @@ Locus: 55226_169
 
 Locus: 55241_135
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 55251_126
 
 Locus: 55252_49
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 55263_179
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 55302_63
 
@@ -9725,10 +10753,14 @@ Locus: 55315_123
 
 Locus: 55340_20
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 55378_68
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 3
+	Offspring allele 1: 1
 	Offspring allele 2: 3
 
 Locus: 55396_10
@@ -9736,6 +10768,10 @@ Locus: 55396_10
 Locus: 55408_32
 
 Locus: 55411_170
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 55412_176
 
@@ -9757,16 +10793,12 @@ Locus: 55476_84
 
 Locus: 55478_197
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 55489_30
 
 Locus: 55499_120
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 55500_199
@@ -9801,13 +10833,25 @@ Locus: 55638_162
 
 Locus: 55658_146
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 55659_180
 
 Locus: 55688_91
 
 Locus: 55689_108
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 55725_92
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 55806_71
 
@@ -9817,15 +10861,19 @@ Locus: 55878_171
 
 Locus: 55885_16
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 55923_181
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 55968_147
 
 Locus: 56022_60
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 56088_92
 
@@ -9839,7 +10887,15 @@ Locus: 56123_11
 
 Locus: 56135_51
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 56175_147
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 56192_125
 
@@ -9855,23 +10911,23 @@ Locus: 56193_25
 
 Locus: 56197_166
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 56199_59
 
 Locus: 56231_154
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 56242_119
 
 Locus: 56245_177
 
-Locus: 56286_63
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 56286_63
 
 Locus: 56291_169
 
@@ -9879,26 +10935,22 @@ Locus: 56301_150
 
 Locus: 56310_157
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 56379_194
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 56395_61
 
 Locus: 56404_172
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 56410_67
 
 Locus: 56499_189
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 56552_109
@@ -9914,6 +10966,10 @@ Locus: 56556_40
 	Offspring allele 2: 3
 
 Locus: 56568_44
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 56595_75
 
@@ -9935,6 +10991,10 @@ Locus: 56633_18
 
 Locus: 56671_134
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 56706_109
 
 Locus: 56710_123
@@ -9942,26 +11002,18 @@ Locus: 56710_123
 Locus: 56726_33
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 56782_177
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 56788_41
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 56847_73
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 56866_190
 
@@ -9970,6 +11022,10 @@ Locus: 56866_190
 	Offspring allele 2: 3
 
 Locus: 56867_168
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 56877_26
 
@@ -9997,19 +11053,15 @@ Locus: 56955_173
 
 Locus: 56963_127
 
-Locus: 56976_115
-
-	Mom homozygous allele: 2
+	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 3
+	Offspring allele 2: 4
+
+Locus: 56976_115
 
 Locus: 57007_13
 
 Locus: 57051_139
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
 
 Locus: 57093_150
 
@@ -10020,6 +11072,10 @@ Locus: 57093_150
 Locus: 57105_69
 
 Locus: 57129_113
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 57145_40
 
@@ -10035,15 +11091,27 @@ Locus: 57184_194
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 1
-	Offspring allele 2: 2
+	Offspring allele 2: 1
 
 Locus: 57264_190
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 57294_35
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 57329_46
 
 Locus: 57338_173
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 57376_170
 
@@ -10053,9 +11121,13 @@ Locus: 57385_205
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 57405_128
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 57414_14
 
@@ -10063,11 +11135,19 @@ Locus: 57438_201
 
 Locus: 57448_119
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 57546_15
 
 Locus: 57557_158
 
 Locus: 57574_60
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 57585_6
 
@@ -10075,13 +11155,13 @@ Locus: 57617_175
 
 Locus: 57640_149
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 57644_141
 
 Locus: 57653_151
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 57669_86
 
@@ -10089,7 +11169,15 @@ Locus: 57672_109
 
 Locus: 57680_140
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 57689_199
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 57735_120
 
@@ -10117,6 +11205,10 @@ Locus: 57850_59
 
 Locus: 57882_124
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 57897_111
 
 	Mom homozygous allele: 2
@@ -10125,25 +11217,33 @@ Locus: 57897_111
 
 Locus: 57909_130
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 57939_133
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 57950_6
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 57952_22
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 57954_72
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 57986_49
 
@@ -10163,9 +11263,17 @@ Locus: 58075_22
 
 Locus: 58078_128
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 58109_78
 
 Locus: 58116_177
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 58143_192
 
@@ -10175,19 +11283,19 @@ Locus: 58143_192
 
 Locus: 58169_68
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 58204_70
 
 Locus: 58205_147
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 58206_157
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 58227_32
 
@@ -10207,13 +11315,17 @@ Locus: 58296_157
 
 Locus: 58385_14
 
-Locus: 58387_10
-
-Locus: 58396_83
-
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 58387_10
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 58396_83
 
 Locus: 58431_30
 
@@ -10221,19 +11333,15 @@ Locus: 58460_53
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 2
+	Offspring allele 2: 4
 
 Locus: 58472_34
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 58487_89
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
 
 Locus: 58505_58
 
@@ -10244,6 +11352,10 @@ Locus: 58509_66
 	Offspring allele 2: 4
 
 Locus: 58520_117
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 58521_12
 
@@ -10261,19 +11373,15 @@ Locus: 58620_61
 
 Locus: 58634_18
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-
 Locus: 58674_67
 
 Locus: 58719_190
 
+Locus: 58740_173
+
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
-	Offspring allele 2: 2
-
-Locus: 58740_173
+	Offspring allele 2: 3
 
 Locus: 58756_141
 
@@ -10285,11 +11393,11 @@ Locus: 58792_181
 
 Locus: 58799_166
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 58826_55
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 58862_86
 
@@ -10297,21 +11405,29 @@ Locus: 58881_85
 
 Locus: 58886_159
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 58890_18
 
 Locus: 58908_202
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 58935_31
 
 Locus: 58959_199
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 58970_200
 
 Locus: 58979_34
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 59012_94
 
@@ -10339,11 +11455,11 @@ Locus: 59204_118
 
 Locus: 59251_33
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 59297_66
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 59316_175
 
@@ -10351,20 +11467,20 @@ Locus: 59329_120
 
 Locus: 59331_47
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 59337_126
 
 Locus: 59346_173
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 59351_157
 
 Locus: 59379_179
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 59383_14
@@ -10392,16 +11508,20 @@ Locus: 59574_140
 Locus: 59621_22
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 59638_192
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 59697_199
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 59725_107
 
@@ -10419,41 +11539,29 @@ Locus: 59763_157
 
 Locus: 59864_54
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 59884_58
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 59892_181
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 59895_33
 
 Locus: 59936_59
 
+Locus: 59953_138
+
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
-	Offspring allele 2: 3
-
-Locus: 59953_138
+	Offspring allele 2: 4
 
 Locus: 59958_147
 
 Locus: 59965_145
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 59997_82
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 60002_122
 
@@ -10470,7 +11578,7 @@ Locus: 60067_132
 Locus: 60096_141
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 60146_155
@@ -10487,23 +11595,27 @@ Locus: 60209_27
 
 Locus: 60210_86
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 60229_75
 
 Locus: 60232_30
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 60250_9
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 60261_198
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 60274_156
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
 
 Locus: 60291_87
 
@@ -10513,30 +11625,26 @@ Locus: 60291_87
 
 Locus: 60293_68
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 60305_158
 
-Locus: 60381_110
-
 	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 60381_110
 
 Locus: 60385_70
 
 Locus: 60416_53
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 60422_81
 
 	Mom homozygous allele: 3
-	Offspring allele 1: 3
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 60437_144
@@ -10563,11 +11671,11 @@ Locus: 60638_50
 
 Locus: 60651_15
 
-Locus: 60675_172
-
-	Mom homozygous allele: 4
+	Mom homozygous allele: 3
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 3
+
+Locus: 60675_172
 
 Locus: 60688_65
 
@@ -10593,6 +11701,10 @@ Locus: 60822_139
 
 Locus: 60878_187
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 60918_201
 
 	Mom homozygous allele: 3
@@ -10601,15 +11713,23 @@ Locus: 60918_201
 
 Locus: 60929_145
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 61031_52
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 61040_177
+
+Locus: 61098_158
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
 	Offspring allele 2: 4
-
-Locus: 61098_158
 
 Locus: 61169_45
 
@@ -10617,11 +11737,23 @@ Locus: 61179_14
 
 Locus: 61219_159
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 61260_168
 
 Locus: 61281_72
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 61307_56
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 61308_29
 
@@ -10633,7 +11765,7 @@ Locus: 61319_178
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 61330_126
 
@@ -10653,6 +11785,10 @@ Locus: 61464_199
 
 Locus: 61561_159
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 61589_125
 
 	Mom homozygous allele: 2
@@ -10666,6 +11802,10 @@ Locus: 61616_172
 Locus: 61632_44
 
 Locus: 61660_39
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 61668_86
 
@@ -10681,7 +11821,15 @@ Locus: 61684_16
 
 Locus: 61686_80
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 61692_16
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 61703_79
 
@@ -10689,15 +11837,7 @@ Locus: 61729_195
 
 Locus: 61751_89
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 61782_83
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 61814_75
 
@@ -10708,6 +11848,10 @@ Locus: 61814_75
 Locus: 61886_157
 
 Locus: 61892_123
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 61902_124
 
@@ -10721,19 +11865,15 @@ Locus: 61941_175
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 1
-	Offspring allele 2: 2
+	Offspring allele 2: 1
 
 Locus: 61942_94
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 61989_134
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 62100_174
 
@@ -10745,7 +11885,7 @@ Locus: 62160_60
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 62163_190
 
@@ -10761,6 +11901,10 @@ Locus: 62208_119
 
 Locus: 62232_141
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 62258_116
 
 Locus: 62279_135
@@ -10773,9 +11917,13 @@ Locus: 62338_151
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 62394_65
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 62455_69
 
@@ -10785,7 +11933,7 @@ Locus: 62548_38
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 62550_168
 
@@ -10795,7 +11943,7 @@ Locus: 62564_158
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 62593_156
 
@@ -10817,6 +11965,10 @@ Locus: 62610_34
 
 Locus: 62620_27
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 62664_163
 
 	Mom homozygous allele: 4
@@ -10827,13 +11979,13 @@ Locus: 62666_86
 
 Locus: 62743_94
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 62762_155
 
 Locus: 62777_117
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 62804_194
 
@@ -10847,12 +11999,12 @@ Locus: 63032_190
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 63048_24
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 63073_32
@@ -10861,13 +12013,13 @@ Locus: 63100_194
 
 Locus: 63108_193
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 63126_55
 
 Locus: 63153_185
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 63202_80
 
@@ -10879,7 +12031,7 @@ Locus: 63267_5
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 63279_63
 
@@ -10898,10 +12050,14 @@ Locus: 63500_11
 Locus: 63513_197
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 2
+	Offspring allele 1: 1
 	Offspring allele 2: 2
 
 Locus: 63541_184
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 63569_24
 
@@ -10913,17 +12069,21 @@ Locus: 63633_117
 
 Locus: 63732_127
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 63754_111
 
 Locus: 63773_192
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 63782_19
 
 Locus: 63813_75
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 63822_178
 
@@ -10945,13 +12105,13 @@ Locus: 63882_178
 
 Locus: 63906_110
 
-Locus: 63917_153
-
-Locus: 63924_67
-
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 63917_153
+
+Locus: 63924_67
 
 Locus: 63986_146
 
@@ -10961,11 +12121,19 @@ Locus: 64012_120
 
 Locus: 64014_151
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 64018_198
 
 Locus: 64076_118
 
 Locus: 64102_23
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 64112_45
 
@@ -10989,15 +12157,19 @@ Locus: 64263_163
 
 Locus: 64351_127
 
-Locus: 64365_129
-
-	Mom homozygous allele: 2
+	Mom homozygous allele: 3
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 3
+
+Locus: 64365_129
 
 Locus: 64385_145
 
 Locus: 64391_186
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 64421_50
 
@@ -11006,10 +12178,6 @@ Locus: 64428_127
 Locus: 64439_34
 
 Locus: 64447_173
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 64461_159
 
@@ -11037,7 +12205,7 @@ Locus: 64589_185
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 64593_147
 
@@ -11045,7 +12213,7 @@ Locus: 64595_62
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 64598_108
 
@@ -11054,10 +12222,6 @@ Locus: 64600_183
 Locus: 64646_142
 
 Locus: 64734_191
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 64756_90
 
@@ -11068,6 +12232,10 @@ Locus: 64770_174
 	Offspring allele 2: 4
 
 Locus: 64841_194
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 64860_45
 
@@ -11084,6 +12252,10 @@ Locus: 64867_202
 Locus: 64893_122
 
 Locus: 64927_199
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 64980_58
 
@@ -11109,7 +12281,7 @@ Locus: 65133_39
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 65186_177
 
@@ -11117,21 +12289,25 @@ Locus: 65193_56
 
 Locus: 65224_114
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 65229_125
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 65237_114
 
 Locus: 65244_78
 
-Locus: 65261_26
-
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 65261_26
 
 Locus: 65308_19
 
@@ -11141,15 +12317,7 @@ Locus: 65450_47
 
 Locus: 65474_178
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 65482_51
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 65534_17
 
@@ -11168,10 +12336,14 @@ Locus: 65565_129
 Locus: 65608_199
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 4
+	Offspring allele 1: 2
 	Offspring allele 2: 4
 
 Locus: 65628_177
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 65642_109
 
@@ -11190,10 +12362,6 @@ Locus: 65783_48
 Locus: 65795_83
 
 Locus: 65802_174
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
 
 Locus: 65812_21
 
@@ -11219,7 +12387,7 @@ Locus: 65967_120
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 65985_9
 
@@ -11235,10 +12403,6 @@ Locus: 66047_161
 
 Locus: 66186_115
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 2
-
 Locus: 66256_7
 
 Locus: 66282_18
@@ -11253,6 +12417,10 @@ Locus: 66351_65
 
 Locus: 66367_186
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 66381_55
 
 	Mom homozygous allele: 4
@@ -11263,11 +12431,11 @@ Locus: 66385_47
 
 Locus: 66413_111
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 66567_120
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 66586_125
 
@@ -11278,10 +12446,6 @@ Locus: 66612_158
 Locus: 66618_10
 
 Locus: 66643_70
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 66672_62
 
@@ -11297,29 +12461,33 @@ Locus: 66764_179
 
 Locus: 66775_194
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 66792_200
 
 Locus: 66806_71
-
-Locus: 66808_41
-
-Locus: 66875_126
-
-Locus: 66893_66
-
-Locus: 66929_125
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
-Locus: 66958_203
+Locus: 66808_41
 
-Locus: 66978_129
+Locus: 66875_126
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 66893_66
+
+Locus: 66929_125
+
+Locus: 66958_203
+
+Locus: 66978_129
 
 Locus: 67033_109
 
@@ -11328,7 +12496,7 @@ Locus: 67153_13
 Locus: 67155_184
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 2
 	Offspring allele 2: 2
 
 Locus: 67195_23
@@ -11339,17 +12507,13 @@ Locus: 67214_74
 
 Locus: 67261_83
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 67266_43
 
 Locus: 67331_188
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 67335_80
 
@@ -11363,7 +12527,7 @@ Locus: 67461_119
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 1
-	Offspring allele 2: 4
+	Offspring allele 2: 1
 
 Locus: 67480_113
 
@@ -11374,6 +12538,10 @@ Locus: 67499_36
 Locus: 67549_85
 
 Locus: 67580_69
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 67606_81
 
@@ -11399,9 +12567,17 @@ Locus: 67869_127
 
 Locus: 67871_135
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 67921_146
 
 Locus: 67954_46
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 68010_88
 
@@ -11420,7 +12596,7 @@ Locus: 68082_149
 Locus: 68154_69
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 68176_150
@@ -11430,7 +12606,7 @@ Locus: 68215_85
 Locus: 68222_169
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 68236_37
@@ -11443,17 +12619,13 @@ Locus: 68256_123
 
 Locus: 68316_173
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 68319_80
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 68385_203
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 68423_45
 
@@ -11467,10 +12639,6 @@ Locus: 68470_16
 
 Locus: 68506_13
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 68524_130
 
 Locus: 68641_110
@@ -11480,6 +12648,10 @@ Locus: 68655_91
 Locus: 68704_153
 
 Locus: 68766_125
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 68792_8
 
@@ -11503,15 +12675,19 @@ Locus: 69001_10
 
 Locus: 69103_124
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 69107_64
 
 Locus: 69190_129
 
-Locus: 69213_73
-
-	Mom homozygous allele: 1
+	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 69213_73
 
 Locus: 69285_26
 
@@ -11523,6 +12699,10 @@ Locus: 69348_112
 
 Locus: 69363_125
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 69385_141
 
 	Mom homozygous allele: 3
@@ -11530,6 +12710,10 @@ Locus: 69385_141
 	Offspring allele 2: 3
 
 Locus: 69395_27
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 69406_182
 
@@ -11539,17 +12723,25 @@ Locus: 69406_182
 
 Locus: 69458_133
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 69469_143
 
 Locus: 69490_153
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 69548_125
 
 Locus: 69596_45
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 69603_111
 
@@ -11557,15 +12749,19 @@ Locus: 69616_32
 
 Locus: 69621_92
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 69624_146
 
 Locus: 69636_53
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 69686_123
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 69718_176
 
@@ -11574,6 +12770,10 @@ Locus: 69756_92
 Locus: 69770_188
 
 Locus: 69803_119
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 69817_146
 
@@ -11587,17 +12787,13 @@ Locus: 70144_45
 
 Locus: 70275_7
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 70279_179
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 70284_61
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 70295_151
 
@@ -11609,7 +12805,15 @@ Locus: 70300_39
 
 Locus: 70340_89
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 3
+
 Locus: 70367_123
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 70439_139
 
@@ -11621,13 +12825,13 @@ Locus: 70465_137
 
 Locus: 70480_82
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 70483_109
 
 Locus: 70494_85
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 70502_111
 
@@ -11642,7 +12846,7 @@ Locus: 70562_48
 Locus: 70597_91
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 70643_195
@@ -11655,17 +12859,9 @@ Locus: 70692_84
 
 Locus: 70716_174
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 70736_82
 
 Locus: 70743_46
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 70755_71
 
@@ -11693,10 +12889,6 @@ Locus: 70879_61
 
 Locus: 70924_166
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 70964_27
 
 Locus: 71046_159
@@ -11717,27 +12909,27 @@ Locus: 71135_156
 
 Locus: 71164_120
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 71230_110
 
 Locus: 71289_109
 
 Locus: 71303_111
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 71317_191
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 71358_35
 
 Locus: 71361_86
 
 Locus: 71384_140
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
 
 Locus: 71427_69
 
@@ -11747,11 +12939,19 @@ Locus: 71427_69
 
 Locus: 71442_74
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 71516_52
 
 Locus: 71536_63
 
 Locus: 71557_196
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 71582_5
 
@@ -11776,6 +12976,10 @@ Locus: 71697_174
 Locus: 71703_48
 
 Locus: 71711_115
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 71724_151
 
@@ -11805,6 +13009,10 @@ Locus: 71917_18
 
 Locus: 71921_170
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
 Locus: 71957_26
 
 	Mom homozygous allele: 1
@@ -11812,6 +13020,10 @@ Locus: 71957_26
 	Offspring allele 2: 3
 
 Locus: 71971_107
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 72132_188
 
@@ -11821,13 +13033,17 @@ Locus: 72132_188
 
 Locus: 72232_49
 
+Locus: 72252_128
+
 	Mom homozygous allele: 1
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
-Locus: 72252_128
-
 Locus: 72286_107
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 72287_16
 
@@ -11841,6 +13057,10 @@ Locus: 72297_12
 
 Locus: 72316_201
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 72319_189
 
 	Mom homozygous allele: 3
@@ -11850,6 +13070,10 @@ Locus: 72319_189
 Locus: 72338_63
 
 Locus: 72607_135
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 2
 
 Locus: 72675_127
 
@@ -11864,6 +13088,10 @@ Locus: 72769_180
 Locus: 72780_163
 
 Locus: 72807_147
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 72809_69
 
@@ -11883,6 +13111,10 @@ Locus: 72966_38
 
 Locus: 73054_109
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 73136_48
 
 	Mom homozygous allele: 4
@@ -11893,15 +13125,27 @@ Locus: 73161_76
 
 Locus: 73174_116
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 73178_157
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 73258_125
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 73300_22
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 73334_203
 
@@ -11911,29 +13155,29 @@ Locus: 73396_139
 
 Locus: 73436_153
 
-Locus: 73444_48
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
 	Offspring allele 2: 4
+
+Locus: 73444_48
 
 Locus: 73461_56
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 73505_153
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 73633_130
 
 Locus: 73642_123
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
-
 Locus: 73676_25
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 73694_89
 
@@ -11946,7 +13190,7 @@ Locus: 73741_24
 Locus: 73787_129
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 73843_180
@@ -11955,15 +13199,11 @@ Locus: 73876_79
 
 Locus: 73881_116
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 73989_148
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 1
-	Offspring allele 2: 2
+	Offspring allele 2: 1
 
 Locus: 74142_144
 
@@ -11971,19 +13211,15 @@ Locus: 74192_108
 
 Locus: 74248_125
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 74260_48
 
 Locus: 74267_94
 
-Locus: 74278_130
-
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 74278_130
 
 Locus: 74307_174
 
@@ -12009,11 +13245,11 @@ Locus: 75014_5
 
 Locus: 75026_197
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 75065_114
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 75124_58
 
@@ -12022,38 +13258,34 @@ Locus: 75156_173
 Locus: 75232_92
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 75283_134
 
 Locus: 75315_148
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 75342_77
 
 Locus: 75488_8
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 75592_192
 
 Locus: 75626_86
 
+Locus: 75722_50
+
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
-Locus: 75722_50
-
 Locus: 75729_172
 
 Locus: 75769_113
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 75796_116
 
@@ -12067,15 +13299,15 @@ Locus: 75875_148
 
 Locus: 75902_174
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 75928_107
 
 Locus: 75991_112
 
 Locus: 76131_38
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 1
-	Offspring allele 2: 2
 
 Locus: 76141_126
 
@@ -12083,11 +13315,11 @@ Locus: 76144_41
 
 Locus: 76205_43
 
+Locus: 76233_157
+
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
-
-Locus: 76233_157
 
 Locus: 76272_16
 
@@ -12107,10 +13339,6 @@ Locus: 76436_166
 
 Locus: 76456_170
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 76498_157
 
 Locus: 76584_32
@@ -12118,6 +13346,10 @@ Locus: 76584_32
 Locus: 76599_127
 
 Locus: 76619_71
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 76649_73
 
@@ -12131,9 +13363,17 @@ Locus: 76930_38
 
 Locus: 77008_42
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 3
+
 Locus: 77009_22
 
 Locus: 77103_161
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 77143_165
 
@@ -12145,10 +13385,6 @@ Locus: 77278_191
 
 Locus: 77295_39
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 77303_178
 
 Locus: 77495_203
@@ -12157,10 +13393,6 @@ Locus: 77523_37
 
 Locus: 77564_127
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 77604_137
 
 Locus: 77624_148
@@ -12168,10 +13400,6 @@ Locus: 77624_148
 Locus: 77664_39
 
 Locus: 77714_141
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 77753_132
 
@@ -12185,7 +13413,7 @@ Locus: 77906_43
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 77932_65
 
@@ -12194,10 +13422,6 @@ Locus: 77936_29
 Locus: 77972_24
 
 Locus: 78079_109
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 78100_65
 
@@ -12209,19 +13433,23 @@ Locus: 78123_84
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 78279_110
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 78319_172
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 78353_48
 
 Locus: 78400_85
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 78589_153
 
@@ -12251,31 +13479,31 @@ Locus: 78957_72
 
 Locus: 78962_92
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 79009_170
 
 Locus: 79191_165
-
-Locus: 79203_162
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
-Locus: 79230_127
-
-Locus: 79244_189
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 3
 	Offspring allele 2: 4
 
+Locus: 79203_162
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 2
+
+Locus: 79230_127
+
+Locus: 79244_189
+
 Locus: 79263_75
 
 Locus: 79326_163
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 79334_46
 
@@ -12304,10 +13532,6 @@ Locus: 79876_141
 Locus: 79890_136
 
 Locus: 79905_145
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 79935_128
 
@@ -12369,11 +13593,19 @@ Locus: 81057_152
 
 Locus: 81111_154
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 81187_22
 
 Locus: 81249_60
 
 Locus: 81299_126
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 81301_64
 
@@ -12382,10 +13614,6 @@ Locus: 81301_64
 	Offspring allele 2: 4
 
 Locus: 81322_186
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 81323_42
 
@@ -12401,11 +13629,11 @@ Locus: 81338_198
 
 Locus: 81340_23
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 81481_173
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: 81520_181
 
@@ -12413,15 +13641,19 @@ Locus: 81551_60
 
 Locus: 81567_177
 
-Locus: 81572_162
-
-	Mom homozygous allele: 3
+	Mom homozygous allele: 1
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 4
+
+Locus: 81572_162
 
 Locus: 81621_112
 
 Locus: 81630_112
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
 
 Locus: 81639_49
 
@@ -12436,10 +13668,6 @@ Locus: 81842_176
 Locus: 81906_88
 
 Locus: 81941_194
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 81965_116
 
@@ -12459,15 +13687,23 @@ Locus: 82000_130
 
 Locus: 82073_174
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 82114_72
 
 Locus: 82203_52
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 82210_202
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 82362_73
 
@@ -12493,7 +13729,15 @@ Locus: 82784_183
 
 Locus: 82848_18
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 82855_123
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 82876_205
 
@@ -12509,14 +13753,10 @@ Locus: 83161_169
 
 Locus: 83165_158
 
-	Mom homozygous allele: 4
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 83175_191
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 83221_135
@@ -12524,6 +13764,10 @@ Locus: 83221_135
 Locus: 83269_149
 
 Locus: 83334_169
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 83391_14
 
@@ -12539,7 +13783,15 @@ Locus: 83443_180
 
 Locus: 83479_119
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 83486_165
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 83505_60
 
@@ -12551,10 +13803,6 @@ Locus: 83652_122
 
 Locus: 83686_141
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 83697_9
 
 Locus: 83800_192
@@ -12565,9 +13813,21 @@ Locus: 83860_167
 
 Locus: 84034_41
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 84070_112
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 84083_74
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
 
 Locus: 84148_37
 
@@ -12577,6 +13837,10 @@ Locus: 84169_224
 
 Locus: 84221_78
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 84304_136
 
 	Mom homozygous allele: 3
@@ -12585,13 +13849,21 @@ Locus: 84304_136
 
 Locus: 84330_44
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 84417_63
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 84480_123
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 1
 
 Locus: 84566_192
 
@@ -12601,7 +13873,7 @@ Locus: 84664_172
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 84714_146
 
@@ -12609,7 +13881,7 @@ Locus: 84771_44
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 3
-	Offspring allele 2: 4
+	Offspring allele 2: 3
 
 Locus: 84790_78
 
@@ -12623,10 +13895,6 @@ Locus: 84902_198
 
 Locus: 84903_146
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 84944_53
 
 	Mom homozygous allele: 1
@@ -12638,6 +13906,10 @@ Locus: 85057_142
 Locus: 85105_195
 
 Locus: 85136_205
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 85169_33
 
@@ -12657,15 +13929,23 @@ Locus: 85441_113
 
 Locus: 85490_197
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 85655_33
 
 Locus: 85680_177
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 85806_165
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 85835_67
 
@@ -12679,6 +13959,10 @@ Locus: 86062_12
 
 Locus: 86076_42
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 86078_11
 
 	Mom homozygous allele: 2
@@ -12687,27 +13971,19 @@ Locus: 86078_11
 
 Locus: 86210_131
 
-Locus: 86268_177
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
-Locus: 86337_9
-
-	Mom homozygous allele: 2
+	Mom homozygous allele: 4
 	Offspring allele 1: 2
 	Offspring allele 2: 4
+
+Locus: 86268_177
+
+Locus: 86337_9
 
 Locus: 86389_159
 
 Locus: 86534_141
 
 Locus: 86540_205
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 86565_179
 
@@ -12717,21 +13993,33 @@ Locus: 86679_180
 
 Locus: 86800_15
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 86843_73
 
 Locus: 86964_137
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
 
 Locus: 87041_125
 
 Locus: 87053_196
 
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
 Locus: 87096_178
 
-Locus: 87144_154
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
 	Offspring allele 2: 3
+
+Locus: 87144_154
 
 Locus: 87161_117
 
@@ -12745,39 +14033,43 @@ Locus: 87427_191
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 87436_9
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 2
+	Offspring allele 2: 4
 
 Locus: 87458_202
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 87492_145
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 87510_196
 
 Locus: 87530_109
 
-Locus: 87535_196
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
 	Offspring allele 2: 4
+
+Locus: 87535_196
 
 Locus: 87560_12
 
 Locus: 87718_200
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 1
 
 Locus: 87754_110
 
@@ -12786,6 +14078,10 @@ Locus: 87754_110
 	Offspring allele 2: 4
 
 Locus: 87805_165
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 87870_158
 
@@ -12801,10 +14097,6 @@ Locus: 88133_166
 
 Locus: 88138_158
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 88168_111
 
 Locus: 88229_154
@@ -12817,10 +14109,6 @@ Locus: 88273_90
 
 Locus: 88347_82
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 2
-	Offspring allele 2: 3
-
 Locus: 88358_160
 
 	Mom homozygous allele: 2
@@ -12828,10 +14116,6 @@ Locus: 88358_160
 	Offspring allele 2: 4
 
 Locus: 88444_188
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 88567_171
 
@@ -12859,10 +14143,6 @@ Locus: 88851_55
 
 Locus: 88929_15
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 4
-
 Locus: 88935_108
 
 Locus: 89020_124
@@ -12870,24 +14150,20 @@ Locus: 89020_124
 Locus: 89030_167
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 2
 	Offspring allele 2: 2
 
 Locus: 89039_168
-
-Locus: 89070_66
-
-Locus: 89185_198
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
 	Offspring allele 2: 3
 
-Locus: 89229_160
+Locus: 89070_66
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 89185_198
+
+Locus: 89229_160
 
 Locus: 89259_183
 
@@ -12897,15 +14173,27 @@ Locus: 89324_145
 
 Locus: 89325_129
 
-Locus: 89339_168
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-Locus: 89362_122
+Locus: 89339_168
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
+Locus: 89362_122
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
+
 Locus: 89381_159
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 89417_195
 
@@ -12915,20 +14203,20 @@ Locus: 89518_57
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 89568_167
 
-Locus: 89622_34
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
+Locus: 89622_34
 
 Locus: 89631_24
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 3
+	Offspring allele 1: 1
 	Offspring allele 2: 3
 
 Locus: 89638_7
@@ -12954,7 +14242,7 @@ Locus: 89780_37
 Locus: 89798_114
 
 	Mom homozygous allele: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 89833_74
@@ -12962,10 +14250,6 @@ Locus: 89833_74
 Locus: 89930_156
 
 Locus: 89943_73
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 89994_116
 
@@ -12977,13 +14261,13 @@ Locus: 90000_201
 
 Locus: 90066_124
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 90089_89
 
 Locus: 90095_201
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 90130_57
 
@@ -12992,44 +14276,48 @@ Locus: 90185_63
 Locus: 90238_124
 
 	Mom homozygous allele: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 3
 
 Locus: 90267_175
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 90272_147
 
 Locus: 90285_191
 
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 90314_60
 
 Locus: 90360_118
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 90383_159
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 4
+
+Locus: 90426_138
 
 	Mom homozygous allele: 2
 	Offspring allele 1: 2
 	Offspring allele 2: 4
 
-Locus: 90426_138
-
 Locus: 90437_75
 
 	Mom homozygous allele: 3
-	Offspring allele 1: 3
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 90455_113
 
 Locus: 90462_114
-
-	Mom homozygous allele: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 3
 
 Locus: 90487_16
 
@@ -13037,13 +14325,17 @@ Locus: 90494_121
 
 Locus: 90550_182
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
 Locus: 90560_90
 
 Locus: 90598_168
 
 	Mom homozygous allele: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 4
+	Offspring allele 2: 2
 
 Locus: 90648_79
 
@@ -13051,15 +14343,31 @@ Locus: 90664_27
 
 Locus: 90680_107
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
 Locus: 90785_108
 
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
 Locus: 90811_170
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 90813_122
 
 Locus: 90815_19
 
 Locus: 90837_140
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 90853_177
 
@@ -13068,10 +14376,6 @@ Locus: 90853_177
 	Offspring allele 2: 3
 
 Locus: 90958_126
-
-	Mom homozygous allele: 4
-	Offspring allele 1: 1
-	Offspring allele 2: 4
 
 Locus: 91029_170
 
@@ -13091,7 +14395,7 @@ Locus: 91173_117
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 91235_56
 
@@ -13101,7 +14405,15 @@ Locus: 91376_120
 
 Locus: 91395_153
 
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
 Locus: 91400_114
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
 Locus: 91441_89
 
@@ -13113,11 +14425,11 @@ Locus: 91460_112
 
 Locus: 91479_192
 
-Locus: 91509_178
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
+Locus: 91509_178
 
 Locus: 91555_202
 
@@ -13125,19 +14437,11 @@ Locus: 91558_41
 
 Locus: 91594_162
 
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
-
 Locus: 91603_192
 
 Locus: 91608_183
 
 Locus: 91672_185
-
-	Mom homozygous allele: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 4
 
 Locus: 91723_154
 
@@ -13148,6 +14452,10 @@ Locus: 91723_154
 Locus: 91750_60
 
 Locus: 91820_138
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 91909_108
 
@@ -13183,13 +14491,13 @@ Locus: 92348_90
 
 Locus: 92389_124
 
-	Mom homozygous allele: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 4
-
 Locus: 92440_118
 
 Locus: 92509_51
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 92534_113
 
@@ -13203,16 +14511,12 @@ Locus: 92715_48
 
 Locus: 92797_165
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 3
-
 Locus: 92883_111
 
 Locus: 92937_57
 
 	Mom homozygous allele: 3
-	Offspring allele 1: 3
+	Offspring allele 1: 4
 	Offspring allele 2: 4
 
 Locus: 92955_184
@@ -13220,6 +14524,10 @@ Locus: 92955_184
 Locus: 93049_118
 
 Locus: 93050_155
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: 93051_196
 
@@ -13238,6 +14546,10 @@ Locus: 93123_86
 Locus: 93139_49
 
 Locus: 93227_125
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: 93265_6
 
@@ -13271,9 +14583,13 @@ Locus: 93398_195
 
 	Mom homozygous allele: 3
 	Offspring allele 1: 1
-	Offspring allele 2: 3
+	Offspring allele 2: 1
 
 Locus: 145949_91
 
 Locus: 215664_128
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
 
