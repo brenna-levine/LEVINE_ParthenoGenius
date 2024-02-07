@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 15:06:47 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:01:35 #########
 
 
 Parameters:
-	Infile = TEST-DATA-SETS/INFILES//TEST-DATA-NON-PARTH.csv
-	Outfile = TEST-DATA-SETS/INFILES//TEST-DATA-NON-PARTH.csv
+	Infile = ./TEST-DATA-SETS/INFILES/TEST-DATA-GAMETIC-DUPLICATION.csv
+	Outfile = ./TEST-DATA-SETS/OUTFILES/TEST-DATA-GAM-DUP
 	Error = 0.01
 
 
@@ -21,19 +21,11 @@ Locus: SNP_3
 
 Locus: SNP_5
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 0
-
 Locus: SNP_8
 
 Locus: SNP_10
 
 Locus: SNP_18
-
-	Mom homozygous allele: 1
-	Offspring allele 1: 0
-	Offspring allele 2: 1
 
 Locus: SNP_19
 
@@ -41,23 +33,11 @@ Locus: SNP_20
 
 Locus: SNP_21
 
-	Mom homozygous allele: 0
-	Offspring allele 1: 0
-	Offspring allele 2: 1
-
 Locus: SNP_24
-
-	Mom homozygous allele: 0
-	Offspring allele 1: 0
-	Offspring allele 2: 1
 
 Locus: SNP_29
 
 Locus: SNP_30
-
-	Mom homozygous allele: 0
-	Offspring allele 1: 0
-	Offspring allele 2: 1
 
 Locus: SNP_31
 
@@ -77,19 +57,11 @@ Locus: SNP_54
 
 Locus: SNP_55
 
-	Mom homozygous allele: 1
-	Offspring allele 1: 0
-	Offspring allele 2: 1
-
 Locus: SNP_64
 
 Locus: SNP_69
 
 Locus: SNP_70
-
-	Mom homozygous allele: 0
-	Offspring allele 1: 0
-	Offspring allele 2: 1
 
 Locus: SNP_71
 
@@ -101,23 +73,11 @@ Locus: SNP_90
 
 Locus: SNP_91
 
-	Mom homozygous allele: 0
-	Offspring allele 1: 0
-	Offspring allele 2: 1
-
 Locus: SNP_92
 
 Locus: SNP_93
 
 Locus: SNP_94
 
-	Mom homozygous allele: 0
-	Offspring allele 1: 0
-	Offspring allele 2: 1
-
 Locus: SNP_100
-
-	Mom homozygous allele: 0
-	Offspring allele 1: 1
-	Offspring allele 2: 0
 

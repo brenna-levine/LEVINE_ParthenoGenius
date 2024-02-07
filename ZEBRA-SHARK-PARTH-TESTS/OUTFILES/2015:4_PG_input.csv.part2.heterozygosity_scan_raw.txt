@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 11/01/2024 14:30:49 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:52:16 #########
 
 
 Parameters:
-	Infile = ZEBRA-SHARK-PARTH-TESTS/INFILES/2015:4_PG_input.csv
-	Outfile = ZEBRA-SHARK-PARTH-TESTS/INFILES/2015:4_PG_input.csv
+	Infile = ./ZEBRA-SHARK-PARTH-TESTS/INFILES/2015:4_PG_input.csv
+	Outfile = ./ZEBRA-SHARK-PARTH-TESTS/INFILES/2015:4_PG_input.csv
 	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0
 
 

@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS LOCUS SCAN ########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 12/01/2024 12:11:28 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:35:12 #########
 
 
 Parameters:
-	Infile = CROC-PARTH-TESTS/thin_10K/INFILES/thin_10K.csv
-	Outfile = CROC-PARTH-TESTS/thin_10K/INFILES/thin_10K.csv
+	Infile = ./CROC-PARTH-TESTS/thin_10K/INFILES/thin_10K.csv
+	Outfile = ./CROC-PARTH-TESTS/thin_10K/INFILES/thin_10K.csv
 	Error = 0.001
 
 

@@ -266,10 +266,11 @@ if ((len(males_homo)) <= (float(args.error)*len(mom_homozyg))): #if evidence of 
         fileobject.write(f"Total number of loci for which mom and offspring do not have missing data: {len(mom_het)+len(mom_homozyg)}\n")
         fileobject.write(f"Number of loci for which mom is heterozygous: {len(mom_het)}\n") #print total number of loci
         fileobject.write(f"Number of mom's heterozygous loci for which offspring has retained maternal heterozygosity: {len(males)}\n") #print number of loci for which all males have paternal alleles
-        fileobject.write(f"Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication (based on error rate): {round((len(mom_het))*float(estim_error), 3)}\n")
+        fileobject.write(f"Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication: {round((len(mom_het))*float(estim_error), 3)}\n")
         fileobject.write(f"Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of central fusion automixis (based on retained heterozyosity assumption of 66%): {round((len(mom_het))*float(0.66), 3)}\n")
         fileobject.write(f"Range of numbers of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of terminal fusion automixis: > {round((len(mom_het))*float(estim_error), 3)} - < {round((len(mom_het))*float(0.66), 3)}\n")
-        fileobject.write(f"Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: {round(len(males)/len(mom_het), 5)}\n\n")
+        fileobject.write(f"Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of endoduplication: >= {round((len(mom_het))*(1-float(estim_error)), 3)}\n")
+        fileobject.write(f"Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: {round(len(males)/len(mom_het), 3)}\n\n")
 
 
         #### BEGIN NEW ADDITION 2 NOV 2022#######
@@ -279,12 +280,16 @@ if ((len(males_homo)) <= (float(args.error)*len(mom_homozyg))): #if evidence of 
 
         #Test for significance - if proportion on mom's heterozygous loci for which male is heterozygous differ is less
         #than or equal to default or user-defined sequencing error rate, call a likely parthenogen
-        if ((len(males)) > (float(estim_error)*len(mom_het))) and ((len(males)) < (float(0.66)*len(mom_het))): #######EDITED 27 NOV 23
+        if ((len(males)) > (float(estim_error)*len(mom_het))) and ((len(males)) < (float(0.666)*len(mom_het))): #######EDITED 27 NOV 23
             fileobject.write(f"This parthenogen was likely produced via:\tTERMINAL FUSION AUTOMIXIS\n\n")
             fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the number expected based on estimated error rate alone assuming a null hypothesis of gametic duplication and less than the number expected given an alternative hypothesis of central fusion automixis (assuming at last 66% retained maternal heterozygosity).\n")
-        elif ((len(males)) >= (float(0.66)*len(mom_het))): #######EDITED 27 NOV 23
+        elif ((len(males)) >= (float(0.666)*len(mom_het))) and ((len(males) < ((1-float(estim_error))*len(mom_het)))) : #######EDITED 7 FEB 23
             fileobject.write(f"This parthenogen was likely produced via:\tCENTRAL FUSION AUTOMIXIS\n\n")
-            fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the number expected given an alternative hypothesis of central fusion automixis (assuming at last 66% retained maternal heterozygosity).\n")
+            fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the number expected given an alternative hypothesis of central fusion automixis (assuming at least 66% retained maternal heterozygosity).\n")
+        elif ((len(males)) >= ((1-float(estim_error))*len(mom_het))): #######EDITED 7 FEB 24
+            fileobject.write(f"This parthenogen was likely produced via:\tENDODUPLICATION\n\n")
+            fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the number expected considering genotyping error and an alternative hypothesis of endoduplication.\n\n")
+            fileobject.write(f"***Note: 100% retention of maternal heterozygosity is also a potential outcome of central fusion automixis, but it is highly unlikely as it would require zero recombination.")
         else:
             fileobject.write(f"This parthenogen was likely produced via:\tGAMETIC DUPLICATION\n\n")
             fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is less than the number expected based on estimated error rate alone assuming a null hypothesis of gametic duplication.\n")

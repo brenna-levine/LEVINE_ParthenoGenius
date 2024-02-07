@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 15:06:47 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:01:35 #########
 
 
 Parameters:
-	Infile = TEST-DATA-SETS/INFILES//TEST-DATA-GAMETIC-DUPLICATION.csv
-	Outfile = TEST-DATA-SETS/INFILES//TEST-DATA-GAMETIC-DUPLICATION.csv
+	Infile = ./TEST-DATA-SETS/INFILES/TEST-DATA-GAMETIC-DUPLICATION.csv
+	Outfile = ./TEST-DATA-SETS/OUTFILES/TEST-DATA-GAM-DUP
 	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0
 
 

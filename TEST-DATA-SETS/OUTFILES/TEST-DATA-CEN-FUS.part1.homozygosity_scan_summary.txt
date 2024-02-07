@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS LOCUS SCAN ########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 15:06:48 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:02:15 #########
 
 
 Parameters:
-	Infile = TEST-DATA-SETS/INFILES//TEST-DATA-TERMINAL-FUSION.csv
-	Outfile = TEST-DATA-SETS/INFILES//TEST-DATA-TERMINAL-FUSION.csv
+	Infile = ./TEST-DATA-SETS/INFILES/TEST-DATA-CENTRAL-FUSION.csv
+	Outfile = ./TEST-DATA-SETS/OUTFILES/TEST-DATA-CEN-FUS
 	Error = 0.01
 
 

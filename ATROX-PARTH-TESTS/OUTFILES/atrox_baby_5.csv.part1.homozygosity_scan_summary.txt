@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS LOCUS SCAN ########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 15:09:32 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:20:48 #########
 
 
 Parameters:
-	Infile = ATROX-PARTH-TESTS/INFILES/atrox_baby_5.csv
-	Outfile = ATROX-PARTH-TESTS/INFILES/atrox_baby_5.csv
+	Infile = ./ATROX-PARTH-TESTS/INFILES/atrox_baby_5.csv
+	Outfile = ./ATROX-PARTH-TESTS/INFILES/atrox_baby_5.csv
 	Error = 0.01
 
 

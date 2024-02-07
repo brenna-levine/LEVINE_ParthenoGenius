@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 15:50:14 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:11:13 #########
 
 
 Parameters:
-	Infile = COBRA-PARTH-TESTS/INFILES/baby_1.csv
-	Outfile = COBRA-PARTH-TESTS/INFILES/baby_1.csv
+	Infile = ./COBRA-PARTH-TESTS/INFILES/baby_1.csv
+	Outfile = ./COBRA-PARTH-TESTS/INFILES/baby_1.csv
 	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.00606
 
 

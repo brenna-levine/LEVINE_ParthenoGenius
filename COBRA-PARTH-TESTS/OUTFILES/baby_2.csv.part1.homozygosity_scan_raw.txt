@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 15:50:19 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:11:17 #########
 
 
 Parameters:
-	Infile = COBRA-PARTH-TESTS/INFILES/baby_2.csv
-	Outfile = COBRA-PARTH-TESTS/INFILES/baby_2.csv
+	Infile = ./COBRA-PARTH-TESTS/INFILES/baby_2.csv
+	Outfile = ./COBRA-PARTH-TESTS/INFILES/baby_2.csv
 	Error = 0.01
 
 

@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 16:12:57 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:28:23 #########
 
 
 Parameters:
-	Infile = CONDOR-PARTH-TESTS/INFILES/condor-SB517.csv
-	Outfile = CONDOR-PARTH-TESTS/INFILES/condor-SB517.csv
+	Infile = ./CONDOR-PARTH-TESTS/INFILES/condor-SB517.csv
+	Outfile = ./CONDOR-PARTH-TESTS/INFILES/condor-SB517.csv
 	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0
 
 

@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 12/01/2024 12:11:28 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:35:12 #########
 
 
 Parameters:
-	Infile = CROC-PARTH-TESTS/thin_10K/INFILES/thin_10K.csv
-	Outfile = CROC-PARTH-TESTS/thin_10K/INFILES/thin_10K.csv
+	Infile = ./CROC-PARTH-TESTS/thin_10K/INFILES/thin_10K.csv
+	Outfile = ./CROC-PARTH-TESTS/thin_10K/INFILES/thin_10K.csv
 	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.00045
 
 
@@ -16,10 +16,11 @@ Number of loci in input file with missing data: 0
 Total number of loci for which mom and offspring do not have missing data: 191255
 Number of loci for which mom is heterozygous: 5015
 Number of mom's heterozygous loci for which offspring has retained maternal heterozygosity: 152
-Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication (based on error rate): 2.235
+Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication: 2.235
 Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of central fusion automixis (based on retained heterozyosity assumption of 66%): 3309.9
 Range of numbers of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of terminal fusion automixis: > 2.235 - < 3309.9
-Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: 0.03031
+Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of endoduplication: >= 5012.765
+Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: 0.03
 
 Genotype Sharing Index (Mxy):
 	Per Blouin et al. 1996, Mxy ranges from 0 - 2, as individuals can share up to 2 alleles per locus

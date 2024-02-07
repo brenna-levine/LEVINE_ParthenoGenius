@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 15:50:19 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:11:17 #########
 
 
 Parameters:
-	Infile = COBRA-PARTH-TESTS/INFILES/baby_2.csv
-	Outfile = COBRA-PARTH-TESTS/INFILES/baby_2.csv
+	Infile = ./COBRA-PARTH-TESTS/INFILES/baby_2.csv
+	Outfile = ./COBRA-PARTH-TESTS/INFILES/baby_2.csv
 	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0036
 
 
@@ -16,10 +16,11 @@ Number of loci in input file with missing data: 0
 Total number of loci for which mom and offspring do not have missing data: 20562
 Number of loci for which mom is heterozygous: 278
 Number of mom's heterozygous loci for which offspring has retained maternal heterozygosity: 75
-Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication (based on error rate): 1.0
+Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication: 1.0
 Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of central fusion automixis (based on retained heterozyosity assumption of 66%): 183.48
 Range of numbers of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of terminal fusion automixis: > 1.0 - < 183.48
-Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: 0.26978
+Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of endoduplication: >= 277.0
+Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: 0.27
 
 Genotype Sharing Index (Mxy):
 	Per Blouin et al. 1996, Mxy ranges from 0 - 2, as individuals can share up to 2 alleles per locus

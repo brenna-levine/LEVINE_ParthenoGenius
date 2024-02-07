@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 15:03:25 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:14:16 #########
 
 
 Parameters:
-	Infile = ANACONDA-PARTH-TESTS/INFILES/anaconda-2015-OS2.csv
-	Outfile = ANACONDA-PARTH-TESTS/INFILES/anaconda-2015-OS2.csv
+	Infile = ./ANACONDA-PARTH-TESTS/INFILES/anaconda-2015-OS2.csv
+	Outfile = ./ANACONDA-PARTH-TESTS/INFILES/anaconda-2015-OS2.csv
 	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0
 
 
@@ -16,9 +16,10 @@ Number of loci in input file with missing data: 0
 Total number of loci for which mom and offspring do not have missing data: 16
 Number of loci for which mom is heterozygous: 14
 Number of mom's heterozygous loci for which offspring has retained maternal heterozygosity: 0
-Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication (based on error rate): 0.0
+Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication: 0.0
 Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of central fusion automixis (based on retained heterozyosity assumption of 66%): 9.24
 Range of numbers of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of terminal fusion automixis: > 0.0 - < 9.24
+Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of endoduplication: >= 14.0
 Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: 0.0
 
 Genotype Sharing Index (Mxy):

@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS LOCUS SCAN ########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 15:27:40 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:24:44 #########
 
 
 Parameters:
-	Infile = BEADED-LIZARD-PARTH-TESTS/INFILES/GBL-17-R009_PG_input.csv
-	Outfile = BEADED-LIZARD-PARTH-TESTS/INFILES/GBL-17-R009_PG_input.csv
+	Infile = ./BEADED-LIZARD-PARTH-TESTS/INFILES/GBL-17-R009_PG_input.csv
+	Outfile = ./BEADED-LIZARD-PARTH-TESTS/INFILES/GBL-17-R009_PG_input.csv
 	Error = 0.01
 
 

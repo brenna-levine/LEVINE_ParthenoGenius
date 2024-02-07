@@ -1,11 +1,11 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
 ######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
-######## Data generated: (D/M/Y) 30/11/2023 15:06:48 #########
+######## Data generated: (D/M/Y) 07/02/2024 10:01:55 #########
 
 
 Parameters:
-	Infile = TEST-DATA-SETS/INFILES//TEST-DATA-TERMINAL-FUSION.csv
-	Outfile = TEST-DATA-SETS/INFILES//TEST-DATA-TERMINAL-FUSION.csv
+	Infile = ./TEST-DATA-SETS/INFILES/TEST-DATA-TERMINAL-FUSION.csv
+	Outfile = ./TEST-DATA-SETS/OUTFILES/TEST-DATA-TERM-FUS
 	Error = 0.01
 
 
