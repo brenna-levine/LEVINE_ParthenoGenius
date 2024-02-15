@@ -280,10 +280,10 @@ if ((len(males_homo)) <= (float(args.error)*len(mom_homozyg))): #if evidence of 
 
         #Test for significance - if proportion on mom's heterozygous loci for which male is heterozygous differ is less
         #than or equal to default or user-defined sequencing error rate, call a likely parthenogen
-        if ((len(males)) > (float(estim_error)*len(mom_het))) and ((len(males)) < (float(0.666)*len(mom_het))): #######EDITED 27 NOV 23
+        if ((len(males)) > (float(estim_error)*len(mom_het))) and ((len(males)) < (float(0.67)*len(mom_het))): #######EDITED 27 NOV 23
             fileobject.write(f"This parthenogen was likely produced via:\tTERMINAL FUSION AUTOMIXIS\n\n")
             fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the number expected based on estimated error rate alone assuming a null hypothesis of gametic duplication and less than the number expected given an alternative hypothesis of central fusion automixis (assuming at last 66% retained maternal heterozygosity).\n")
-        elif ((len(males)) >= (float(0.666)*len(mom_het))) and ((len(males) < ((1-float(estim_error))*len(mom_het)))) : #######EDITED 7 FEB 23
+        elif ((len(males)) >= (float(0.67)*len(mom_het))) and ((len(males) < ((1-float(estim_error))*len(mom_het)))) : #######EDITED 7 FEB 23
             fileobject.write(f"This parthenogen was likely produced via:\tCENTRAL FUSION AUTOMIXIS\n\n")
             fileobject.write(f"\tThe number of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the number expected given an alternative hypothesis of central fusion automixis (assuming at least 66% retained maternal heterozygosity).\n")
         elif ((len(males)) >= ((1-float(estim_error))*len(mom_het))): #######EDITED 7 FEB 24
