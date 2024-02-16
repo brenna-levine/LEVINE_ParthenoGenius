@@ -62,10 +62,10 @@ NVP-004,1,1,0,0,0
 NVP-004,1,1,1,1,0
 NVP-006,0,1,1,1,1
 NVP-006,1,1,1,0,1
-NVP-009,0,1,0,0,0
+NVP-009,0,1,-9,0,0
 NVP-009,0,0,0,1,0
-NVP-010,0,1,1,1,0
-NVP-010,1,1,1,1,0
+NVP-010,0,-9,1,1,0
+NVP-010,1,-9,1,1,0
 ```
 Note - IDs in the ```ID_pairs.txt``` and ```genotypes.csv``` must be the same. These files must be in the same directory as the ```PG_file_prep.sh``` script.
 
