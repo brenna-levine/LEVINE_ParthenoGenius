@@ -81,5 +81,42 @@ To do so, modify the wrapper script to reflect name of the directory containing 
 
 Output files will be automatically named according to the input file name and can be found in the directory containing the input files.
 
+# Tutorial
+
+The following tutorial demonstrates how to use ```PG_file_prep.sh``` and ```PG_wrapper.sh``` to prepare input files from a larger .csv file and iteratively run ```ParthenoGenius.py``` on all of the generated input files. For the tutorial, we are using the same data as is present in the ```NEPALESE-VIPER-PARTH-TEST``` directory. This directory contains two emtpy directories (```INFILES``` AND ```OUTFILES```), the ```PG_file_prep.sh``` script, a larger .csv containing genotypes of multiple offspring and their mothers (```genotypes.csv```) and a file that specifies mother/offspring pairs (```ID_pairs.txt```).
+
+First, navigate to the tutorial directory from the ParthenoGenius home directory.
+
+```cd TUTORIAL```
+
+Next, use ```less``` to view the ```ID_pairs.txt``` and ```genotypes.csv``` file. Notice that the ID names in the ```ID_pairs.txt``` file match those in the ```genotypes.csv``` file. Now, execute the local copy of ```PG_file_prep.sh```.
+
+```./PG_file_prep.sh```
+
+View the contents of the directory with ```ls```. You should now see three infiles corresponsing to the three sets of mother/offspring pairs in the ```ID_pairs.txt``` file. Notice that the files names correspond to the IDs of the offspring in each mother/offspring pair.
+
+Now, move all of the newly generated infiles to the ```INFILES/``` directory.
+
+```mv NVP* INFILES/```
+
+Then, navigate back to main ParthenoGenius directory.
+
+```../```
+
+I have already modified the ```PG_wrapper.sh``` script to reflect the location of the infiles and created a copy of the wrapper script specific to this tutorial (```PG_wrapper-TUTORIAL.sh```). View this version of the wrapper script with ```less``` and notice that the infile directory location is ```./TUTORIAL/INFILES```. I have also modified this wrapper script to include the optional user-defined error rate. Notice that ```--error 0.01``` is specified in the ParthenoGenius command. Now, execute the ```PG_wrapper-TUTORIAL.sh``` script.
+
+```./PG_wrapper-TUTORIAL.sh```
+
+Upon completion of the wrapper script, navigate to the tutorial infile directory.
+
+```cd TUTORIAL/INFILES```
+
+Use ```ls``` to view the contents of the directory. Notice that there are now three sets of outfiles - one set for each mother/offspring pair. You can now move the outfiles to the ```OUTFILES``` directory to maintain organization.
+
+```mv *part* ../OUTFILES/```
+
+
+
+
 
 
