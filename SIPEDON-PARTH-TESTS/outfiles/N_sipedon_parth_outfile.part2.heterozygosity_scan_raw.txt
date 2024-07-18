@@ -1,0 +1,30 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 08/04/2024 10:34:33 #########
+
+
+Parameters:
+	Infile = SIPEDON-PARTH-TESTS/infiles/N_sipedon_parth_infile.csv
+	Outfile = SIPEDON-PARTH-TESTS/outfiles/N_sipedon_parth_outfile
+	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0
+
+
+The following are the IDs for the loci at which the mom is heterozygous. Loci at which the mother or offspring have missing data are not included.
+If the offspring is heterozygous for the mom's alleles, the mom's and offspring's alleles are printed below.
+
+Please refer to the maternal heterozygous loci summary output file for summary statistics.
+
+Locus: Tbu-A3
+
+Locus: Tbu-A62
+
+Locus: Tbu-A64
+
+Locus: Tbu-A70
+
+Locus: Tbu-A74
+
+Locus: Tbu-A95
+
+Locus: Tbu-B38
+

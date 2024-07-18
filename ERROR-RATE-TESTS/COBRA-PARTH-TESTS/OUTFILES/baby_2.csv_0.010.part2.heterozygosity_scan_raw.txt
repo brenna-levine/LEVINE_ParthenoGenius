@@ -1,0 +1,947 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 11/06/2024 12:12:28 #########
+
+
+Parameters:
+	Infile = ERROR-RATE-TESTS/COBRA-PARTH-TESTS/INFILES/baby_2.csv
+	Outfile = ERROR-RATE-TESTS/COBRA-PARTH-TESTS/INFILES/baby_2.csv_0.010
+	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0036
+
+
+The following are the IDs for the loci at which the mom is heterozygous. Loci at which the mother or offspring have missing data are not included.
+If the offspring is heterozygous for the mom's alleles, the mom's and offspring's alleles are printed below.
+
+Please refer to the maternal heterozygous loci summary output file for summary statistics.
+
+Locus: Locus_88
+
+Locus: Locus_102
+
+Locus: Locus_103
+
+Locus: Locus_160
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_228
+
+Locus: Locus_242
+
+Locus: Locus_253
+
+Locus: Locus_282
+
+Locus: Locus_311
+
+Locus: Locus_411
+
+Locus: Locus_479
+
+Locus: Locus_534
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_582
+
+Locus: Locus_585
+
+Locus: Locus_595
+
+Locus: Locus_632
+
+Locus: Locus_653
+
+Locus: Locus_688
+
+Locus: Locus_691
+
+Locus: Locus_697
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_708
+
+Locus: Locus_709
+
+Locus: Locus_711
+
+Locus: Locus_724
+
+Locus: Locus_737
+
+Locus: Locus_743
+
+Locus: Locus_753
+
+Locus: Locus_813
+
+Locus: Locus_823
+
+Locus: Locus_840
+
+Locus: Locus_884
+
+Locus: Locus_921
+
+Locus: Locus_961
+
+Locus: Locus_971
+
+Locus: Locus_1011
+
+Locus: Locus_1026
+
+Locus: Locus_1071
+
+Locus: Locus_1105
+
+Locus: Locus_1122
+
+Locus: Locus_1132
+
+Locus: Locus_1144
+
+Locus: Locus_1248
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_1264
+
+Locus: Locus_1290
+
+Locus: Locus_1295
+
+Locus: Locus_1377
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_1380
+
+Locus: Locus_1392
+
+Locus: Locus_1413
+
+Locus: Locus_1529
+
+Locus: Locus_1533
+
+Locus: Locus_1575
+
+Locus: Locus_1656
+
+Locus: Locus_1669
+
+Locus: Locus_1679
+
+Locus: Locus_1758
+
+Locus: Locus_1806
+
+Locus: Locus_1845
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_1853
+
+Locus: Locus_2099
+
+Locus: Locus_2166
+
+Locus: Locus_2283
+
+Locus: Locus_2319
+
+Locus: Locus_2376
+
+Locus: Locus_2430
+
+Locus: Locus_2441
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_2484
+
+Locus: Locus_2635
+
+Locus: Locus_2646
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_2652
+
+Locus: Locus_2687
+
+Locus: Locus_2716
+
+Locus: Locus_2740
+
+Locus: Locus_2960
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_2992
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_3001
+
+Locus: Locus_3036
+
+Locus: Locus_3063
+
+Locus: Locus_3208
+
+Locus: Locus_3249
+
+Locus: Locus_3380
+
+Locus: Locus_3425
+
+Locus: Locus_3502
+
+Locus: Locus_3516
+
+Locus: Locus_3545
+
+Locus: Locus_3578
+
+Locus: Locus_3609
+
+Locus: Locus_3618
+
+Locus: Locus_3651
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_3728
+
+Locus: Locus_3765
+
+Locus: Locus_3803
+
+Locus: Locus_3904
+
+Locus: Locus_3922
+
+Locus: Locus_3954
+
+Locus: Locus_3984
+
+Locus: Locus_4036
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_4046
+
+Locus: Locus_4067
+
+Locus: Locus_4138
+
+Locus: Locus_4146
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_4339
+
+Locus: Locus_4437
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_4450
+
+Locus: Locus_4451
+
+Locus: Locus_4462
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_4463
+
+Locus: Locus_4480
+
+Locus: Locus_4532
+
+Locus: Locus_4642
+
+Locus: Locus_4656
+
+Locus: Locus_4664
+
+Locus: Locus_4835
+
+Locus: Locus_4867
+
+Locus: Locus_4931
+
+Locus: Locus_4957
+
+Locus: Locus_4975
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_5048
+
+Locus: Locus_5102
+
+Locus: Locus_5150
+
+Locus: Locus_5164
+
+Locus: Locus_5209
+
+Locus: Locus_5271
+
+Locus: Locus_5311
+
+Locus: Locus_5318
+
+Locus: Locus_5340
+
+Locus: Locus_5365
+
+Locus: Locus_5506
+
+Locus: Locus_5512
+
+Locus: Locus_5546
+
+Locus: Locus_5594
+
+Locus: Locus_5607
+
+Locus: Locus_5681
+
+Locus: Locus_5735
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_5774
+
+Locus: Locus_5846
+
+Locus: Locus_5848
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_5876
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_5902
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_5944
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_5960
+
+Locus: Locus_5990
+
+Locus: Locus_6160
+
+Locus: Locus_6186
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_6217
+
+Locus: Locus_6267
+
+Locus: Locus_6398
+
+Locus: Locus_6444
+
+Locus: Locus_6522
+
+Locus: Locus_6530
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_6591
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_6747
+
+Locus: Locus_6771
+
+Locus: Locus_6786
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_6878
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_6955
+
+Locus: Locus_6986
+
+Locus: Locus_6997
+
+Locus: Locus_7073
+
+Locus: Locus_7130
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_7226
+
+Locus: Locus_7249
+
+Locus: Locus_7278
+
+Locus: Locus_7284
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_7287
+
+Locus: Locus_7487
+
+Locus: Locus_7623
+
+Locus: Locus_7637
+
+Locus: Locus_7656
+
+Locus: Locus_7715
+
+Locus: Locus_7754
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_7831
+
+Locus: Locus_7979
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_8002
+
+Locus: Locus_8004
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_8030
+
+Locus: Locus_8185
+
+Locus: Locus_8393
+
+Locus: Locus_8469
+
+Locus: Locus_8569
+
+Locus: Locus_8608
+
+Locus: Locus_8617
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_8757
+
+Locus: Locus_8844
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_8997
+
+Locus: Locus_9064
+
+Locus: Locus_9120
+
+Locus: Locus_9121
+
+Locus: Locus_9134
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_9259
+
+Locus: Locus_9406
+
+Locus: Locus_9867
+
+Locus: Locus_10043
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_10078
+
+Locus: Locus_10334
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_10365
+
+Locus: Locus_10544
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_10785
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_10904
+
+Locus: Locus_11024
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_11025
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_11050
+
+Locus: Locus_11075
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_11114
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_11274
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_11317
+
+Locus: Locus_11587
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_11594
+
+Locus: Locus_11641
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_12188
+
+Locus: Locus_12288
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_12482
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_12501
+
+Locus: Locus_12593
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_12797
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_12880
+
+Locus: Locus_12883
+
+Locus: Locus_12887
+
+Locus: Locus_12913
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_13027
+
+Locus: Locus_13046
+
+Locus: Locus_13112
+
+Locus: Locus_13165
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_13229
+
+Locus: Locus_13295
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_13308
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_13439
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_13535
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_13572
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_13637
+
+Locus: Locus_13666
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_13735
+
+Locus: Locus_13810
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_13831
+
+Locus: Locus_13872
+
+Locus: Locus_14087
+
+Locus: Locus_14310
+
+Locus: Locus_14353
+
+Locus: Locus_14468
+
+Locus: Locus_14486
+
+Locus: Locus_14500
+
+Locus: Locus_14939
+
+Locus: Locus_15039
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_15306
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_15364
+
+Locus: Locus_15395
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_15397
+
+Locus: Locus_15510
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_15567
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_15812
+
+Locus: Locus_15879
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_16021
+
+Locus: Locus_16074
+
+Locus: Locus_16162
+
+Locus: Locus_16218
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_16278
+
+Locus: Locus_16308
+
+Locus: Locus_16486
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_16520
+
+Locus: Locus_16895
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_16967
+
+Locus: Locus_17073
+
+Locus: Locus_17502
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_17525
+
+Locus: Locus_17871
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_17929
+
+Locus: Locus_18170
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_18190
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_18449
+
+Locus: Locus_18583
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_18633
+
+Locus: Locus_18695
+
+Locus: Locus_19219
+
+Locus: Locus_19978
+
+Locus: Locus_20009
+
+Locus: Locus_20096
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_20142
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+
+Locus: Locus_20535
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 1
+

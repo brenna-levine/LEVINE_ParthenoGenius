@@ -1,0 +1,27 @@
+######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS LOCUS SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 10/06/2024 14:11:19 #########
+
+
+Parameters:
+	Infile = ERROR-RATE-TESTS/CONDOR-PARTH-TESTS/INFILES/condor-SB260.csv
+	Outfile = ERROR-RATE-TESTS/CONDOR-PARTH-TESTS/INFILES/condor-SB260.csv_0.001
+	Error = 0.001
+
+
+Total number of loci in input file scanned (may include loci with missing data): 22
+
+
+THE FOLLOWING STATS REFERS ONLY TO LOCI AT WHICH NEITHER THE MOTHER NOR OFFSPRING HAVE MISSING DATA:
+
+	Number of loci for which mom is homozygous and offspring are not missing data: 10
+	Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0
+	Maximum number of homozygous loci expected to differ between mom and offspring based on error rate: 0.01
+	Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.0
+	Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: 1.0
+
+
+THE OFFSPRING IS LIKELY A PARTHENOGEN.
+
+	The number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles is less than expected from the genotyping error rate alone.
+	Incongruence between maternal genotypes and offspring genotypes is likely due to genotyping error rather than the presence of paternal alleles.

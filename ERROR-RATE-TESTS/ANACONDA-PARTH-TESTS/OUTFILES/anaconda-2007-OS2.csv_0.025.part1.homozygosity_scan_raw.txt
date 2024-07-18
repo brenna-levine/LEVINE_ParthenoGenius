@@ -1,0 +1,29 @@
+######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 10/06/2024 12:25:29 #########
+
+
+Parameters:
+	Infile = ERROR-RATE-TESTS/ANACONDA-PARTH-TESTS/INFILES/anaconda-2007-OS2.csv
+	Outfile = ERROR-RATE-TESTS/ANACONDA-PARTH-TESTS/INFILES/anaconda-2007-OS2.csv_0.025
+	Error = 0.025
+
+
+The following are the IDs for the loci at which the mom is homozygous. Loci at which the mom or offspring have missing data are not included.
+If an offspring allele differs from the maternal homozygous genotype, the incongruous maternal allele and offspring allele are printed below the locus.
+
+Please refer to the maternal homozygous loci scan summary output file for summary statistics.
+
+
+Locus: EmuTri008
+
+	Mom homozygous allele: 190
+	Offspring allele 1: 187
+	Offspring allele 2: 190
+
+Locus: EmuTri013
+
+	Mom homozygous allele: 166
+	Offspring allele 1: 151
+	Offspring allele 2: 166
+

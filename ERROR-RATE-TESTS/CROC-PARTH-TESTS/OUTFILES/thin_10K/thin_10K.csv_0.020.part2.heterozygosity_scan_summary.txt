@@ -1,0 +1,33 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 11/06/2024 14:50:30 #########
+
+
+Parameters:
+	Infile = ERROR-RATE-TESTS/CROC-PARTH-TESTS/INFILES/thin_10K/thin_10K.csv
+	Outfile = ERROR-RATE-TESTS/CROC-PARTH-TESTS/INFILES/thin_10K/thin_10K.csv_0.020
+	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.00045
+
+
+SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR OFFSPRING RETAINED HETEROZYGOSITY
+
+Total number of loci in input file scanned: 191255
+Number of loci in input file with missing data: 0
+Total number of loci for which mom and offspring do not have missing data: 191255
+Number of loci for which mom is heterozygous: 5015
+Number of mom's heterozygous loci for which offspring has retained maternal heterozygosity: 152
+Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication: 2.235
+Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of central fusion automixis (based on retained heterozyosity assumption of 66%): 3309.9
+Range of numbers of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of terminal fusion automixis: > 2.235 - < 3309.9
+Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of endoduplication: >= 5012.765
+Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: 0.03
+
+Genotype Sharing Index (Mxy):
+	Per Blouin et al. 1996, Mxy ranges from 0 - 2, as individuals can share up to 2 alleles per locus
+
+		Mxy: 1.97414
+
+
+This parthenogen was likely produced via:	TERMINAL FUSION AUTOMIXIS
+
+	The number of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the number expected based on estimated error rate alone assuming a null hypothesis of gametic duplication and less than the number expected given an alternative hypothesis of central fusion automixis (assuming at last 66% retained maternal heterozygosity).

@@ -1,0 +1,29 @@
+######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 08/04/2024 10:34:49 #########
+
+
+Parameters:
+	Infile = SIPEDON-PARTH-TESTS/infiles/N_sipedon_male_sib_infile.csv
+	Outfile = SIPEDON-PARTH-TESTS/outfiles/N_sipedon_male_sib_outfile
+	Error = 0.01
+
+
+The following are the IDs for the loci at which the mom is homozygous. Loci at which the mom or offspring have missing data are not included.
+If an offspring allele differs from the maternal homozygous genotype, the incongruous maternal allele and offspring allele are printed below the locus.
+
+Please refer to the maternal homozygous loci scan summary output file for summary statistics.
+
+
+Locus: Tbu-A92
+
+	Mom homozygous allele: 402
+	Offspring allele 1: 400
+	Offspring allele 2: 402
+
+Locus: Tbu-B12
+
+	Mom homozygous allele: 373
+	Offspring allele 1: 373
+	Offspring allele 2: 405
+

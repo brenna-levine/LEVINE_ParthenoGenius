@@ -1,0 +1,6231 @@
+######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 10/06/2024 12:42:44 #########
+
+
+Parameters:
+	Infile = ERROR-RATE-TESTS/BEADED-LIZARD-PARTH-TESTS/INFILES/GBL-13-R029_PG_input.csv
+	Outfile = ERROR-RATE-TESTS/BEADED-LIZARD-PARTH-TESTS/INFILES/GBL-13-R029_PG_input.csv_0.030
+	Error = 0.030
+
+
+The following are the IDs for the loci at which the mom is homozygous. Loci at which the mom or offspring have missing data are not included.
+If an offspring allele differs from the maternal homozygous genotype, the incongruous maternal allele and offspring allele are printed below the locus.
+
+Please refer to the maternal homozygous loci scan summary output file for summary statistics.
+
+
+Locus: 85_29
+
+Locus: 112_84
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 115_68
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 133_49
+
+Locus: 136_16
+
+Locus: 180_7
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 193_14
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 205_66
+
+Locus: 240_13
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 248_65
+
+Locus: 251_56
+
+Locus: 257_24
+
+Locus: 293_6
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 315_17
+
+Locus: 342_83
+
+Locus: 359_94
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 411_94
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 414_19
+
+Locus: 421_7
+
+Locus: 423_94
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 445_28
+
+Locus: 448_40
+
+Locus: 451_44
+
+Locus: 457_55
+
+Locus: 462_13
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 487_52
+
+Locus: 574_94
+
+Locus: 578_94
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 636_32
+
+Locus: 677_48
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 690_83
+
+Locus: 749_25
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 764_94
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 782_94
+
+Locus: 833_6
+
+Locus: 897_71
+
+Locus: 1346_91
+
+Locus: 1358_94
+
+Locus: 1744_72
+
+Locus: 1926_87
+
+Locus: 2123_45
+
+Locus: 2373_84
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 2506_76
+
+Locus: 2594_92
+
+Locus: 2626_13
+
+Locus: 2642_8
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 2704_8
+
+Locus: 2725_17
+
+Locus: 2763_26
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 3075_14
+
+Locus: 3180_83
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 3213_70
+
+Locus: 3619_89
+
+Locus: 3861_74
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 3924_72
+
+Locus: 3944_91
+
+Locus: 3965_7
+
+Locus: 4014_5
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 4130_30
+
+Locus: 4252_17
+
+Locus: 4291_73
+
+Locus: 4356_43
+
+Locus: 4375_11
+
+Locus: 4525_50
+
+Locus: 4531_76
+
+Locus: 4587_37
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 4617_82
+
+Locus: 4625_28
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 4652_67
+
+Locus: 4656_16
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 4693_76
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 4800_45
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 4831_7
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 4839_93
+
+Locus: 4895_24
+
+Locus: 4991_13
+
+Locus: 4995_48
+
+Locus: 5005_21
+
+Locus: 5022_85
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 5044_47
+
+Locus: 5057_5
+
+Locus: 5077_36
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 5090_72
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 5119_44
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 5136_85
+
+Locus: 5205_29
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 5207_57
+
+Locus: 5208_31
+
+Locus: 5239_56
+
+Locus: 5252_51
+
+Locus: 5280_78
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 5295_74
+
+Locus: 5296_88
+
+Locus: 5329_69
+
+Locus: 5377_6
+
+Locus: 5382_87
+
+Locus: 5422_57
+
+Locus: 5437_86
+
+Locus: 5454_26
+
+Locus: 5497_81
+
+Locus: 5516_57
+
+Locus: 5557_27
+
+Locus: 5620_43
+
+Locus: 5621_83
+
+Locus: 5652_7
+
+Locus: 5653_90
+
+Locus: 5759_84
+
+Locus: 5790_35
+
+Locus: 5820_71
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 5847_10
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 5858_34
+
+Locus: 5899_20
+
+Locus: 5902_58
+
+Locus: 6064_69
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 6091_65
+
+Locus: 6106_65
+
+Locus: 6153_81
+
+Locus: 6176_27
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 6219_56
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 6333_70
+
+Locus: 6334_74
+
+Locus: 6354_85
+
+Locus: 6372_54
+
+Locus: 6507_43
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 6574_16
+
+Locus: 6593_77
+
+Locus: 6605_23
+
+Locus: 6629_25
+
+Locus: 6683_8
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 6688_73
+
+Locus: 6747_11
+
+Locus: 6750_7
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 6826_42
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 6838_65
+
+Locus: 6857_30
+
+Locus: 6883_68
+
+Locus: 6930_67
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 6989_84
+
+Locus: 7033_52
+
+Locus: 7088_79
+
+Locus: 7134_75
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 7184_11
+
+Locus: 7197_29
+
+Locus: 7212_59
+
+Locus: 7444_10
+
+Locus: 7637_25
+
+Locus: 7764_48
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 7773_74
+
+Locus: 7787_79
+
+Locus: 7908_68
+
+Locus: 7927_93
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 7954_79
+
+Locus: 7959_38
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 7966_81
+
+Locus: 8014_41
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 8021_68
+
+Locus: 8047_53
+
+Locus: 8111_87
+
+Locus: 8162_11
+
+Locus: 8191_17
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 8201_45
+
+Locus: 8202_58
+
+Locus: 8209_41
+
+Locus: 8262_20
+
+Locus: 8289_54
+
+Locus: 8296_17
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 8301_62
+
+Locus: 8307_20
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 8331_35
+
+Locus: 8384_75
+
+Locus: 8432_11
+
+Locus: 8444_39
+
+Locus: 8449_70
+
+Locus: 8507_5
+
+Locus: 8549_43
+
+Locus: 8572_36
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 8586_15
+
+Locus: 8619_62
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 8725_18
+
+Locus: 8756_18
+
+Locus: 8774_87
+
+Locus: 8848_89
+
+Locus: 8872_5
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 8876_49
+
+Locus: 8877_46
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 8894_14
+
+Locus: 8983_21
+
+Locus: 9010_75
+
+Locus: 9012_9
+
+Locus: 9016_91
+
+Locus: 9018_47
+
+Locus: 9089_45
+
+Locus: 9091_90
+
+Locus: 9102_9
+
+Locus: 9119_18
+
+Locus: 9124_76
+
+Locus: 9140_73
+
+Locus: 9145_84
+
+Locus: 9189_17
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 9209_17
+
+Locus: 9255_39
+
+Locus: 9260_61
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 9273_48
+
+Locus: 9275_91
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 9283_89
+
+Locus: 9333_27
+
+Locus: 9335_27
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 9396_39
+
+Locus: 9536_57
+
+Locus: 9549_41
+
+Locus: 9554_47
+
+Locus: 9558_78
+
+Locus: 9566_90
+
+Locus: 9597_63
+
+Locus: 9619_5
+
+Locus: 9626_43
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 9655_41
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 9664_8
+
+Locus: 9756_74
+
+Locus: 9778_65
+
+Locus: 9785_16
+
+Locus: 9847_7
+
+Locus: 9851_64
+
+Locus: 9886_31
+
+Locus: 9889_10
+
+Locus: 9921_74
+
+Locus: 9945_61
+
+Locus: 9953_84
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 9965_8
+
+Locus: 10038_11
+
+Locus: 10061_36
+
+Locus: 10139_81
+
+Locus: 10307_75
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 10323_51
+
+Locus: 10370_81
+
+Locus: 10412_9
+
+Locus: 10419_59
+
+Locus: 10426_54
+
+Locus: 10434_11
+
+Locus: 10471_65
+
+Locus: 10516_13
+
+Locus: 10558_64
+
+Locus: 10610_18
+
+Locus: 10708_57
+
+Locus: 10744_15
+
+Locus: 10755_48
+
+Locus: 10794_73
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 10869_40
+
+Locus: 10921_84
+
+Locus: 10960_79
+
+Locus: 10995_43
+
+Locus: 10996_80
+
+Locus: 11023_82
+
+Locus: 11027_47
+
+Locus: 11055_73
+
+Locus: 11071_39
+
+Locus: 11073_8
+
+Locus: 11155_10
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 11292_25
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 11293_66
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 11303_41
+
+Locus: 11342_55
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 11402_78
+
+Locus: 11404_42
+
+Locus: 11408_17
+
+Locus: 11453_23
+
+Locus: 11461_90
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 11469_43
+
+Locus: 11482_13
+
+Locus: 11553_12
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 11640_53
+
+Locus: 11645_89
+
+Locus: 11652_65
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 11668_48
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 11731_22
+
+Locus: 11741_41
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 11773_17
+
+Locus: 11777_60
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 11786_17
+
+Locus: 11801_31
+
+Locus: 11821_52
+
+Locus: 12079_23
+
+Locus: 12092_44
+
+Locus: 12116_68
+
+Locus: 12177_82
+
+Locus: 12281_73
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 12309_82
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 12319_18
+
+Locus: 12360_58
+
+Locus: 12392_42
+
+Locus: 12407_11
+
+Locus: 12461_18
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 12505_20
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 12511_34
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 12542_46
+
+Locus: 12585_90
+
+Locus: 12591_41
+
+Locus: 12605_69
+
+Locus: 12621_70
+
+Locus: 12746_26
+
+Locus: 12801_43
+
+Locus: 12825_39
+
+Locus: 12829_56
+
+Locus: 12840_39
+
+Locus: 12926_58
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 12995_80
+
+Locus: 13013_31
+
+Locus: 13029_68
+
+Locus: 13054_47
+
+Locus: 13201_39
+
+Locus: 13222_83
+
+Locus: 13244_26
+
+Locus: 13285_8
+
+Locus: 13361_35
+
+Locus: 13435_90
+
+Locus: 13467_16
+
+Locus: 13487_36
+
+Locus: 13492_9
+
+Locus: 13511_47
+
+Locus: 13549_41
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 13574_61
+
+Locus: 13745_13
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 13768_30
+
+Locus: 13774_27
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 13786_7
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 13804_77
+
+Locus: 13805_53
+
+Locus: 13822_78
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 13911_50
+
+Locus: 13928_6
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 13963_19
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 14004_40
+
+Locus: 14039_63
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 14088_85
+
+Locus: 14109_92
+
+Locus: 14142_83
+
+Locus: 14194_71
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 14219_44
+
+Locus: 14251_22
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 14278_87
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 14337_90
+
+Locus: 14383_33
+
+Locus: 14410_57
+
+Locus: 14419_40
+
+Locus: 14422_56
+
+Locus: 14457_44
+
+Locus: 14459_84
+
+Locus: 14475_59
+
+Locus: 14485_57
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 14489_23
+
+Locus: 14520_88
+
+Locus: 14608_70
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 14641_78
+
+Locus: 14646_15
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 14668_19
+
+Locus: 14679_12
+
+Locus: 14698_63
+
+Locus: 14716_36
+
+Locus: 14803_14
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 14819_66
+
+Locus: 14825_5
+
+Locus: 14828_58
+
+Locus: 14856_16
+
+Locus: 14874_39
+
+Locus: 14965_49
+
+Locus: 15017_66
+
+Locus: 15032_44
+
+Locus: 15075_40
+
+Locus: 15108_81
+
+Locus: 15147_51
+
+Locus: 15150_91
+
+Locus: 15165_52
+
+Locus: 15248_18
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 15259_22
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 15286_14
+
+Locus: 15297_55
+
+Locus: 15325_59
+
+Locus: 15329_22
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 15340_30
+
+Locus: 15369_10
+
+Locus: 15436_20
+
+Locus: 15609_65
+
+Locus: 15675_7
+
+Locus: 15716_75
+
+Locus: 15744_71
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 15752_7
+
+Locus: 15756_74
+
+Locus: 15766_44
+
+Locus: 15769_12
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 15889_13
+
+Locus: 15934_71
+
+Locus: 15938_40
+
+Locus: 15974_40
+
+Locus: 16116_66
+
+Locus: 16121_1
+
+Locus: 16129_32
+
+Locus: 16187_74
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 16223_30
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 16251_60
+
+Locus: 16261_35
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 16263_23
+
+Locus: 16285_22
+
+Locus: 16385_23
+
+Locus: 16396_77
+
+Locus: 16416_18
+
+Locus: 16485_39
+
+Locus: 16645_88
+
+Locus: 16706_93
+
+Locus: 16722_40
+
+Locus: 16799_88
+
+Locus: 16865_85
+
+Locus: 16986_54
+
+Locus: 16992_22
+
+Locus: 17023_27
+
+Locus: 17050_94
+
+Locus: 17070_67
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 17103_16
+
+Locus: 17118_88
+
+Locus: 17161_57
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 17167_18
+
+Locus: 17193_5
+
+Locus: 17202_20
+
+Locus: 17211_33
+
+Locus: 17226_60
+
+Locus: 17233_73
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 17244_44
+
+Locus: 17251_40
+
+Locus: 17267_73
+
+Locus: 17278_82
+
+Locus: 17298_94
+
+Locus: 17340_80
+
+Locus: 17373_28
+
+Locus: 17386_20
+
+Locus: 17401_48
+
+Locus: 17501_22
+
+Locus: 17523_21
+
+Locus: 17549_55
+
+Locus: 17601_40
+
+Locus: 17602_53
+
+Locus: 17604_5
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 17627_86
+
+Locus: 17629_54
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 17638_93
+
+Locus: 17650_28
+
+Locus: 17868_69
+
+Locus: 17919_90
+
+Locus: 18024_46
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 18115_64
+
+Locus: 18119_36
+
+Locus: 18122_56
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 18199_68
+
+Locus: 18223_90
+
+Locus: 18246_12
+
+Locus: 18258_52
+
+Locus: 18264_64
+
+Locus: 18284_25
+
+Locus: 18300_43
+
+Locus: 18340_73
+
+Locus: 18372_56
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 18385_29
+
+Locus: 18467_30
+
+Locus: 18493_25
+
+Locus: 18536_83
+
+Locus: 18555_58
+
+Locus: 18587_62
+
+Locus: 18606_47
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 18620_9
+
+Locus: 18659_10
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 18662_63
+
+Locus: 18705_78
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 18724_81
+
+Locus: 18730_39
+
+Locus: 18810_12
+
+Locus: 18838_63
+
+Locus: 18869_19
+
+Locus: 18876_47
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 18926_19
+
+Locus: 18936_72
+
+Locus: 19004_66
+
+Locus: 19026_49
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 19051_35
+
+Locus: 19077_69
+
+Locus: 19126_32
+
+Locus: 19133_94
+
+Locus: 19160_83
+
+Locus: 19207_70
+
+Locus: 19222_38
+
+Locus: 19251_86
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 19303_37
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 19311_80
+
+Locus: 19330_19
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 19366_53
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 19373_31
+
+Locus: 19472_58
+
+Locus: 19475_51
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 19597_76
+
+Locus: 19672_41
+
+Locus: 19685_36
+
+Locus: 19693_11
+
+Locus: 19708_90
+
+Locus: 19770_77
+
+Locus: 19835_6
+
+Locus: 19870_10
+
+Locus: 20038_57
+
+Locus: 20085_57
+
+Locus: 20137_53
+
+Locus: 20140_62
+
+Locus: 20159_23
+
+Locus: 20190_38
+
+Locus: 20191_72
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 20204_84
+
+Locus: 20255_32
+
+Locus: 20266_22
+
+Locus: 20330_44
+
+Locus: 20368_56
+
+Locus: 20378_78
+
+Locus: 20418_69
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 20425_91
+
+Locus: 20431_7
+
+Locus: 20432_23
+
+Locus: 20436_36
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 20443_23
+
+Locus: 20453_92
+
+Locus: 20485_8
+
+Locus: 20505_45
+
+Locus: 20517_39
+
+Locus: 20539_22
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 20555_15
+
+Locus: 20566_36
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 20577_91
+
+Locus: 20640_70
+
+Locus: 20682_43
+
+Locus: 20830_91
+
+Locus: 20888_33
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 20894_32
+
+Locus: 20921_38
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 20946_79
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 21026_62
+
+Locus: 21131_10
+
+Locus: 21150_73
+
+Locus: 21219_32
+
+Locus: 21253_79
+
+Locus: 21272_7
+
+Locus: 21300_90
+
+Locus: 21303_25
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 21371_23
+
+Locus: 21372_53
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 21383_44
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 21454_29
+
+Locus: 21578_24
+
+Locus: 21579_19
+
+Locus: 21589_83
+
+Locus: 21631_79
+
+Locus: 21645_15
+
+Locus: 21660_45
+
+Locus: 21675_43
+
+Locus: 21693_61
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 21708_55
+
+Locus: 21729_60
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 21741_18
+
+Locus: 21807_66
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 21853_15
+
+Locus: 21867_70
+
+Locus: 21921_55
+
+Locus: 21924_93
+
+Locus: 22040_18
+
+Locus: 22130_9
+
+Locus: 22156_70
+
+Locus: 22162_89
+
+Locus: 22331_42
+
+Locus: 22339_88
+
+Locus: 22340_90
+
+Locus: 22346_59
+
+Locus: 22420_66
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 22429_18
+
+Locus: 22476_26
+
+Locus: 22480_41
+
+Locus: 22502_72
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 22527_59
+
+Locus: 22573_14
+
+Locus: 22637_88
+
+Locus: 22673_5
+
+Locus: 22726_14
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 22831_34
+
+Locus: 22866_84
+
+Locus: 22878_88
+
+Locus: 22958_44
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 23097_69
+
+Locus: 23132_22
+
+Locus: 23205_17
+
+Locus: 23212_39
+
+Locus: 23231_40
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 23295_50
+
+Locus: 23320_75
+
+Locus: 23349_82
+
+Locus: 23427_6
+
+Locus: 23443_48
+
+Locus: 23492_67
+
+Locus: 23513_19
+
+Locus: 23609_81
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 23622_40
+
+Locus: 23630_85
+
+Locus: 23648_66
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 23687_75
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 23737_63
+
+Locus: 23742_8
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 23806_76
+
+Locus: 23808_67
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 23826_57
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 23843_36
+
+Locus: 23850_70
+
+Locus: 23923_33
+
+Locus: 24012_60
+
+Locus: 24033_48
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 24039_5
+
+Locus: 24046_30
+
+Locus: 24128_35
+
+Locus: 24168_29
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 24175_88
+
+Locus: 24225_75
+
+Locus: 24276_61
+
+Locus: 24294_60
+
+Locus: 24300_50
+
+Locus: 24316_46
+
+Locus: 24330_23
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 24364_90
+
+Locus: 24368_53
+
+Locus: 24398_76
+
+Locus: 24432_10
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 24444_9
+
+Locus: 24464_33
+
+Locus: 24563_8
+
+Locus: 24568_73
+
+Locus: 24587_60
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 24633_16
+
+Locus: 24638_68
+
+Locus: 24673_26
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 24732_45
+
+Locus: 24737_14
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 24749_73
+
+Locus: 24804_12
+
+Locus: 24840_89
+
+Locus: 24848_18
+
+Locus: 24895_16
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 24961_52
+
+Locus: 24968_73
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 25051_45
+
+Locus: 25072_66
+
+Locus: 25174_5
+
+Locus: 25178_68
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 25288_47
+
+Locus: 25299_84
+
+Locus: 25308_93
+
+Locus: 25311_70
+
+Locus: 25312_23
+
+Locus: 25313_75
+
+Locus: 25354_31
+
+Locus: 25376_57
+
+Locus: 25432_88
+
+Locus: 25459_80
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 25472_77
+
+Locus: 25537_28
+
+Locus: 25541_19
+
+Locus: 25603_13
+
+Locus: 25655_88
+
+Locus: 25692_58
+
+Locus: 25738_35
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 25786_84
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 25832_11
+
+Locus: 25872_32
+
+Locus: 25900_87
+
+Locus: 25951_63
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 26048_7
+
+Locus: 26082_14
+
+Locus: 26087_30
+
+Locus: 26153_88
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 26215_39
+
+Locus: 26217_67
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 26245_48
+
+Locus: 26258_34
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 26335_65
+
+Locus: 26398_74
+
+Locus: 26421_94
+
+Locus: 26444_84
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 26524_67
+
+Locus: 26537_72
+
+Locus: 26618_64
+
+Locus: 26699_8
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 26703_78
+
+Locus: 26763_11
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 26783_89
+
+Locus: 26823_43
+
+Locus: 26830_49
+
+Locus: 26833_41
+
+Locus: 26900_51
+
+Locus: 26920_25
+
+Locus: 26951_27
+
+Locus: 26979_61
+
+Locus: 26989_30
+
+Locus: 27019_81
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 27020_71
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 27022_63
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 27025_64
+
+Locus: 27085_16
+
+Locus: 27097_57
+
+Locus: 27113_85
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 27120_68
+
+Locus: 27180_16
+
+Locus: 27194_43
+
+Locus: 27246_14
+
+Locus: 27290_20
+
+Locus: 27300_53
+
+Locus: 27327_67
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 27353_90
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 27373_44
+
+Locus: 27425_58
+
+Locus: 27432_83
+
+Locus: 27512_11
+
+Locus: 27661_82
+
+Locus: 27787_23
+
+Locus: 27791_40
+
+Locus: 27811_60
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 27827_85
+
+Locus: 27839_9
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 27848_59
+
+Locus: 27858_10
+
+Locus: 27899_34
+
+Locus: 27928_60
+
+Locus: 27976_6
+
+Locus: 27996_14
+
+Locus: 28034_7
+
+Locus: 28042_93
+
+Locus: 28048_10
+
+Locus: 28058_7
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 28067_17
+
+Locus: 28071_8
+
+Locus: 28122_28
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 28129_48
+
+Locus: 28156_33
+
+Locus: 28160_86
+
+Locus: 28169_61
+
+Locus: 28172_71
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 28174_17
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 28281_30
+
+Locus: 28388_40
+
+Locus: 28421_86
+
+Locus: 28436_70
+
+Locus: 28440_73
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 28512_45
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 28549_20
+
+Locus: 28558_65
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 28570_18
+
+Locus: 28585_56
+
+Locus: 28603_69
+
+Locus: 28607_40
+
+Locus: 28612_87
+
+Locus: 28637_47
+
+Locus: 28677_12
+
+Locus: 28702_63
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 28719_63
+
+Locus: 28739_87
+
+Locus: 28759_7
+
+Locus: 28784_43
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 28844_44
+
+Locus: 28859_60
+
+Locus: 28888_70
+
+Locus: 28899_7
+
+Locus: 28909_30
+
+Locus: 28977_24
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 29040_20
+
+Locus: 29133_36
+
+Locus: 29138_66
+
+Locus: 29153_33
+
+Locus: 29164_64
+
+Locus: 29180_47
+
+Locus: 29227_47
+
+Locus: 29279_49
+
+Locus: 29292_14
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 29333_32
+
+Locus: 29396_57
+
+Locus: 29444_15
+
+Locus: 29454_13
+
+Locus: 29471_49
+
+Locus: 29496_89
+
+Locus: 29584_85
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 29649_88
+
+Locus: 29658_23
+
+Locus: 29682_60
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 29794_55
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 29816_88
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 29837_71
+
+Locus: 29868_66
+
+Locus: 29901_41
+
+Locus: 29916_49
+
+Locus: 30012_17
+
+Locus: 30031_46
+
+Locus: 30049_81
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 30100_68
+
+Locus: 30204_78
+
+Locus: 30209_28
+
+Locus: 30264_92
+
+Locus: 30300_70
+
+Locus: 30321_31
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 30348_25
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 30356_30
+
+Locus: 30410_64
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 30413_83
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 30440_76
+
+Locus: 30467_30
+
+Locus: 30479_2
+
+Locus: 30516_50
+
+Locus: 30570_49
+
+Locus: 30574_56
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 30594_5
+
+Locus: 30630_49
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 30655_30
+
+Locus: 30665_10
+
+Locus: 30681_63
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 30701_66
+
+Locus: 30702_71
+
+Locus: 30764_73
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 30767_29
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 30820_83
+
+Locus: 30861_67
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 30922_50
+
+Locus: 30949_61
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 31046_43
+
+Locus: 31067_77
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 31084_84
+
+Locus: 31176_10
+
+Locus: 31220_69
+
+Locus: 31280_35
+
+Locus: 31293_87
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 31301_40
+
+Locus: 31333_5
+
+Locus: 31372_62
+
+Locus: 31471_93
+
+Locus: 31501_34
+
+Locus: 31507_29
+
+Locus: 31514_70
+
+Locus: 31522_66
+
+Locus: 31599_10
+
+Locus: 31605_10
+
+Locus: 31642_27
+
+Locus: 31646_11
+
+Locus: 31749_16
+
+Locus: 31884_93
+
+Locus: 31986_29
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 32062_30
+
+Locus: 32066_74
+
+Locus: 32122_5
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 32180_70
+
+Locus: 32367_38
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 32385_60
+
+Locus: 32406_72
+
+Locus: 32452_73
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 32461_34
+
+Locus: 32466_14
+
+Locus: 32486_30
+
+Locus: 32582_35
+
+Locus: 32679_43
+
+Locus: 32683_22
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 32707_29
+
+Locus: 32763_84
+
+Locus: 32813_22
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 32832_74
+
+Locus: 32839_44
+
+Locus: 32848_90
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 32981_38
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 33042_74
+
+Locus: 33160_56
+
+Locus: 33203_56
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 33277_54
+
+Locus: 33364_52
+
+Locus: 33396_24
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 33401_91
+
+Locus: 33404_57
+
+Locus: 33460_19
+
+Locus: 33461_56
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 33471_55
+
+Locus: 33516_69
+
+Locus: 33606_10
+
+Locus: 33639_72
+
+Locus: 33662_10
+
+Locus: 33669_77
+
+Locus: 33708_91
+
+Locus: 33860_32
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 33871_28
+
+Locus: 33882_89
+
+Locus: 33955_34
+
+Locus: 33994_77
+
+Locus: 33995_28
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 34021_70
+
+Locus: 34046_44
+
+Locus: 34064_30
+
+Locus: 34184_15
+
+Locus: 34217_46
+
+Locus: 34241_43
+
+Locus: 34311_46
+
+Locus: 34344_48
+
+Locus: 34360_70
+
+Locus: 34365_59
+
+Locus: 34460_58
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 34515_24
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 34524_17
+
+Locus: 34543_19
+
+Locus: 34547_32
+
+Locus: 34557_78
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 34602_76
+
+Locus: 34644_5
+
+Locus: 34720_17
+
+Locus: 34743_49
+
+Locus: 34791_92
+
+Locus: 34849_38
+
+Locus: 34877_92
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 34879_58
+
+Locus: 35031_84
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 35063_72
+
+Locus: 35067_58
+
+Locus: 35073_59
+
+Locus: 35094_11
+
+Locus: 35141_88
+
+Locus: 35168_50
+
+Locus: 35222_32
+
+Locus: 35326_88
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 35372_39
+
+Locus: 35397_10
+
+Locus: 35405_19
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 35409_29
+
+Locus: 35422_23
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 35468_40
+
+Locus: 35528_81
+
+Locus: 35549_26
+
+Locus: 35556_52
+
+Locus: 35789_39
+
+Locus: 35807_73
+
+Locus: 35808_67
+
+Locus: 35840_39
+
+Locus: 35900_30
+
+Locus: 35936_82
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 35950_37
+
+Locus: 36024_27
+
+Locus: 36035_40
+
+Locus: 36088_56
+
+Locus: 36112_82
+
+Locus: 36113_78
+
+Locus: 36118_87
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 36147_36
+
+Locus: 36153_7
+
+Locus: 36168_65
+
+Locus: 36260_84
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 36265_67
+
+Locus: 36290_20
+
+Locus: 36296_5
+
+Locus: 36298_57
+
+Locus: 36364_88
+
+Locus: 36366_30
+
+Locus: 36395_15
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 36425_72
+
+Locus: 36426_27
+
+Locus: 36428_30
+
+Locus: 36569_9
+
+Locus: 36586_75
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 36590_89
+
+Locus: 36628_9
+
+Locus: 36638_10
+
+Locus: 36694_70
+
+Locus: 36695_14
+
+Locus: 36736_87
+
+Locus: 36769_90
+
+Locus: 36789_91
+
+Locus: 36806_9
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 36836_10
+
+Locus: 36899_62
+
+Locus: 36920_49
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 36931_69
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 36992_39
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 37017_81
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 37046_94
+
+Locus: 37049_21
+
+Locus: 37067_43
+
+Locus: 37099_22
+
+Locus: 37116_65
+
+Locus: 37224_70
+
+Locus: 37243_59
+
+Locus: 37247_27
+
+Locus: 37253_45
+
+Locus: 37260_7
+
+Locus: 37299_76
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 37304_26
+
+Locus: 37313_23
+
+Locus: 37387_21
+
+Locus: 37395_36
+
+Locus: 37416_68
+
+Locus: 37492_92
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 37628_59
+
+Locus: 37714_65
+
+Locus: 37782_45
+
+Locus: 37888_37
+
+Locus: 37893_17
+
+Locus: 37897_60
+
+Locus: 37905_46
+
+Locus: 37915_38
+
+Locus: 37968_13
+
+Locus: 37993_78
+
+Locus: 38019_19
+
+Locus: 38022_64
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 38092_10
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 38096_88
+
+Locus: 38098_84
+
+Locus: 38309_37
+
+Locus: 38320_87
+
+Locus: 38328_9
+
+Locus: 38389_40
+
+Locus: 38437_10
+
+Locus: 38445_73
+
+Locus: 38469_14
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 38558_15
+
+Locus: 38567_63
+
+Locus: 38666_67
+
+Locus: 38673_35
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 38690_57
+
+Locus: 38726_73
+
+Locus: 38827_48
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 38914_67
+
+Locus: 38929_55
+
+Locus: 38969_38
+
+Locus: 38993_27
+
+Locus: 39018_17
+
+Locus: 39019_69
+
+Locus: 39025_65
+
+Locus: 39054_10
+
+Locus: 39060_70
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 39124_16
+
+Locus: 39126_41
+
+Locus: 39137_6
+
+Locus: 39220_57
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 39222_21
+
+Locus: 39383_31
+
+Locus: 39393_39
+
+Locus: 39396_91
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 39435_27
+
+Locus: 39607_53
+
+Locus: 39667_47
+
+Locus: 39746_17
+
+Locus: 39801_90
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 39802_79
+
+Locus: 39811_85
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 39870_27
+
+Locus: 39889_52
+
+Locus: 39940_39
+
+Locus: 39979_23
+
+Locus: 39987_36
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 39989_22
+
+Locus: 40012_58
+
+Locus: 40018_37
+
+Locus: 40072_84
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 40080_92
+
+Locus: 40086_64
+
+Locus: 40099_44
+
+Locus: 40165_10
+
+Locus: 40172_88
+
+Locus: 40227_14
+
+Locus: 40289_29
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 40293_86
+
+Locus: 40365_10
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 40488_72
+
+Locus: 40597_73
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 40750_15
+
+Locus: 40771_39
+
+Locus: 40776_31
+
+Locus: 40798_10
+
+Locus: 40856_59
+
+Locus: 41075_70
+
+Locus: 41078_17
+
+Locus: 41089_59
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 2
+
+Locus: 41092_71
+
+Locus: 41110_60
+
+Locus: 41130_58
+
+Locus: 41166_66
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 41309_54
+
+Locus: 41520_29
+
+Locus: 41613_44
+
+Locus: 41643_40
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 41718_85
+
+Locus: 41740_52
+
+Locus: 41769_41
+
+Locus: 41819_22
+
+Locus: 41839_8
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 41880_35
+
+Locus: 41898_13
+
+Locus: 41920_43
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 41927_35
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 42006_90
+
+Locus: 42009_37
+
+Locus: 42017_64
+
+Locus: 42090_36
+
+Locus: 42111_88
+
+Locus: 42148_19
+
+Locus: 42155_50
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 42157_79
+
+Locus: 42215_64
+
+Locus: 42235_61
+
+Locus: 42245_28
+
+Locus: 42281_27
+
+Locus: 42282_30
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 42289_6
+
+Locus: 42297_68
+
+Locus: 42348_22
+
+Locus: 42350_77
+
+Locus: 42522_80
+
+Locus: 42580_25
+
+Locus: 42603_36
+
+Locus: 42632_84
+
+Locus: 42662_13
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 42664_29
+
+Locus: 42711_92
+
+Locus: 42727_26
+
+Locus: 42796_39
+
+Locus: 42802_65
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 42811_88
+
+Locus: 42813_76
+
+Locus: 42815_11
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 42836_51
+
+Locus: 42895_61
+
+Locus: 42998_9
+
+Locus: 43009_68
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 43019_20
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 43076_56
+
+Locus: 43090_31
+
+Locus: 43168_40
+
+Locus: 43189_32
+
+Locus: 43224_26
+
+Locus: 43307_44
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 43331_80
+
+Locus: 43392_44
+
+Locus: 43401_54
+
+Locus: 43462_56
+
+Locus: 43515_10
+
+Locus: 43611_79
+
+Locus: 43622_7
+
+Locus: 43636_90
+
+Locus: 43637_89
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 43639_38
+
+Locus: 43656_53
+
+Locus: 43663_49
+
+Locus: 43696_93
+
+Locus: 43732_39
+
+Locus: 43748_71
+
+Locus: 43871_70
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 43954_38
+
+Locus: 43975_80
+
+Locus: 44004_88
+
+Locus: 44033_89
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 44071_15
+
+Locus: 44196_67
+
+Locus: 44213_43
+
+Locus: 44226_58
+
+Locus: 44254_7
+
+Locus: 44304_25
+
+Locus: 44322_25
+
+Locus: 44380_76
+
+Locus: 44446_45
+
+Locus: 44502_32
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 44506_74
+
+Locus: 44631_13
+
+Locus: 44633_61
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 44859_40
+
+Locus: 44897_11
+
+Locus: 44935_46
+
+Locus: 44948_57
+
+Locus: 44958_37
+
+Locus: 44982_48
+
+Locus: 45055_74
+
+Locus: 45074_45
+
+Locus: 45129_83
+
+Locus: 45144_19
+
+Locus: 45282_6
+
+Locus: 45283_45
+
+Locus: 45350_11
+
+Locus: 45431_75
+
+Locus: 45538_19
+
+Locus: 45597_73
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 45639_53
+
+Locus: 45732_77
+
+Locus: 45750_40
+
+Locus: 45790_54
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 45820_2
+
+Locus: 45826_71
+
+Locus: 45891_59
+
+Locus: 45914_35
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 45965_75
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 46022_39
+
+Locus: 46023_85
+
+Locus: 46037_93
+
+Locus: 46140_32
+
+Locus: 46142_70
+
+Locus: 46154_17
+
+Locus: 46165_69
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 46195_51
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 46275_17
+
+Locus: 46282_69
+
+Locus: 46293_71
+
+Locus: 46322_25
+
+Locus: 46374_49
+
+Locus: 46442_88
+
+Locus: 46476_88
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 46487_39
+
+Locus: 46490_9
+
+Locus: 46600_47
+
+Locus: 46619_37
+
+Locus: 46660_36
+
+Locus: 46786_28
+
+Locus: 46809_67
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 46810_62
+
+Locus: 46820_60
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 46935_19
+
+Locus: 46992_15
+
+Locus: 47037_9
+
+Locus: 47106_23
+
+Locus: 47156_32
+
+Locus: 47171_74
+
+Locus: 47211_56
+
+Locus: 47464_84
+
+Locus: 47483_10
+
+Locus: 47520_32
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 47523_35
+
+Locus: 47555_20
+
+Locus: 47578_71
+
+Locus: 47602_80
+
+Locus: 47604_83
+
+Locus: 47703_28
+
+Locus: 47736_85
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 47751_70
+
+Locus: 47762_88
+
+Locus: 47790_8
+
+Locus: 47803_78
+
+Locus: 47812_81
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 47879_10
+
+Locus: 47885_16
+
+Locus: 48009_21
+
+Locus: 48067_36
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 48090_64
+
+Locus: 48139_68
+
+Locus: 48195_88
+
+Locus: 48271_60
+
+Locus: 48286_52
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 48302_19
+
+Locus: 48321_92
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 48329_88
+
+Locus: 48472_77
+
+Locus: 48554_73
+
+Locus: 48584_40
+
+Locus: 48589_60
+
+Locus: 48595_33
+
+Locus: 48656_67
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 48673_31
+
+Locus: 48711_20
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 48781_13
+
+Locus: 48826_84
+
+Locus: 48850_9
+
+Locus: 48951_46
+
+Locus: 48956_34
+
+Locus: 49031_59
+
+Locus: 49127_71
+
+Locus: 49153_87
+
+Locus: 49191_41
+
+Locus: 49216_47
+
+Locus: 49222_29
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 49310_10
+
+Locus: 49351_8
+
+Locus: 49369_51
+
+Locus: 49387_44
+
+Locus: 49460_53
+
+Locus: 49528_19
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 49633_5
+
+Locus: 49651_34
+
+Locus: 49776_85
+
+Locus: 49796_60
+
+Locus: 49873_17
+
+Locus: 49876_13
+
+Locus: 49903_80
+
+Locus: 49932_7
+
+Locus: 50005_70
+
+Locus: 50013_61
+
+Locus: 50054_6
+
+Locus: 50103_77
+
+Locus: 50191_39
+
+Locus: 50210_56
+
+Locus: 50228_51
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 50229_68
+
+Locus: 50290_93
+
+Locus: 50395_85
+
+Locus: 50458_68
+
+Locus: 50496_36
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 50512_55
+
+Locus: 50536_39
+
+Locus: 50571_18
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 50592_16
+
+Locus: 50663_67
+
+Locus: 50739_45
+
+Locus: 50749_25
+
+Locus: 50891_40
+
+Locus: 50899_66
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 50901_51
+
+Locus: 50905_51
+
+Locus: 50942_36
+
+Locus: 51016_31
+
+Locus: 51027_68
+
+Locus: 51030_64
+
+Locus: 51093_47
+
+Locus: 51094_8
+
+Locus: 51104_82
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 51171_44
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 51205_25
+
+Locus: 51212_20
+
+Locus: 51251_63
+
+Locus: 51395_24
+
+Locus: 51473_22
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 51568_7
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 51583_52
+
+Locus: 51616_79
+
+Locus: 51645_51
+
+Locus: 51663_30
+
+Locus: 51677_55
+
+Locus: 51702_94
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 51841_12
+
+Locus: 51862_39
+
+Locus: 51873_43
+
+Locus: 51889_61
+
+Locus: 51938_23
+
+Locus: 51949_23
+
+Locus: 52012_32
+
+Locus: 52074_32
+
+Locus: 52098_6
+
+Locus: 52102_41
+
+Locus: 52120_71
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 52170_12
+
+Locus: 52172_48
+
+Locus: 52188_15
+
+Locus: 52229_60
+
+Locus: 52292_71
+
+Locus: 52329_61
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 52340_10
+
+Locus: 52348_11
+
+Locus: 52385_85
+
+Locus: 52441_21
+
+Locus: 52456_13
+
+Locus: 52464_32
+
+Locus: 52506_36
+
+Locus: 52519_55
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 52527_24
+
+Locus: 52555_42
+
+Locus: 52578_82
+
+Locus: 52615_40
+
+Locus: 52669_90
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 52695_18
+
+Locus: 52729_29
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 52730_77
+
+Locus: 52738_55
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 52750_23
+
+Locus: 52813_65
+
+Locus: 52839_29
+
+Locus: 52849_52
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 52898_68
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 52920_38
+
+Locus: 52923_51
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 52929_27
+
+Locus: 52949_38
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 53035_27
+
+Locus: 53101_66
+
+Locus: 53219_41
+
+Locus: 53261_30
+
+Locus: 53287_14
+
+Locus: 53304_86
+
+Locus: 53327_11
+
+Locus: 53342_92
+
+Locus: 53380_32
+
+Locus: 53387_57
+
+Locus: 53399_82
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 53430_22
+
+Locus: 53500_67
+
+Locus: 53512_33
+
+Locus: 53515_82
+
+Locus: 53529_24
+
+Locus: 53723_16
+
+Locus: 53829_52
+
+Locus: 53840_65
+
+Locus: 53870_87
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 53926_87
+
+Locus: 53994_54
+
+Locus: 54001_15
+
+Locus: 54003_12
+
+Locus: 54022_75
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 54053_27
+
+Locus: 54285_41
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 54304_13
+
+Locus: 54333_38
+
+Locus: 54342_74
+
+Locus: 54386_71
+
+Locus: 54466_88
+
+Locus: 54483_47
+
+Locus: 54494_81
+
+Locus: 54528_19
+
+Locus: 54540_68
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 54565_59
+
+Locus: 54710_82
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 54765_39
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 54845_42
+
+Locus: 54859_44
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 54871_29
+
+Locus: 54873_13
+
+Locus: 54900_11
+
+Locus: 54902_64
+
+Locus: 54909_46
+
+Locus: 54970_10
+
+Locus: 54973_21
+
+Locus: 54987_9
+
+Locus: 55004_10
+
+Locus: 55129_35
+
+Locus: 55285_86
+
+Locus: 55324_39
+
+Locus: 55340_14
+
+Locus: 55343_49
+
+Locus: 55361_66
+
+Locus: 55368_73
+
+Locus: 55419_34
+
+Locus: 55424_58
+
+Locus: 55459_35
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 55479_53
+
+Locus: 55506_73
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 55515_24
+
+Locus: 55517_81
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 55599_11
+
+Locus: 55669_48
+
+Locus: 55694_67
+
+Locus: 55817_61
+
+Locus: 55954_94
+
+Locus: 55962_82
+
+Locus: 55967_15
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 55976_90
+
+Locus: 56032_46
+
+Locus: 56042_40
+
+Locus: 56048_41
+
+Locus: 56100_26
+
+Locus: 56179_10
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 56187_20
+
+Locus: 56319_30
+
+Locus: 56336_48
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 56356_80
+
+Locus: 56359_34
+
+Locus: 56440_88
+
+Locus: 56536_21
+
+Locus: 56577_54
+
+Locus: 56585_53
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 56588_16
+
+Locus: 56598_86
+
+Locus: 56610_45
+
+Locus: 56653_11
+
+Locus: 56678_41
+
+Locus: 56696_22
+
+Locus: 56765_78
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 56778_80
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 56816_58
+
+Locus: 56837_64
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 56876_44
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 57141_82
+
+Locus: 57159_7
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 57171_32
+
+Locus: 57383_90
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 57400_62
+
+Locus: 57427_19
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 57542_90
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 57612_53
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 57643_63
+
+Locus: 57650_36
+
+Locus: 57693_91
+
+Locus: 57697_40
+
+Locus: 57727_73
+
+Locus: 57732_13
+
+Locus: 57741_69
+
+Locus: 57752_89
+
+Locus: 57785_50
+
+Locus: 57788_15
+
+Locus: 57844_26
+
+Locus: 57886_67
+
+Locus: 58040_55
+
+Locus: 58042_39
+
+Locus: 58086_56
+
+Locus: 58090_64
+
+Locus: 58105_75
+
+Locus: 58145_87
+
+Locus: 58165_56
+
+Locus: 58173_42
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 58185_36
+
+Locus: 58325_23
+
+Locus: 58375_40
+
+Locus: 58545_46
+
+Locus: 58564_44
+
+Locus: 58740_36
+
+Locus: 58805_52
+
+Locus: 58847_67
+
+Locus: 58863_92
+
+Locus: 58942_84
+
+Locus: 58947_64
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 59084_57
+
+Locus: 59120_88
+
+Locus: 59281_75
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 59294_39
+
+Locus: 59314_79
+
+Locus: 59543_86
+
+Locus: 59583_46
+
+Locus: 59733_15
+
+Locus: 59756_15
+
+Locus: 59759_25
+
+Locus: 59776_39
+
+Locus: 59916_33
+
+Locus: 59918_63
+
+Locus: 59923_56
+
+Locus: 59990_37
+
+Locus: 60002_18
+
+Locus: 60152_7
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 60180_49
+
+Locus: 60253_41
+
+Locus: 60313_52
+
+Locus: 60315_75
+
+Locus: 60332_9
+
+Locus: 60385_59
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 60415_24
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 60595_68
+
+Locus: 60780_42
+
+Locus: 60800_32
+
+Locus: 60887_12
+
+Locus: 60893_8
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 61095_73
+
+Locus: 61131_6
+
+Locus: 61183_90
+
+Locus: 61192_7
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 61286_38
+
+Locus: 61353_40
+
+Locus: 61386_73
+
+Locus: 61475_37
+
+Locus: 61478_6
+
+Locus: 61494_7
+
+Locus: 61591_83
+
+Locus: 61625_10
+
+Locus: 61649_48
+
+Locus: 61659_51
+
+Locus: 61663_11
+
+Locus: 61696_81
+
+Locus: 61723_88
+
+Locus: 61766_36
+
+Locus: 61769_10
+
+Locus: 61808_20
+
+Locus: 61828_88
+
+Locus: 61846_40
+
+Locus: 61913_19
+
+Locus: 61919_40
+
+Locus: 61973_90
+
+Locus: 61985_36
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 62025_55
+
+Locus: 62026_11
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 62042_70
+
+Locus: 62048_58
+
+Locus: 62067_20
+
+Locus: 62162_37
+
+Locus: 62192_53
+
+Locus: 62312_84
+
+Locus: 62316_47
+
+Locus: 62397_43
+
+Locus: 62543_73
+
+Locus: 62623_58
+
+Locus: 62735_70
+
+Locus: 62783_26
+
+Locus: 62828_50
+
+Locus: 62872_55
+
+Locus: 62899_7
+
+Locus: 62991_36
+
+Locus: 62999_27
+
+Locus: 63107_37
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 63113_10
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 63149_46
+
+Locus: 63166_30
+
+Locus: 63183_37
+
+Locus: 63220_34
+
+Locus: 63244_67
+
+Locus: 63278_12
+
+Locus: 63304_11
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 63326_13
+
+Locus: 63332_76
+
+Locus: 63463_12
+
+Locus: 63478_32
+
+Locus: 63479_77
+
+Locus: 63553_30
+
+Locus: 63556_85
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 63650_40
+
+Locus: 63694_37
+
+Locus: 63716_94
+
+Locus: 63840_38
+
+Locus: 63864_26
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 63997_66
+
+Locus: 64008_55
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 64041_43
+
+Locus: 64046_69
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 64079_10
+
+Locus: 64080_44
+
+Locus: 64085_5
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 64152_60
+
+Locus: 64194_45
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 64254_5
+
+Locus: 64328_81
+
+Locus: 64356_63
+
+Locus: 64361_18
+
+Locus: 64379_58
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 64384_39
+
+Locus: 64391_24
+
+Locus: 64406_20
+
+Locus: 64438_88
+
+Locus: 64490_39
+
+Locus: 64529_25
+
+Locus: 64571_51
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 64602_9
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 64635_24
+
+Locus: 64644_76
+
+Locus: 64657_31
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 64682_16
+
+Locus: 64724_78
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 64754_76
+
+Locus: 64767_13
+
+Locus: 64789_6
+
+Locus: 64795_19
+
+Locus: 64804_87
+
+Locus: 64820_40
+
+Locus: 64863_87
+
+Locus: 64876_29
+
+Locus: 64910_40
+
+Locus: 64926_18
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 64945_81
+
+Locus: 64964_40
+
+Locus: 65001_76
+
+Locus: 65020_25
+
+Locus: 65023_50
+
+Locus: 65037_58
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 65054_23
+
+Locus: 65099_92
+
+Locus: 65160_29
+
+Locus: 65172_53
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 65173_31
+
+Locus: 65176_69
+
+Locus: 65184_27
+
+Locus: 65189_41
+
+Locus: 65194_53
+
+Locus: 65211_12
+
+Locus: 65284_46
+
+Locus: 65337_93
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 65402_89
+
+Locus: 65403_25
+
+Locus: 65528_69
+
+Locus: 65556_12
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 65586_38
+
+Locus: 65617_37
+
+Locus: 65655_88
+
+Locus: 65718_7
+
+Locus: 65719_12
+
+Locus: 65819_93
+
+Locus: 65833_40
+
+Locus: 65872_32
+
+Locus: 65887_15
+
+Locus: 65903_93
+
+Locus: 65920_86
+
+Locus: 65921_70
+
+Locus: 65982_73
+
+Locus: 66062_11
+
+Locus: 66135_40
+
+Locus: 66169_61
+
+Locus: 66195_34
+
+Locus: 66232_67
+
+Locus: 66290_11
+
+Locus: 66318_15
+
+Locus: 66340_17
+
+Locus: 66365_22
+
+Locus: 66368_5
+
+Locus: 66412_50
+
+Locus: 66639_11
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 66657_87
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 66671_72
+
+Locus: 66709_46
+
+Locus: 66717_57
+
+Locus: 66771_23
+
+Locus: 66819_35
+
+Locus: 66864_88
+
+Locus: 66982_74
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 67048_77
+
+Locus: 67100_47
+
+Locus: 67242_25
+
+Locus: 67249_42
+
+Locus: 67276_88
+
+Locus: 67288_6
+
+Locus: 67338_70
+
+Locus: 67428_54
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 67476_71
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 67504_72
+
+Locus: 67574_40
+
+Locus: 67597_43
+
+Locus: 67699_40
+
+Locus: 67705_39
+
+Locus: 67707_10
+
+Locus: 67783_65
+
+Locus: 67793_56
+
+Locus: 67798_72
+
+Locus: 67836_11
+
+Locus: 67929_29
+
+Locus: 67947_35
+
+Locus: 68027_42
+
+Locus: 68123_63
+
+Locus: 68154_85
+
+Locus: 68155_21
+
+Locus: 68161_63
+
+Locus: 68219_58
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 68319_18
+
+Locus: 68332_55
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 68360_71
+
+Locus: 68445_38
+
+Locus: 68475_63
+
+Locus: 68478_13
+
+Locus: 68659_47
+
+Locus: 68752_54
+
+Locus: 68781_85
+
+Locus: 68795_61
+
+Locus: 68817_41
+
+Locus: 68868_61
+
+Locus: 69017_90
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 69169_25
+
+Locus: 69295_82
+
+Locus: 69296_49
+
+Locus: 69375_64
+
+Locus: 69379_35
+
+Locus: 69394_94
+
+Locus: 69408_56
+
+Locus: 69435_60
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 69440_25
+
+Locus: 69471_34
+
+Locus: 69501_91
+
+Locus: 69567_29
+
+Locus: 69626_6
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 69642_31
+
+Locus: 69700_5
+
+Locus: 69807_85
+
+Locus: 69854_52
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 69878_88
+
+Locus: 69903_9
+
+Locus: 69918_89
+
+Locus: 69922_51
+
+Locus: 69927_77
+
+Locus: 69962_22
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 69993_61
+
+Locus: 70002_36
+
+Locus: 70015_19
+
+Locus: 70059_38
+
+Locus: 70147_41
+
+Locus: 70203_58
+
+Locus: 70240_87
+
+Locus: 70295_32
+
+Locus: 70444_19
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 70487_5
+
+Locus: 70506_10
+
+Locus: 70517_91
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 70558_50
+
+Locus: 70570_27
+
+Locus: 70576_64
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 70578_43
+
+Locus: 70651_6
+
+Locus: 70687_66
+
+Locus: 70712_14
+
+Locus: 70769_75
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 70870_79
+
+Locus: 70880_83
+
+Locus: 70888_62
+
+Locus: 70895_88
+
+Locus: 70985_29
+
+Locus: 71033_25
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 71099_69
+
+Locus: 71116_94
+
+Locus: 71231_48
+
+Locus: 71268_67
+
+Locus: 71272_40
+
+Locus: 71324_74
+
+Locus: 71409_82
+
+Locus: 71420_13
+
+Locus: 71472_78
+
+Locus: 71484_83
+
+Locus: 71502_49
+
+Locus: 71520_84
+
+Locus: 71521_16
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 71596_47
+
+Locus: 71691_31
+
+Locus: 71693_46
+
+Locus: 71761_74
+
+Locus: 71762_71
+
+Locus: 71773_41
+
+Locus: 71782_25
+
+Locus: 71862_61
+
+Locus: 71874_47
+
+Locus: 71881_6
+
+Locus: 71904_7
+
+Locus: 71920_65
+
+Locus: 71964_86
+
+Locus: 72010_78
+
+Locus: 72032_32
+
+Locus: 72088_52
+
+Locus: 72200_50
+
+Locus: 72219_23
+
+Locus: 72221_38
+
+Locus: 72229_89
+
+Locus: 72237_45
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 72280_87
+
+Locus: 72304_40
+
+Locus: 72319_31
+
+Locus: 72345_32
+
+Locus: 72377_91
+
+Locus: 72401_46
+
+Locus: 72411_75
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 72456_70
+
+Locus: 72529_39
+
+Locus: 72705_62
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 72785_9
+
+Locus: 72820_40
+
+Locus: 72862_25
+
+Locus: 73098_11
+
+Locus: 73165_10
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 73210_43
+
+Locus: 73238_17
+
+Locus: 73308_10
+
+Locus: 73405_31
+
+Locus: 73427_42
+
+Locus: 73431_63
+
+Locus: 73523_66
+
+Locus: 73565_26
+
+Locus: 73573_23
+
+Locus: 73599_33
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 73776_70
+
+Locus: 73964_48
+
+Locus: 73978_70
+
+Locus: 73996_19
+
+Locus: 74016_16
+
+Locus: 74031_17
+
+Locus: 74062_80
+
+Locus: 74106_59
+
+Locus: 74151_93
+
+Locus: 74242_88
+
+Locus: 74275_43
+
+Locus: 74295_56
+
+Locus: 74332_27
+
+Locus: 74335_79
+
+Locus: 74371_78
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 74451_86
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 74467_68
+
+Locus: 74469_88
+
+Locus: 74534_58
+
+Locus: 74545_70
+
+Locus: 74580_56
+
+Locus: 74603_81
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 74725_10
+
+Locus: 74830_56
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 74867_53
+
+Locus: 74989_86
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 75061_88
+
+Locus: 75084_37
+
+Locus: 75130_19
+
+Locus: 75133_84
+
+Locus: 75173_34
+
+Locus: 75175_33
+
+Locus: 75246_10
+
+Locus: 75262_78
+
+Locus: 75330_55
+
+Locus: 75348_39
+
+Locus: 75350_86
+
+Locus: 75358_52
+
+Locus: 75400_49
+
+Locus: 75433_62
+
+Locus: 75445_26
+
+Locus: 75521_11
+
+Locus: 75528_80
+
+Locus: 75588_15
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 75641_49
+
+Locus: 75719_77
+
+Locus: 75759_82
+
+Locus: 75833_66
+
+Locus: 75924_39
+
+Locus: 75934_17
+
+Locus: 75964_53
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 75974_67
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 76053_50
+
+Locus: 76082_78
+
+Locus: 76121_35
+
+Locus: 76214_8
+
+Locus: 76355_84
+
+Locus: 76366_67
+
+Locus: 76491_30
+
+Locus: 76493_22
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 76512_50
+
+Locus: 76567_72
+
+Locus: 76665_85
+
+Locus: 76682_83
+
+Locus: 76774_13
+
+Locus: 76823_26
+
+Locus: 76889_65
+
+Locus: 76907_47
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 77010_84
+
+Locus: 77058_14
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 77143_65
+
+Locus: 77161_14
+
+Locus: 77202_48
+
+Locus: 77261_11
+
+Locus: 77305_33
+
+Locus: 77331_64
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 77347_74
+
+Locus: 77379_70
+
+Locus: 77436_12
+
+Locus: 77446_19
+
+Locus: 77482_69
+
+Locus: 77505_39
+
+Locus: 77735_42
+
+Locus: 77863_80
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 77970_39
+
+Locus: 78015_29
+
+Locus: 78051_50
+
+Locus: 78065_64
+
+Locus: 78093_48
+
+Locus: 78194_83
+
+Locus: 78260_63
+
+Locus: 78428_15
+
+Locus: 78494_88
+
+Locus: 78510_84
+
+Locus: 78523_48
+
+Locus: 78528_75
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 78565_5
+
+Locus: 78569_48
+
+Locus: 78624_26
+
+Locus: 78801_5
+
+Locus: 78884_58
+
+Locus: 78985_84
+
+Locus: 79066_16
+
+Locus: 79145_82
+
+Locus: 79220_28
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 79222_12
+
+Locus: 79255_89
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 79285_51
+
+Locus: 79293_23
+
+Locus: 79382_77
+
+Locus: 79400_39
+
+Locus: 79427_15
+
+Locus: 79435_30
+
+Locus: 79466_8
+
+Locus: 79543_72
+
+Locus: 79605_76
+
+Locus: 79657_80
+
+Locus: 79684_69
+
+Locus: 79727_73
+
+Locus: 79838_39
+
+Locus: 79888_19
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 79938_7
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 79964_75
+
+Locus: 80014_31
+
+Locus: 80118_27
+
+Locus: 80204_13
+
+Locus: 80274_7
+
+Locus: 80300_45
+
+Locus: 80339_60
+
+Locus: 80443_92
+
+Locus: 80489_47
+
+Locus: 80493_94
+
+Locus: 80495_40
+
+Locus: 80504_90
+
+Locus: 80552_77
+
+Locus: 80576_41
+
+Locus: 80593_85
+
+Locus: 80600_65
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 80609_40
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 80642_60
+
+Locus: 80708_17
+
+Locus: 80712_47
+
+Locus: 80721_43
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 80820_25
+
+Locus: 80931_83
+
+Locus: 80941_37
+
+Locus: 81030_65
+
+Locus: 81117_88
+
+Locus: 81226_47
+
+Locus: 81282_55
+
+Locus: 81330_10
+
+Locus: 81337_32
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 81363_80
+
+Locus: 81439_30
+
+Locus: 81586_31
+
+Locus: 81624_44
+
+Locus: 81667_54
+
+Locus: 81869_5
+
+Locus: 81904_91
+
+Locus: 81944_91
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 81976_28
+
+Locus: 82002_40
+
+Locus: 82181_14
+
+Locus: 82349_49
+
+Locus: 82350_60
+
+Locus: 82351_28
+
+Locus: 82374_10
+
+Locus: 82416_48
+
+Locus: 82457_69
+
+Locus: 82470_86
+
+Locus: 82608_20
+
+Locus: 82612_84
+
+Locus: 82814_60
+
+Locus: 82856_29
+
+Locus: 82898_14
+
+Locus: 82928_47
+
+Locus: 82945_48
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 83003_17
+
+Locus: 83183_67
+
+Locus: 83187_48
+
+Locus: 83415_52
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 83511_87
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 83786_80
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 83845_46
+
+Locus: 84001_50
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 84118_54
+
+Locus: 84292_61
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 84333_25
+
+Locus: 84433_36
+
+Locus: 84466_70
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: 84594_14
+
+Locus: 84615_77
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: 84717_30
+
+Locus: 84766_31
+
+Locus: 84794_42
+
+Locus: 84807_40
+
+Locus: 84976_31
+
+Locus: 85135_43
+
+Locus: 85416_15
+
+Locus: 85574_41
+
+Locus: 85590_81
+
+Locus: 85592_12
+
+Locus: 85806_27
+
+Locus: 85811_70
+
+Locus: 85825_81
+
+Locus: 85911_37
+
+Locus: 85923_34
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: 85946_76
+
+Locus: 86094_26
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 86116_77
+
+Locus: 86152_12
+
+Locus: 86187_77
+
+Locus: 86236_59
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 86279_47
+
+Locus: 86315_88
+
+Locus: 86559_16
+
+Locus: 86604_14
+
+Locus: 86699_11
+
+Locus: 86814_46
+
+Locus: 87074_74
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 87323_48
+
+Locus: 87389_25
+
+Locus: 87588_85
+
+Locus: 87592_93
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 87693_71
+
+Locus: 87705_20
+
+Locus: 87877_93
+
+Locus: 87961_55
+
+Locus: 88025_26
+
+Locus: 88252_28
+
+Locus: 88423_86
+
+Locus: 88540_49
+
+Locus: 88713_70
+
+Locus: 88723_42
+
+Locus: 88724_66
+
+Locus: 88762_30
+
+Locus: 88813_88
+
+Locus: 88894_50
+
+Locus: 88920_45
+
+Locus: 88959_47
+
+Locus: 89011_60
+
+Locus: 89087_77
+
+Locus: 89113_43
+
+Locus: 89140_43
+
+Locus: 89219_91
+
+Locus: 89434_39
+
+Locus: 89442_15
+
+Locus: 89588_6
+
+Locus: 89701_16
+
+Locus: 89715_91
+
+Locus: 89786_94
+
+Locus: 90045_70
+
+Locus: 90091_66
+
+Locus: 90112_91
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 90254_43
+
+Locus: 90260_39
+
+Locus: 90422_7
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 90526_35
+
+Locus: 90543_57
+
+Locus: 90576_27
+
+Locus: 90580_50
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 90640_19
+
+Locus: 90799_62
+
+Locus: 90887_45
+
+Locus: 90933_87
+
+Locus: 90991_36
+
+Locus: 91000_44
+
+Locus: 91004_20
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 91009_93
+
+Locus: 91079_76
+
+Locus: 91236_62
+
+Locus: 91320_84
+
+Locus: 91600_67
+
+Locus: 91674_36
+
+Locus: 91815_32
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 91826_78
+
+Locus: 91905_35
+
+Locus: 91967_10
+
+Locus: 92011_81
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 92132_61
+
+Locus: 92135_16
+
+Locus: 92140_59
+
+Locus: 92141_7
+
+Locus: 92190_8
+
+Locus: 92215_47
+
+Locus: 92325_71
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 92351_7
+
+Locus: 92385_17
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 92551_76
+
+Locus: 92564_47
+
+Locus: 92633_39
+
+Locus: 92708_21
+
+Locus: 92709_42
+
+Locus: 92748_66
+
+Locus: 92756_14
+
+Locus: 92782_7
+
+Locus: 92892_72
+
+Locus: 92973_86
+
+Locus: 92986_24
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 92988_15
+
+Locus: 93119_48
+
+Locus: 93133_40
+
+Locus: 93201_81
+
+Locus: 93250_38
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 93266_15
+
+Locus: 93338_34
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 93376_25
+
+Locus: 93444_76
+
+Locus: 93454_41
+
+Locus: 93484_35
+
+Locus: 93527_10
+
+Locus: 93561_19
+
+Locus: 93638_90
+
+Locus: 93654_37
+
+Locus: 93768_6
+
+Locus: 93844_69
+
+Locus: 93975_61
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 94052_94
+
+Locus: 94082_13
+
+Locus: 94191_78
+
+Locus: 94363_29
+
+Locus: 94389_87
+
+Locus: 94438_11
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 94469_78
+
+Locus: 94489_72
+
+Locus: 94533_27
+
+Locus: 94598_10
+
+Locus: 94700_33
+
+Locus: 94744_65
+
+Locus: 94828_85
+
+Locus: 94880_27
+
+	Mom homozygous allele: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 94897_44
+
+Locus: 94943_85
+
+Locus: 95023_16
+
+Locus: 95094_94
+
+Locus: 95189_69
+
+Locus: 95235_25
+
+Locus: 95436_33
+
+Locus: 95553_90
+
+Locus: 95572_15
+
+Locus: 95593_46
+
+Locus: 95653_79
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 95658_59
+
+Locus: 95758_9
+
+Locus: 95820_79
+
+Locus: 95892_52
+
+Locus: 95899_10
+
+Locus: 95904_39
+
+Locus: 95954_59
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 95993_43
+
+Locus: 96002_77
+
+Locus: 96004_58
+
+Locus: 96153_91
+
+Locus: 96231_51
+
+Locus: 96238_13
+
+Locus: 96261_33
+
+Locus: 96353_47
+
+Locus: 96354_73
+
+Locus: 96485_47
+
+Locus: 96637_20
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 96701_52
+
+Locus: 96724_40
+
+Locus: 96728_59
+
+Locus: 96814_67
+
+Locus: 96848_10
+
+Locus: 96916_84
+
+Locus: 97316_41
+
+Locus: 97371_23
+
+Locus: 97496_52
+
+Locus: 97523_83
+
+Locus: 97694_33
+
+Locus: 97702_54
+
+Locus: 97711_15
+
+Locus: 97841_91
+
+Locus: 97863_50
+
+Locus: 97865_79
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 97910_34
+
+Locus: 98055_51
+
+	Mom homozygous allele: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: 98117_23
+
+	Mom homozygous allele: 2
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: 98142_49
+
+Locus: 98156_79
+
+	Mom homozygous allele: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: 98273_86
+
+Locus: 98282_29
+
+Locus: 98345_88
+
+Locus: 98379_65
+
+Locus: 225990_60
+
+Locus: 259501_91
+

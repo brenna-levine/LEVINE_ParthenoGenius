@@ -1,0 +1,34 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 11/06/2024 15:32:46 #########
+
+
+Parameters:
+	Infile = ERROR-RATE-TESTS/ZEBRA-SHARK-PARTH-TESTS/INFILES/2016:2_PG_input.csv
+	Outfile = ERROR-RATE-TESTS/ZEBRA-SHARK-PARTH-TESTS/INFILES/2016:2_PG_input.csv_0.015
+	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.0
+
+
+SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR OFFSPRING RETAINED HETEROZYGOSITY
+
+Total number of loci in input file scanned: 14
+Number of loci in input file with missing data: 0
+Total number of loci for which mom and offspring do not have missing data: 14
+Number of loci for which mom is heterozygous: 13
+Number of mom's heterozygous loci for which offspring has retained maternal heterozygosity: 0
+Maximum number of mom's heterozygous loci expected to be heterozygous in offspring assuming null hypothesis of gametic duplication: 0.0
+Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of central fusion automixis (based on retained heterozyosity assumption of 66%): 8.58
+Range of numbers of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of terminal fusion automixis: > 0.0 - < 8.58
+Minimum number of mom's heterozygous loci expected to be heterozygous in offspring assuming alternative hypothesis of endoduplication: >= 13.0
+Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: 0.0
+
+Genotype Sharing Index (Mxy):
+	Per Blouin et al. 1996, Mxy ranges from 0 - 2, as individuals can share up to 2 alleles per locus
+
+		Mxy: 1.07143
+
+
+This parthenogen was likely produced via:	GAMETIC DUPLICATION
+
+	The number of mom's heterozygous loci for which offspring has retained heterozygosity is less than the number expected based on estimated error rate alone assuming a null hypothesis of gametic duplication.
+	Therefore, any apparent offspring heterozygosity at these loci is likely an artifact of error.

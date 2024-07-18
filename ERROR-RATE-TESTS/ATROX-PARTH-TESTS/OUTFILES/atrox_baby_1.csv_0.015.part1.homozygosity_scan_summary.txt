@@ -1,0 +1,31 @@
+######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS LOCUS SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 10/06/2024 12:49:03 #########
+
+
+Parameters:
+	Infile = ERROR-RATE-TESTS/ATROX-PARTH-TESTS/INFILES/atrox_baby_1.csv
+	Outfile = ERROR-RATE-TESTS/ATROX-PARTH-TESTS/INFILES/atrox_baby_1.csv_0.015
+	Error = 0.015
+
+
+Total number of loci in input file scanned (may include loci with missing data): 4228
+
+
+THE FOLLOWING STATS REFERS ONLY TO LOCI AT WHICH NEITHER THE MOTHER NOR OFFSPRING HAVE MISSING DATA:
+
+	Number of loci for which mom is homozygous and offspring are not missing data: 1445
+	Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 660
+	Maximum number of homozygous loci expected to differ between mom and offspring based on error rate: 21.675
+	Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.45675
+	Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: 0.54325
+
+
+THE OFFSPRING IS UNLIKELY TO BE A PARTHENOGEN.
+
+	The number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles is greater than the number expected from the genotyping error rate alone.
+	Incongruence between maternal genotypes and offspring genotypes may be due to presence of paternal alleles.
+
+
+Note: Part 2 maternal heterozygosity analysis will not be conducted to test for mode of parthenogenesis.
+Note: Part 2 heterozygosity outfiles will not be created.

@@ -1,0 +1,10806 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 11/06/2024 14:26:00 #########
+
+
+Parameters:
+	Infile = ERROR-RATE-TESTS/CROC-PARTH-TESTS/INFILES/thin_10K/thin_10K.csv
+	Outfile = ERROR-RATE-TESTS/CROC-PARTH-TESTS/INFILES/thin_10K/thin_10K.csv_0.001
+	Estimated Error Rate from Part 1 Maternal Locus Scan = 0.00045
+
+
+The following are the IDs for the loci at which the mom is heterozygous. Loci at which the mother or offspring have missing data are not included.
+If the offspring is heterozygous for the mom's alleles, the mom's and offspring's alleles are printed below.
+
+Please refer to the maternal heterozygous loci summary output file for summary statistics.
+
+Locus: SNP_76
+
+Locus: SNP_77
+
+Locus: SNP_152
+
+Locus: SNP_156
+
+Locus: SNP_170
+
+Locus: SNP_183
+
+Locus: SNP_192
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_199
+
+Locus: SNP_209
+
+Locus: SNP_212
+
+Locus: SNP_219
+
+Locus: SNP_223
+
+Locus: SNP_225
+
+Locus: SNP_236
+
+Locus: SNP_292
+
+Locus: SNP_296
+
+Locus: SNP_499
+
+Locus: SNP_503
+
+Locus: SNP_535
+
+Locus: SNP_536
+
+Locus: SNP_932
+
+Locus: SNP_984
+
+Locus: SNP_1003
+
+Locus: SNP_1184
+
+Locus: SNP_1318
+
+Locus: SNP_1359
+
+Locus: SNP_1380
+
+Locus: SNP_1381
+
+Locus: SNP_1480
+
+Locus: SNP_1483
+
+Locus: SNP_1484
+
+Locus: SNP_1489
+
+Locus: SNP_1504
+
+Locus: SNP_1551
+
+Locus: SNP_1559
+
+Locus: SNP_1564
+
+Locus: SNP_1625
+
+Locus: SNP_1639
+
+Locus: SNP_1651
+
+Locus: SNP_1697
+
+Locus: SNP_1699
+
+Locus: SNP_1772
+
+Locus: SNP_1782
+
+Locus: SNP_1791
+
+Locus: SNP_1804
+
+Locus: SNP_1816
+
+Locus: SNP_1829
+
+Locus: SNP_1898
+
+Locus: SNP_1928
+
+Locus: SNP_1951
+
+Locus: SNP_1953
+
+Locus: SNP_1957
+
+Locus: SNP_2014
+
+Locus: SNP_2015
+
+Locus: SNP_2017
+
+Locus: SNP_2024
+
+Locus: SNP_2028
+
+Locus: SNP_2037
+
+Locus: SNP_2076
+
+Locus: SNP_2098
+
+Locus: SNP_2101
+
+Locus: SNP_2114
+
+Locus: SNP_2115
+
+Locus: SNP_2147
+
+Locus: SNP_2157
+
+Locus: SNP_2172
+
+Locus: SNP_2185
+
+Locus: SNP_2202
+
+Locus: SNP_2216
+
+Locus: SNP_2248
+
+Locus: SNP_2250
+
+Locus: SNP_2263
+
+Locus: SNP_2273
+
+Locus: SNP_2276
+
+Locus: SNP_2279
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_2290
+
+Locus: SNP_2306
+
+Locus: SNP_2324
+
+Locus: SNP_2327
+
+Locus: SNP_2335
+
+Locus: SNP_2402
+
+Locus: SNP_2406
+
+Locus: SNP_2468
+
+Locus: SNP_2474
+
+Locus: SNP_2475
+
+Locus: SNP_2487
+
+Locus: SNP_2536
+
+Locus: SNP_2611
+
+Locus: SNP_2627
+
+Locus: SNP_2654
+
+Locus: SNP_2677
+
+Locus: SNP_2701
+
+Locus: SNP_2762
+
+Locus: SNP_2780
+
+Locus: SNP_2816
+
+Locus: SNP_2822
+
+Locus: SNP_2825
+
+Locus: SNP_2841
+
+Locus: SNP_2886
+
+Locus: SNP_3107
+
+Locus: SNP_3150
+
+Locus: SNP_3159
+
+Locus: SNP_3173
+
+Locus: SNP_3184
+
+Locus: SNP_3339
+
+Locus: SNP_3357
+
+Locus: SNP_3363
+
+Locus: SNP_3366
+
+Locus: SNP_3390
+
+Locus: SNP_3430
+
+Locus: SNP_3438
+
+Locus: SNP_3493
+
+Locus: SNP_4643
+
+Locus: SNP_4655
+
+Locus: SNP_4665
+
+Locus: SNP_4675
+
+Locus: SNP_4685
+
+Locus: SNP_4686
+
+Locus: SNP_4702
+
+Locus: SNP_4731
+
+Locus: SNP_4743
+
+Locus: SNP_4744
+
+Locus: SNP_4758
+
+Locus: SNP_4776
+
+Locus: SNP_4783
+
+Locus: SNP_4803
+
+Locus: SNP_4931
+
+Locus: SNP_4934
+
+Locus: SNP_4939
+
+Locus: SNP_4941
+
+Locus: SNP_4949
+
+Locus: SNP_4977
+
+Locus: SNP_5064
+
+Locus: SNP_5066
+
+Locus: SNP_5068
+
+Locus: SNP_5073
+
+Locus: SNP_5094
+
+Locus: SNP_5107
+
+Locus: SNP_5113
+
+Locus: SNP_5115
+
+Locus: SNP_5268
+
+Locus: SNP_5312
+
+Locus: SNP_5409
+
+Locus: SNP_5420
+
+Locus: SNP_5421
+
+Locus: SNP_5470
+
+Locus: SNP_5488
+
+Locus: SNP_5498
+
+Locus: SNP_5628
+
+Locus: SNP_5637
+
+Locus: SNP_5643
+
+Locus: SNP_5675
+
+Locus: SNP_5890
+
+Locus: SNP_5894
+
+Locus: SNP_5897
+
+Locus: SNP_5906
+
+Locus: SNP_5942
+
+Locus: SNP_5944
+
+Locus: SNP_5971
+
+Locus: SNP_6049
+
+Locus: SNP_6050
+
+Locus: SNP_6068
+
+Locus: SNP_6072
+
+Locus: SNP_6088
+
+Locus: SNP_6091
+
+Locus: SNP_6093
+
+Locus: SNP_6137
+
+Locus: SNP_6189
+
+Locus: SNP_6257
+
+Locus: SNP_6280
+
+Locus: SNP_6511
+
+Locus: SNP_6513
+
+Locus: SNP_6518
+
+Locus: SNP_6526
+
+Locus: SNP_6549
+
+Locus: SNP_6640
+
+Locus: SNP_6646
+
+Locus: SNP_6677
+
+Locus: SNP_6679
+
+Locus: SNP_6689
+
+Locus: SNP_6690
+
+Locus: SNP_6695
+
+Locus: SNP_6741
+
+Locus: SNP_6800
+
+Locus: SNP_6806
+
+Locus: SNP_6816
+
+Locus: SNP_6902
+
+Locus: SNP_6942
+
+Locus: SNP_6958
+
+Locus: SNP_6969
+
+Locus: SNP_6970
+
+Locus: SNP_6971
+
+Locus: SNP_7112
+
+Locus: SNP_7124
+
+Locus: SNP_7129
+
+Locus: SNP_7150
+
+Locus: SNP_7244
+
+Locus: SNP_7289
+
+Locus: SNP_7367
+
+Locus: SNP_7534
+
+Locus: SNP_7541
+
+Locus: SNP_7629
+
+Locus: SNP_7640
+
+Locus: SNP_7650
+
+Locus: SNP_7665
+
+Locus: SNP_7672
+
+Locus: SNP_7675
+
+Locus: SNP_7684
+
+Locus: SNP_7700
+
+Locus: SNP_7721
+
+Locus: SNP_7722
+
+Locus: SNP_8003
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_8073
+
+Locus: SNP_8105
+
+Locus: SNP_8111
+
+Locus: SNP_8136
+
+Locus: SNP_8159
+
+Locus: SNP_8175
+
+Locus: SNP_8250
+
+Locus: SNP_8275
+
+Locus: SNP_8346
+
+Locus: SNP_8385
+
+Locus: SNP_8415
+
+Locus: SNP_8428
+
+Locus: SNP_8443
+
+Locus: SNP_8454
+
+Locus: SNP_8482
+
+Locus: SNP_8530
+
+Locus: SNP_8539
+
+Locus: SNP_8545
+
+Locus: SNP_8551
+
+Locus: SNP_8553
+
+Locus: SNP_8595
+
+Locus: SNP_8761
+
+Locus: SNP_8769
+
+Locus: SNP_8838
+
+Locus: SNP_8846
+
+Locus: SNP_8849
+
+Locus: SNP_8853
+
+Locus: SNP_8877
+
+Locus: SNP_8879
+
+Locus: SNP_8889
+
+Locus: SNP_8896
+
+Locus: SNP_8940
+
+Locus: SNP_9100
+
+Locus: SNP_9118
+
+Locus: SNP_9123
+
+Locus: SNP_9127
+
+Locus: SNP_9155
+
+Locus: SNP_9162
+
+Locus: SNP_9175
+
+Locus: SNP_9251
+
+Locus: SNP_9257
+
+Locus: SNP_9400
+
+Locus: SNP_9500
+
+Locus: SNP_9508
+
+Locus: SNP_9514
+
+Locus: SNP_9550
+
+Locus: SNP_9570
+
+Locus: SNP_9622
+
+Locus: SNP_9658
+
+Locus: SNP_9663
+
+Locus: SNP_9677
+
+Locus: SNP_9685
+
+Locus: SNP_9864
+
+Locus: SNP_9944
+
+Locus: SNP_9957
+
+Locus: SNP_9961
+
+Locus: SNP_9999
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_10021
+
+Locus: SNP_10119
+
+Locus: SNP_10327
+
+Locus: SNP_10343
+
+Locus: SNP_10363
+
+Locus: SNP_10384
+
+Locus: SNP_10451
+
+Locus: SNP_10600
+
+Locus: SNP_10656
+
+Locus: SNP_10818
+
+	Mom allele 1: 2
+	Mom allele 2: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: SNP_10820
+
+Locus: SNP_10837
+
+Locus: SNP_10860
+
+Locus: SNP_10905
+
+Locus: SNP_10920
+
+Locus: SNP_10925
+
+Locus: SNP_10990
+
+Locus: SNP_10991
+
+Locus: SNP_10998
+
+Locus: SNP_11010
+
+Locus: SNP_11013
+
+Locus: SNP_11048
+
+Locus: SNP_11055
+
+Locus: SNP_11074
+
+Locus: SNP_11130
+
+Locus: SNP_11143
+
+Locus: SNP_11144
+
+Locus: SNP_11148
+
+Locus: SNP_11154
+
+Locus: SNP_11166
+
+Locus: SNP_11208
+
+Locus: SNP_11209
+
+Locus: SNP_11223
+
+Locus: SNP_11232
+
+Locus: SNP_11236
+
+Locus: SNP_11452
+
+Locus: SNP_11520
+
+Locus: SNP_11571
+
+Locus: SNP_11581
+
+Locus: SNP_11678
+
+Locus: SNP_11692
+
+Locus: SNP_11696
+
+Locus: SNP_11697
+
+Locus: SNP_11699
+
+Locus: SNP_11701
+
+Locus: SNP_11702
+
+Locus: SNP_11725
+
+Locus: SNP_11733
+
+Locus: SNP_11735
+
+Locus: SNP_11860
+
+Locus: SNP_11912
+
+Locus: SNP_11918
+
+Locus: SNP_12395
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_13229
+
+Locus: SNP_13359
+
+Locus: SNP_13534
+
+Locus: SNP_13598
+
+Locus: SNP_13772
+
+Locus: SNP_13779
+
+Locus: SNP_13896
+
+Locus: SNP_13945
+
+Locus: SNP_13949
+
+Locus: SNP_13984
+
+Locus: SNP_14182
+
+Locus: SNP_14198
+
+Locus: SNP_14224
+
+Locus: SNP_14291
+
+Locus: SNP_14301
+
+Locus: SNP_14309
+
+Locus: SNP_14410
+
+Locus: SNP_14430
+
+Locus: SNP_14433
+
+Locus: SNP_14436
+
+Locus: SNP_14438
+
+Locus: SNP_14457
+
+Locus: SNP_14494
+
+Locus: SNP_14513
+
+Locus: SNP_14529
+
+Locus: SNP_14659
+
+Locus: SNP_14670
+
+Locus: SNP_14756
+
+Locus: SNP_14809
+
+Locus: SNP_14864
+
+Locus: SNP_14902
+
+Locus: SNP_14911
+
+Locus: SNP_14920
+
+Locus: SNP_14961
+
+Locus: SNP_14972
+
+Locus: SNP_14988
+
+Locus: SNP_14990
+
+Locus: SNP_15764
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_16037
+
+Locus: SNP_16038
+
+Locus: SNP_16456
+
+Locus: SNP_16457
+
+Locus: SNP_16499
+
+Locus: SNP_16501
+
+Locus: SNP_16502
+
+Locus: SNP_16515
+
+Locus: SNP_16527
+
+Locus: SNP_16532
+
+Locus: SNP_16600
+
+Locus: SNP_16631
+
+Locus: SNP_16706
+
+Locus: SNP_16761
+
+Locus: SNP_16771
+
+Locus: SNP_16877
+
+Locus: SNP_16885
+
+Locus: SNP_16927
+
+Locus: SNP_16930
+
+Locus: SNP_16935
+
+Locus: SNP_16937
+
+Locus: SNP_16942
+
+Locus: SNP_16949
+
+Locus: SNP_16956
+
+Locus: SNP_16982
+
+Locus: SNP_16984
+
+Locus: SNP_16990
+
+Locus: SNP_16995
+
+Locus: SNP_16997
+
+Locus: SNP_17008
+
+Locus: SNP_17016
+
+Locus: SNP_17029
+
+Locus: SNP_17039
+
+Locus: SNP_17064
+
+Locus: SNP_17072
+
+Locus: SNP_17076
+
+Locus: SNP_17090
+
+Locus: SNP_17091
+
+Locus: SNP_17116
+
+Locus: SNP_17123
+
+Locus: SNP_17124
+
+Locus: SNP_17149
+
+Locus: SNP_17152
+
+Locus: SNP_17208
+
+Locus: SNP_17243
+
+Locus: SNP_17269
+
+Locus: SNP_17324
+
+Locus: SNP_17351
+
+Locus: SNP_17382
+
+Locus: SNP_17494
+
+Locus: SNP_17496
+
+Locus: SNP_17531
+
+Locus: SNP_17535
+
+Locus: SNP_17561
+
+Locus: SNP_17567
+
+Locus: SNP_17575
+
+Locus: SNP_17580
+
+Locus: SNP_17586
+
+Locus: SNP_17589
+
+Locus: SNP_17624
+
+Locus: SNP_17630
+
+Locus: SNP_17641
+
+Locus: SNP_17660
+
+Locus: SNP_17701
+
+Locus: SNP_17748
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_17759
+
+Locus: SNP_17807
+
+Locus: SNP_17828
+
+Locus: SNP_17829
+
+Locus: SNP_17839
+
+Locus: SNP_17853
+
+Locus: SNP_17860
+
+Locus: SNP_17864
+
+Locus: SNP_17868
+
+Locus: SNP_17928
+
+Locus: SNP_17960
+
+Locus: SNP_17971
+
+Locus: SNP_18016
+
+Locus: SNP_18136
+
+Locus: SNP_18168
+
+Locus: SNP_18184
+
+Locus: SNP_18187
+
+Locus: SNP_18205
+
+Locus: SNP_18275
+
+Locus: SNP_18408
+
+Locus: SNP_18530
+
+Locus: SNP_18533
+
+Locus: SNP_18538
+
+Locus: SNP_18548
+
+Locus: SNP_18584
+
+Locus: SNP_18616
+
+Locus: SNP_18628
+
+Locus: SNP_18630
+
+Locus: SNP_18648
+
+Locus: SNP_18649
+
+Locus: SNP_18658
+
+Locus: SNP_18668
+
+Locus: SNP_18673
+
+Locus: SNP_18689
+
+Locus: SNP_18702
+
+Locus: SNP_18721
+
+Locus: SNP_18792
+
+Locus: SNP_18794
+
+Locus: SNP_18808
+
+Locus: SNP_18873
+
+Locus: SNP_18878
+
+Locus: SNP_18943
+
+Locus: SNP_19097
+
+Locus: SNP_19098
+
+Locus: SNP_19127
+
+Locus: SNP_19186
+
+Locus: SNP_19191
+
+Locus: SNP_19204
+
+Locus: SNP_19461
+
+Locus: SNP_19473
+
+Locus: SNP_19541
+
+Locus: SNP_19608
+
+Locus: SNP_19638
+
+Locus: SNP_19644
+
+Locus: SNP_19652
+
+Locus: SNP_19664
+
+Locus: SNP_19665
+
+Locus: SNP_19776
+
+Locus: SNP_19800
+
+Locus: SNP_19990
+
+Locus: SNP_20129
+
+Locus: SNP_20287
+
+Locus: SNP_20376
+
+Locus: SNP_20450
+
+Locus: SNP_20453
+
+Locus: SNP_20521
+
+Locus: SNP_20541
+
+Locus: SNP_20546
+
+Locus: SNP_20553
+
+Locus: SNP_20573
+
+Locus: SNP_20614
+
+Locus: SNP_20676
+
+Locus: SNP_20683
+
+Locus: SNP_20708
+
+Locus: SNP_20712
+
+Locus: SNP_21001
+
+Locus: SNP_21016
+
+Locus: SNP_21017
+
+Locus: SNP_21018
+
+Locus: SNP_21066
+
+Locus: SNP_21108
+
+Locus: SNP_21112
+
+Locus: SNP_21120
+
+Locus: SNP_21217
+
+Locus: SNP_21233
+
+Locus: SNP_21234
+
+Locus: SNP_21244
+
+Locus: SNP_21253
+
+Locus: SNP_21263
+
+Locus: SNP_21270
+
+Locus: SNP_21301
+
+Locus: SNP_21304
+
+Locus: SNP_21320
+
+Locus: SNP_21329
+
+Locus: SNP_21383
+
+Locus: SNP_21408
+
+Locus: SNP_21409
+
+Locus: SNP_21459
+
+Locus: SNP_21478
+
+Locus: SNP_21551
+
+Locus: SNP_21573
+
+Locus: SNP_21576
+
+Locus: SNP_21578
+
+Locus: SNP_21726
+
+Locus: SNP_21727
+
+Locus: SNP_21785
+
+Locus: SNP_21791
+
+Locus: SNP_21792
+
+Locus: SNP_21836
+
+Locus: SNP_21855
+
+Locus: SNP_21865
+
+Locus: SNP_21868
+
+Locus: SNP_21877
+
+Locus: SNP_21881
+
+Locus: SNP_21890
+
+Locus: SNP_21900
+
+Locus: SNP_21905
+
+Locus: SNP_21913
+
+Locus: SNP_21949
+
+Locus: SNP_21965
+
+Locus: SNP_21992
+
+Locus: SNP_21997
+
+Locus: SNP_22011
+
+Locus: SNP_22026
+
+Locus: SNP_22027
+
+Locus: SNP_22036
+
+Locus: SNP_22046
+
+Locus: SNP_22064
+
+Locus: SNP_22085
+
+Locus: SNP_22094
+
+Locus: SNP_22126
+
+Locus: SNP_22137
+
+Locus: SNP_22155
+
+Locus: SNP_22167
+
+Locus: SNP_22193
+
+Locus: SNP_22214
+
+Locus: SNP_22231
+
+Locus: SNP_22237
+
+Locus: SNP_22364
+
+Locus: SNP_22371
+
+Locus: SNP_22397
+
+Locus: SNP_22400
+
+Locus: SNP_22526
+
+Locus: SNP_22678
+
+Locus: SNP_22690
+
+Locus: SNP_22699
+
+Locus: SNP_22852
+
+Locus: SNP_22857
+
+Locus: SNP_22896
+
+Locus: SNP_22928
+
+Locus: SNP_22982
+
+Locus: SNP_23197
+
+Locus: SNP_23293
+
+Locus: SNP_23303
+
+Locus: SNP_23314
+
+Locus: SNP_23332
+
+Locus: SNP_23368
+
+Locus: SNP_23395
+
+Locus: SNP_23427
+
+Locus: SNP_23439
+
+Locus: SNP_23477
+
+Locus: SNP_23496
+
+Locus: SNP_23504
+
+Locus: SNP_23554
+
+Locus: SNP_23671
+
+Locus: SNP_23672
+
+Locus: SNP_23689
+
+Locus: SNP_23705
+
+Locus: SNP_23744
+
+Locus: SNP_23755
+
+Locus: SNP_23780
+
+Locus: SNP_23781
+
+Locus: SNP_23810
+
+Locus: SNP_23850
+
+Locus: SNP_23872
+
+Locus: SNP_23873
+
+Locus: SNP_23877
+
+Locus: SNP_23925
+
+Locus: SNP_23939
+
+Locus: SNP_23969
+
+Locus: SNP_24003
+
+Locus: SNP_24012
+
+Locus: SNP_24034
+
+Locus: SNP_24055
+
+Locus: SNP_24105
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_24106
+
+	Mom allele 1: 4
+	Mom allele 2: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 3
+
+Locus: SNP_24107
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_24109
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_24110
+
+	Mom allele 1: 2
+	Mom allele 2: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: SNP_24112
+
+Locus: SNP_24114
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_24115
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_24116
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_24128
+
+Locus: SNP_24138
+
+Locus: SNP_24168
+
+Locus: SNP_24214
+
+Locus: SNP_24269
+
+Locus: SNP_24390
+
+Locus: SNP_24411
+
+Locus: SNP_24422
+
+Locus: SNP_24468
+
+Locus: SNP_24494
+
+Locus: SNP_24501
+
+Locus: SNP_24550
+
+Locus: SNP_24552
+
+Locus: SNP_24569
+
+Locus: SNP_24598
+
+Locus: SNP_24607
+
+Locus: SNP_24615
+
+Locus: SNP_24622
+
+Locus: SNP_24648
+
+Locus: SNP_24705
+
+Locus: SNP_24758
+
+Locus: SNP_24763
+
+Locus: SNP_24822
+
+Locus: SNP_24850
+
+Locus: SNP_24859
+
+Locus: SNP_24907
+
+Locus: SNP_24908
+
+Locus: SNP_24916
+
+Locus: SNP_24918
+
+Locus: SNP_24921
+
+Locus: SNP_24922
+
+Locus: SNP_24929
+
+Locus: SNP_24932
+
+Locus: SNP_24944
+
+Locus: SNP_24945
+
+Locus: SNP_24991
+
+Locus: SNP_25009
+
+Locus: SNP_25027
+
+Locus: SNP_25108
+
+Locus: SNP_25115
+
+Locus: SNP_25128
+
+Locus: SNP_25130
+
+Locus: SNP_25137
+
+Locus: SNP_25191
+
+Locus: SNP_25196
+
+Locus: SNP_25236
+
+Locus: SNP_25290
+
+Locus: SNP_25339
+
+Locus: SNP_25343
+
+Locus: SNP_25346
+
+Locus: SNP_25369
+
+Locus: SNP_25387
+
+Locus: SNP_25397
+
+Locus: SNP_25409
+
+Locus: SNP_25437
+
+Locus: SNP_25447
+
+Locus: SNP_25450
+
+Locus: SNP_25452
+
+Locus: SNP_25460
+
+Locus: SNP_25474
+
+Locus: SNP_25483
+
+Locus: SNP_25492
+
+Locus: SNP_25493
+
+Locus: SNP_25505
+
+Locus: SNP_25599
+
+Locus: SNP_25633
+
+Locus: SNP_25642
+
+Locus: SNP_25654
+
+Locus: SNP_25656
+
+Locus: SNP_25673
+
+Locus: SNP_25696
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_25741
+
+Locus: SNP_25748
+
+Locus: SNP_25751
+
+Locus: SNP_25770
+
+Locus: SNP_25774
+
+Locus: SNP_25782
+
+Locus: SNP_25838
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_25873
+
+Locus: SNP_25884
+
+Locus: SNP_25904
+
+Locus: SNP_25913
+
+Locus: SNP_25929
+
+Locus: SNP_25930
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_25953
+
+Locus: SNP_25974
+
+Locus: SNP_25976
+
+Locus: SNP_25983
+
+Locus: SNP_25989
+
+Locus: SNP_26127
+
+Locus: SNP_26175
+
+Locus: SNP_26178
+
+Locus: SNP_26186
+
+Locus: SNP_26191
+
+Locus: SNP_26250
+
+Locus: SNP_26251
+
+Locus: SNP_26269
+
+Locus: SNP_26275
+
+Locus: SNP_26293
+
+Locus: SNP_26316
+
+Locus: SNP_26336
+
+Locus: SNP_26366
+
+Locus: SNP_26385
+
+Locus: SNP_26419
+
+Locus: SNP_26426
+
+Locus: SNP_26427
+
+Locus: SNP_26490
+
+Locus: SNP_26504
+
+Locus: SNP_26506
+
+Locus: SNP_26528
+
+Locus: SNP_26540
+
+Locus: SNP_26650
+
+Locus: SNP_26677
+
+Locus: SNP_26700
+
+Locus: SNP_26718
+
+Locus: SNP_26722
+
+Locus: SNP_26724
+
+Locus: SNP_26778
+
+Locus: SNP_26809
+
+Locus: SNP_26816
+
+Locus: SNP_26842
+
+Locus: SNP_26899
+
+Locus: SNP_26905
+
+Locus: SNP_26909
+
+Locus: SNP_26929
+
+Locus: SNP_26955
+
+Locus: SNP_26956
+
+Locus: SNP_26983
+
+Locus: SNP_26993
+
+Locus: SNP_26995
+
+Locus: SNP_27017
+
+Locus: SNP_27019
+
+Locus: SNP_27075
+
+Locus: SNP_27082
+
+Locus: SNP_27089
+
+Locus: SNP_27096
+
+Locus: SNP_27116
+
+Locus: SNP_27160
+
+Locus: SNP_27165
+
+Locus: SNP_27210
+
+Locus: SNP_27214
+
+Locus: SNP_27215
+
+Locus: SNP_27225
+
+Locus: SNP_27228
+
+Locus: SNP_27294
+
+Locus: SNP_27302
+
+Locus: SNP_27306
+
+Locus: SNP_27317
+
+Locus: SNP_27339
+
+Locus: SNP_27383
+
+Locus: SNP_27405
+
+Locus: SNP_27417
+
+Locus: SNP_27430
+
+Locus: SNP_27431
+
+Locus: SNP_27436
+
+Locus: SNP_27438
+
+Locus: SNP_27439
+
+Locus: SNP_27501
+
+Locus: SNP_27555
+
+Locus: SNP_27559
+
+Locus: SNP_27663
+
+Locus: SNP_27675
+
+Locus: SNP_27677
+
+Locus: SNP_27680
+
+Locus: SNP_27738
+
+Locus: SNP_27749
+
+Locus: SNP_27774
+
+Locus: SNP_27775
+
+Locus: SNP_27777
+
+Locus: SNP_27827
+
+Locus: SNP_27830
+
+Locus: SNP_27870
+
+Locus: SNP_27874
+
+Locus: SNP_27933
+
+Locus: SNP_27934
+
+Locus: SNP_27946
+
+Locus: SNP_27957
+
+Locus: SNP_27964
+
+Locus: SNP_28009
+
+Locus: SNP_28046
+
+Locus: SNP_28054
+
+Locus: SNP_28056
+
+Locus: SNP_28059
+
+Locus: SNP_28060
+
+Locus: SNP_28061
+
+Locus: SNP_28083
+
+Locus: SNP_28151
+
+Locus: SNP_28162
+
+Locus: SNP_28164
+
+Locus: SNP_28190
+
+Locus: SNP_28194
+
+Locus: SNP_28200
+
+Locus: SNP_28230
+
+Locus: SNP_28288
+
+Locus: SNP_28298
+
+Locus: SNP_28338
+
+Locus: SNP_28673
+
+Locus: SNP_28699
+
+Locus: SNP_28774
+
+Locus: SNP_28800
+
+Locus: SNP_28813
+
+Locus: SNP_28814
+
+Locus: SNP_28862
+
+Locus: SNP_28964
+
+Locus: SNP_29514
+
+Locus: SNP_29521
+
+Locus: SNP_29533
+
+Locus: SNP_29573
+
+Locus: SNP_29580
+
+Locus: SNP_29605
+
+Locus: SNP_29606
+
+Locus: SNP_29674
+
+Locus: SNP_29695
+
+Locus: SNP_29696
+
+Locus: SNP_29697
+
+Locus: SNP_29736
+
+Locus: SNP_29751
+
+Locus: SNP_29774
+
+Locus: SNP_29780
+
+Locus: SNP_29787
+
+Locus: SNP_29806
+
+Locus: SNP_29835
+
+Locus: SNP_29883
+
+Locus: SNP_29961
+
+Locus: SNP_29962
+
+Locus: SNP_29969
+
+Locus: SNP_29978
+
+Locus: SNP_30005
+
+Locus: SNP_30025
+
+Locus: SNP_30050
+
+Locus: SNP_30059
+
+Locus: SNP_30084
+
+Locus: SNP_30091
+
+Locus: SNP_30123
+
+Locus: SNP_30126
+
+Locus: SNP_30143
+
+Locus: SNP_30172
+
+Locus: SNP_30202
+
+Locus: SNP_30223
+
+Locus: SNP_30316
+
+Locus: SNP_30439
+
+Locus: SNP_30586
+
+Locus: SNP_30601
+
+Locus: SNP_30731
+
+Locus: SNP_30740
+
+Locus: SNP_30806
+
+Locus: SNP_30814
+
+Locus: SNP_30846
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP_31056
+
+Locus: SNP_31063
+
+Locus: SNP_31071
+
+Locus: SNP_31078
+
+Locus: SNP_31085
+
+Locus: SNP_31131
+
+Locus: SNP_31132
+
+Locus: SNP_31135
+
+Locus: SNP_31138
+
+Locus: SNP_31140
+
+Locus: SNP_31143
+
+Locus: SNP_31146
+
+Locus: SNP_31161
+
+Locus: SNP_31381
+
+Locus: SNP_31439
+
+Locus: SNP_31446
+
+Locus: SNP_31447
+
+Locus: SNP_31454
+
+Locus: SNP_31505
+
+Locus: SNP_31574
+
+Locus: SNP_31580
+
+Locus: SNP_31590
+
+Locus: SNP_31616
+
+Locus: SNP_31645
+
+Locus: SNP_31663
+
+Locus: SNP_31686
+
+Locus: SNP_31687
+
+Locus: SNP_31741
+
+Locus: SNP_31763
+
+Locus: SNP_31770
+
+Locus: SNP_31782
+
+Locus: SNP_31784
+
+Locus: SNP_31786
+
+Locus: SNP_31790
+
+Locus: SNP_31812
+
+Locus: SNP_31926
+
+Locus: SNP_32009
+
+Locus: SNP_32046
+
+Locus: SNP_32092
+
+Locus: SNP_32164
+
+Locus: SNP_32179
+
+Locus: SNP_32198
+
+Locus: SNP_32200
+
+Locus: SNP_32201
+
+Locus: SNP_32252
+
+Locus: SNP_32322
+
+Locus: SNP_32332
+
+Locus: SNP_32341
+
+Locus: SNP_32395
+
+Locus: SNP_32407
+
+Locus: SNP_32410
+
+Locus: SNP_32411
+
+Locus: SNP_32427
+
+Locus: SNP_32429
+
+Locus: SNP_32450
+
+Locus: SNP_32458
+
+Locus: SNP_32466
+
+Locus: SNP_32482
+
+Locus: SNP_32562
+
+Locus: SNP_32596
+
+Locus: SNP_32600
+
+Locus: SNP_32614
+
+Locus: SNP_32631
+
+Locus: SNP_32642
+
+Locus: SNP_32680
+
+Locus: SNP_32691
+
+Locus: SNP_32704
+
+Locus: SNP_32708
+
+Locus: SNP_32774
+
+Locus: SNP_32775
+
+Locus: SNP_32776
+
+Locus: SNP_32790
+
+Locus: SNP_32801
+
+Locus: SNP_32818
+
+Locus: SNP_32821
+
+Locus: SNP_32874
+
+Locus: SNP_32900
+
+Locus: SNP_32923
+
+Locus: SNP_32948
+
+Locus: SNP_33022
+
+Locus: SNP_33024
+
+Locus: SNP_33025
+
+Locus: SNP_33070
+
+Locus: SNP_33082
+
+Locus: SNP_33092
+
+Locus: SNP_33094
+
+Locus: SNP_33102
+
+Locus: SNP_33119
+
+Locus: SNP_33183
+
+Locus: SNP_33201
+
+Locus: SNP_33250
+
+Locus: SNP_33270
+
+Locus: SNP_33304
+
+Locus: SNP_33377
+
+Locus: SNP_33395
+
+Locus: SNP_33433
+
+Locus: SNP_33583
+
+Locus: SNP_33615
+
+Locus: SNP_33628
+
+Locus: SNP_33674
+
+Locus: SNP_33749
+
+Locus: SNP_33813
+
+Locus: SNP_33815
+
+Locus: SNP_33838
+
+Locus: SNP_33841
+
+Locus: SNP_33870
+
+Locus: SNP_33964
+
+Locus: SNP_33966
+
+Locus: SNP_34003
+
+Locus: SNP_34004
+
+Locus: SNP_34031
+
+Locus: SNP_34036
+
+Locus: SNP_34048
+
+Locus: SNP_34079
+
+Locus: SNP_34108
+
+Locus: SNP_34134
+
+Locus: SNP_34284
+
+Locus: SNP_34296
+
+Locus: SNP_34310
+
+Locus: SNP_34384
+
+Locus: SNP_34412
+
+Locus: SNP_34505
+
+Locus: SNP_34558
+
+Locus: SNP_34585
+
+Locus: SNP_34629
+
+Locus: SNP_34660
+
+Locus: SNP_34662
+
+Locus: SNP_34672
+
+Locus: SNP_34674
+
+Locus: SNP_34726
+
+Locus: SNP_34781
+
+Locus: SNP_34791
+
+Locus: SNP_34824
+
+Locus: SNP_34825
+
+Locus: SNP_34919
+
+Locus: SNP_34972
+
+Locus: SNP_34975
+
+Locus: SNP_34980
+
+Locus: SNP_34985
+
+Locus: SNP_34988
+
+Locus: SNP_35013
+
+Locus: SNP_35015
+
+Locus: SNP_35025
+
+Locus: SNP_35082
+
+Locus: SNP_35140
+
+Locus: SNP_35188
+
+Locus: SNP_35209
+
+Locus: SNP_35222
+
+Locus: SNP_35257
+
+Locus: SNP_35263
+
+Locus: SNP_35265
+
+Locus: SNP_35278
+
+Locus: SNP_35343
+
+	Mom allele 1: 4
+	Mom allele 2: 1
+	Offspring allele 1: 4
+	Offspring allele 2: 1
+
+Locus: SNP_35525
+
+Locus: SNP_35615
+
+Locus: SNP_35956
+
+Locus: SNP_35959
+
+Locus: SNP_35960
+
+Locus: SNP_35964
+
+Locus: SNP_35965
+
+Locus: SNP_35967
+
+Locus: SNP_36116
+
+Locus: SNP_36127
+
+Locus: SNP_36154
+
+Locus: SNP_36216
+
+Locus: SNP_36229
+
+Locus: SNP_36260
+
+Locus: SNP_36403
+
+Locus: SNP_36471
+
+Locus: SNP_36481
+
+Locus: SNP_36492
+
+Locus: SNP_36526
+
+Locus: SNP_36528
+
+Locus: SNP_36536
+
+Locus: SNP_36607
+
+Locus: SNP_36612
+
+Locus: SNP_36623
+
+Locus: SNP_36661
+
+Locus: SNP_36663
+
+Locus: SNP_36679
+
+Locus: SNP_36685
+
+Locus: SNP_36699
+
+Locus: SNP_36726
+
+Locus: SNP_36734
+
+Locus: SNP_36778
+
+Locus: SNP_36814
+
+Locus: SNP_36897
+
+Locus: SNP_36934
+
+Locus: SNP_37016
+
+Locus: SNP_37070
+
+	Mom allele 1: 3
+	Mom allele 2: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: SNP_37122
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_37186
+
+Locus: SNP_37264
+
+Locus: SNP_37367
+
+Locus: SNP_37375
+
+Locus: SNP_37507
+
+Locus: SNP_37513
+
+Locus: SNP_37519
+
+Locus: SNP_37522
+
+Locus: SNP_37524
+
+Locus: SNP_37681
+
+Locus: SNP_37685
+
+Locus: SNP_37689
+
+Locus: SNP_37700
+
+Locus: SNP_37707
+
+Locus: SNP_37714
+
+Locus: SNP_37715
+
+Locus: SNP_37752
+
+Locus: SNP_37767
+
+Locus: SNP_37774
+
+Locus: SNP_37787
+
+Locus: SNP_37816
+
+Locus: SNP_37829
+
+Locus: SNP_37835
+
+	Mom allele 1: 4
+	Mom allele 2: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 3
+
+Locus: SNP_38256
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_38308
+
+Locus: SNP_38322
+
+Locus: SNP_38383
+
+Locus: SNP_38388
+
+Locus: SNP_38395
+
+Locus: SNP_38428
+
+Locus: SNP_38434
+
+Locus: SNP_38436
+
+Locus: SNP_38439
+
+Locus: SNP_38442
+
+Locus: SNP_38448
+
+Locus: SNP_38554
+
+Locus: SNP_38573
+
+Locus: SNP_38610
+
+Locus: SNP_38612
+
+Locus: SNP_38628
+
+Locus: SNP_38971
+
+Locus: SNP_38996
+
+Locus: SNP_39019
+
+Locus: SNP_39043
+
+Locus: SNP_39069
+
+Locus: SNP_39091
+
+Locus: SNP_39110
+
+Locus: SNP_39176
+
+Locus: SNP_39230
+
+Locus: SNP_39258
+
+Locus: SNP_39263
+
+Locus: SNP_39367
+
+Locus: SNP_39368
+
+Locus: SNP_39373
+
+Locus: SNP_39470
+
+Locus: SNP_39475
+
+Locus: SNP_39478
+
+Locus: SNP_39517
+
+Locus: SNP_39520
+
+Locus: SNP_39527
+
+Locus: SNP_39540
+
+Locus: SNP_39576
+
+Locus: SNP_39586
+
+Locus: SNP_39587
+
+Locus: SNP_39612
+
+Locus: SNP_39613
+
+Locus: SNP_39615
+
+Locus: SNP_39629
+
+Locus: SNP_39637
+
+Locus: SNP_39744
+
+Locus: SNP_39816
+
+Locus: SNP_39835
+
+Locus: SNP_39843
+
+Locus: SNP_39860
+
+Locus: SNP_39861
+
+Locus: SNP_39867
+
+Locus: SNP_39890
+
+Locus: SNP_39924
+
+Locus: SNP_39925
+
+Locus: SNP_39929
+
+Locus: SNP_39931
+
+Locus: SNP_39938
+
+Locus: SNP_39989
+
+Locus: SNP_39991
+
+Locus: SNP_40001
+
+Locus: SNP_40002
+
+Locus: SNP_40009
+
+Locus: SNP_40023
+
+Locus: SNP_40037
+
+Locus: SNP_40148
+
+Locus: SNP_40157
+
+Locus: SNP_40158
+
+Locus: SNP_40164
+
+Locus: SNP_40168
+
+Locus: SNP_40172
+
+Locus: SNP_40193
+
+Locus: SNP_40201
+
+Locus: SNP_40210
+
+Locus: SNP_40213
+
+Locus: SNP_40217
+
+Locus: SNP_40219
+
+Locus: SNP_40224
+
+Locus: SNP_40227
+
+Locus: SNP_40332
+
+Locus: SNP_40340
+
+Locus: SNP_40345
+
+Locus: SNP_40359
+
+Locus: SNP_40383
+
+Locus: SNP_40394
+
+Locus: SNP_40403
+
+Locus: SNP_40426
+
+Locus: SNP_40429
+
+Locus: SNP_40436
+
+Locus: SNP_40496
+
+Locus: SNP_40503
+
+Locus: SNP_40514
+
+Locus: SNP_40525
+
+Locus: SNP_40555
+
+Locus: SNP_40580
+
+Locus: SNP_40594
+
+Locus: SNP_40642
+
+Locus: SNP_40648
+
+Locus: SNP_40658
+
+Locus: SNP_40697
+
+Locus: SNP_40726
+
+Locus: SNP_40755
+
+Locus: SNP_40756
+
+Locus: SNP_40798
+
+Locus: SNP_40918
+
+Locus: SNP_41002
+
+Locus: SNP_41025
+
+Locus: SNP_41026
+
+Locus: SNP_41051
+
+Locus: SNP_41089
+
+Locus: SNP_41094
+
+Locus: SNP_41117
+
+Locus: SNP_41118
+
+Locus: SNP_41125
+
+Locus: SNP_41137
+
+Locus: SNP_41260
+
+Locus: SNP_41262
+
+Locus: SNP_41458
+
+Locus: SNP_41463
+
+Locus: SNP_41496
+
+Locus: SNP_41525
+
+Locus: SNP_41566
+
+Locus: SNP_41571
+
+Locus: SNP_41575
+
+Locus: SNP_41576
+
+Locus: SNP_41593
+
+Locus: SNP_41659
+
+Locus: SNP_41665
+
+Locus: SNP_41688
+
+Locus: SNP_41775
+
+Locus: SNP_41794
+
+Locus: SNP_41812
+
+Locus: SNP_41823
+
+Locus: SNP_41854
+
+Locus: SNP_41902
+
+Locus: SNP_41916
+
+Locus: SNP_41948
+
+Locus: SNP_41967
+
+Locus: SNP_41983
+
+Locus: SNP_41985
+
+Locus: SNP_42042
+
+Locus: SNP_42318
+
+Locus: SNP_42669
+
+Locus: SNP_42742
+
+Locus: SNP_42962
+
+Locus: SNP_42966
+
+Locus: SNP_42977
+
+Locus: SNP_43009
+
+Locus: SNP_43064
+
+Locus: SNP_43149
+
+Locus: SNP_43208
+
+Locus: SNP_43265
+
+Locus: SNP_43324
+
+Locus: SNP_43330
+
+Locus: SNP_43345
+
+Locus: SNP_43624
+
+Locus: SNP_43627
+
+Locus: SNP_43653
+
+Locus: SNP_43712
+
+Locus: SNP_43728
+
+	Mom allele 1: 3
+	Mom allele 2: 2
+	Offspring allele 1: 3
+	Offspring allele 2: 2
+
+Locus: SNP_43775
+
+Locus: SNP_43803
+
+Locus: SNP_43804
+
+Locus: SNP_43809
+
+Locus: SNP_43811
+
+Locus: SNP_43813
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_43814
+
+Locus: SNP_43851
+
+Locus: SNP_43854
+
+Locus: SNP_43858
+
+Locus: SNP_43862
+
+Locus: SNP_43874
+
+Locus: SNP_43880
+
+	Mom allele 1: 2
+	Mom allele 2: 1
+	Offspring allele 1: 2
+	Offspring allele 2: 1
+
+Locus: SNP_43881
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_43883
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_43885
+
+Locus: SNP_43890
+
+Locus: SNP_43907
+
+Locus: SNP_43984
+
+Locus: SNP_44011
+
+Locus: SNP_44029
+
+Locus: SNP_44049
+
+Locus: SNP_44064
+
+Locus: SNP_44089
+
+Locus: SNP_44125
+
+Locus: SNP_44141
+
+Locus: SNP_44246
+
+Locus: SNP_44715
+
+Locus: SNP_44728
+
+Locus: SNP_44795
+
+Locus: SNP_44810
+
+Locus: SNP_44816
+
+Locus: SNP_44875
+
+Locus: SNP_44879
+
+Locus: SNP_44940
+
+Locus: SNP_44947
+
+Locus: SNP_44979
+
+Locus: SNP_44985
+
+Locus: SNP_45059
+
+Locus: SNP_45104
+
+Locus: SNP_45106
+
+Locus: SNP_45113
+
+Locus: SNP_45158
+
+Locus: SNP_45192
+
+Locus: SNP_45258
+
+Locus: SNP_45261
+
+Locus: SNP_45265
+
+Locus: SNP_45298
+
+Locus: SNP_45306
+
+Locus: SNP_45309
+
+Locus: SNP_45331
+
+Locus: SNP_45344
+
+Locus: SNP_45359
+
+Locus: SNP_45376
+
+Locus: SNP_45390
+
+Locus: SNP_45395
+
+Locus: SNP_45402
+
+Locus: SNP_45473
+
+Locus: SNP_45499
+
+Locus: SNP_45582
+
+Locus: SNP_45599
+
+Locus: SNP_45617
+
+Locus: SNP_45639
+
+Locus: SNP_45696
+
+Locus: SNP_45717
+
+Locus: SNP_45723
+
+Locus: SNP_45730
+
+Locus: SNP_45733
+
+Locus: SNP_45739
+
+Locus: SNP_45747
+
+Locus: SNP_45760
+
+Locus: SNP_45778
+
+Locus: SNP_45791
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_45815
+
+Locus: SNP_45817
+
+Locus: SNP_45819
+
+Locus: SNP_45830
+
+Locus: SNP_45847
+
+Locus: SNP_45848
+
+Locus: SNP_45900
+
+Locus: SNP_45908
+
+Locus: SNP_45912
+
+Locus: SNP_45914
+
+Locus: SNP_45933
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_45972
+
+Locus: SNP_45975
+
+Locus: SNP_45985
+
+Locus: SNP_46016
+
+Locus: SNP_46061
+
+Locus: SNP_46069
+
+Locus: SNP_46074
+
+Locus: SNP_46076
+
+Locus: SNP_46090
+
+Locus: SNP_46112
+
+Locus: SNP_46130
+
+Locus: SNP_46144
+
+Locus: SNP_46223
+
+Locus: SNP_46226
+
+Locus: SNP_46228
+
+Locus: SNP_46229
+
+Locus: SNP_46243
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_46741
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_46742
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_46743
+
+Locus: SNP_46744
+
+Locus: SNP_46748
+
+Locus: SNP_46758
+
+Locus: SNP_46833
+
+Locus: SNP_46983
+
+Locus: SNP_47055
+
+Locus: SNP_47091
+
+Locus: SNP_47103
+
+Locus: SNP_47104
+
+Locus: SNP_47127
+
+Locus: SNP_47182
+
+Locus: SNP_47204
+
+Locus: SNP_47261
+
+Locus: SNP_47263
+
+Locus: SNP_47272
+
+Locus: SNP_47287
+
+Locus: SNP_47303
+
+Locus: SNP_47328
+
+Locus: SNP_47369
+
+Locus: SNP_47406
+
+Locus: SNP_47443
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_47840
+
+Locus: SNP_47935
+
+Locus: SNP_47936
+
+Locus: SNP_47952
+
+Locus: SNP_47956
+
+Locus: SNP_47965
+
+Locus: SNP_47970
+
+Locus: SNP_48007
+
+Locus: SNP_48013
+
+Locus: SNP_48028
+
+Locus: SNP_48029
+
+Locus: SNP_48040
+
+Locus: SNP_48071
+
+Locus: SNP_48096
+
+Locus: SNP_48145
+
+Locus: SNP_48170
+
+Locus: SNP_48183
+
+Locus: SNP_48195
+
+Locus: SNP_48206
+
+Locus: SNP_48214
+
+Locus: SNP_48216
+
+Locus: SNP_48284
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_48334
+
+Locus: SNP_48371
+
+Locus: SNP_48423
+
+Locus: SNP_48525
+
+Locus: SNP_48531
+
+Locus: SNP_48533
+
+Locus: SNP_48536
+
+Locus: SNP_48545
+
+Locus: SNP_48548
+
+Locus: SNP_48553
+
+Locus: SNP_48576
+
+Locus: SNP_48580
+
+Locus: SNP_48587
+
+Locus: SNP_48635
+
+Locus: SNP_48644
+
+Locus: SNP_48647
+
+Locus: SNP_48648
+
+Locus: SNP_48710
+
+Locus: SNP_48725
+
+Locus: SNP_48783
+
+Locus: SNP_48886
+
+Locus: SNP_49083
+
+Locus: SNP_49102
+
+Locus: SNP_49104
+
+Locus: SNP_49122
+
+Locus: SNP_49177
+
+Locus: SNP_49183
+
+Locus: SNP_49271
+
+Locus: SNP_49286
+
+Locus: SNP_49295
+
+Locus: SNP_49393
+
+Locus: SNP_49478
+
+Locus: SNP_49487
+
+Locus: SNP_49562
+
+Locus: SNP_49588
+
+Locus: SNP_49637
+
+Locus: SNP_49892
+
+Locus: SNP_49907
+
+Locus: SNP_49933
+
+Locus: SNP_49941
+
+Locus: SNP_50028
+
+Locus: SNP_50036
+
+Locus: SNP_50055
+
+Locus: SNP_50074
+
+Locus: SNP_50083
+
+Locus: SNP_50087
+
+Locus: SNP_50095
+
+Locus: SNP_50136
+
+Locus: SNP_50211
+
+Locus: SNP_50212
+
+Locus: SNP_50302
+
+Locus: SNP_50375
+
+Locus: SNP_50381
+
+Locus: SNP_50401
+
+Locus: SNP_50478
+
+Locus: SNP_50560
+
+Locus: SNP_50563
+
+Locus: SNP_50598
+
+Locus: SNP_50623
+
+Locus: SNP_50644
+
+Locus: SNP_50651
+
+Locus: SNP_50656
+
+Locus: SNP_50684
+
+Locus: SNP_50694
+
+Locus: SNP_50710
+
+Locus: SNP_50726
+
+Locus: SNP_50736
+
+Locus: SNP_50768
+
+Locus: SNP_50855
+
+Locus: SNP_50871
+
+Locus: SNP_50880
+
+Locus: SNP_50881
+
+Locus: SNP_51501
+
+Locus: SNP_51509
+
+Locus: SNP_51510
+
+Locus: SNP_51539
+
+Locus: SNP_51549
+
+Locus: SNP_51552
+
+Locus: SNP_51559
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_51583
+
+Locus: SNP_51587
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_51608
+
+Locus: SNP_51615
+
+Locus: SNP_51640
+
+Locus: SNP_51658
+
+Locus: SNP_51670
+
+Locus: SNP_51695
+
+Locus: SNP_51705
+
+Locus: SNP_51739
+
+Locus: SNP_51751
+
+Locus: SNP_51801
+
+Locus: SNP_51849
+
+Locus: SNP_51913
+
+Locus: SNP_51948
+
+Locus: SNP_51992
+
+Locus: SNP_52014
+
+Locus: SNP_52023
+
+Locus: SNP_52033
+
+Locus: SNP_52056
+
+Locus: SNP_52057
+
+Locus: SNP_52075
+
+Locus: SNP_52099
+
+Locus: SNP_52203
+
+Locus: SNP_52207
+
+Locus: SNP_52377
+
+Locus: SNP_52428
+
+Locus: SNP_52437
+
+Locus: SNP_52442
+
+Locus: SNP_52485
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_52541
+
+Locus: SNP_52572
+
+Locus: SNP_52640
+
+Locus: SNP_52687
+
+Locus: SNP_52714
+
+Locus: SNP_52787
+
+Locus: SNP_53176
+
+Locus: SNP_53187
+
+Locus: SNP_53213
+
+Locus: SNP_53215
+
+Locus: SNP_53275
+
+Locus: SNP_53294
+
+Locus: SNP_53308
+
+Locus: SNP_53331
+
+Locus: SNP_53342
+
+Locus: SNP_53344
+
+Locus: SNP_53378
+
+Locus: SNP_53380
+
+Locus: SNP_53400
+
+Locus: SNP_53404
+
+Locus: SNP_53405
+
+Locus: SNP_53406
+
+Locus: SNP_53455
+
+Locus: SNP_53472
+
+Locus: SNP_53514
+
+Locus: SNP_53523
+
+Locus: SNP_53528
+
+Locus: SNP_53560
+
+Locus: SNP_53588
+
+Locus: SNP_53599
+
+Locus: SNP_53615
+
+Locus: SNP_53621
+
+Locus: SNP_53662
+
+Locus: SNP_53719
+
+Locus: SNP_53765
+
+Locus: SNP_53812
+
+Locus: SNP_53813
+
+Locus: SNP_53841
+
+	Mom allele 1: 2
+	Mom allele 2: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: SNP_53880
+
+Locus: SNP_53890
+
+Locus: SNP_53904
+
+Locus: SNP_53926
+
+Locus: SNP_53948
+
+Locus: SNP_53993
+
+Locus: SNP_54011
+
+Locus: SNP_54176
+
+Locus: SNP_54576
+
+Locus: SNP_54589
+
+Locus: SNP_54601
+
+Locus: SNP_54676
+
+Locus: SNP_54721
+
+Locus: SNP_54736
+
+Locus: SNP_54832
+
+Locus: SNP_54914
+
+Locus: SNP_54983
+
+Locus: SNP_55078
+
+Locus: SNP_55112
+
+Locus: SNP_55116
+
+Locus: SNP_55155
+
+Locus: SNP_55158
+
+Locus: SNP_55178
+
+Locus: SNP_55205
+
+Locus: SNP_55295
+
+Locus: SNP_55357
+
+Locus: SNP_55405
+
+Locus: SNP_55458
+
+Locus: SNP_55500
+
+Locus: SNP_55533
+
+Locus: SNP_55560
+
+Locus: SNP_55616
+
+Locus: SNP_55725
+
+Locus: SNP_55812
+
+Locus: SNP_55814
+
+Locus: SNP_56001
+
+Locus: SNP_56016
+
+Locus: SNP_56073
+
+Locus: SNP_56101
+
+Locus: SNP_56104
+
+Locus: SNP_56129
+
+Locus: SNP_56146
+
+Locus: SNP_56148
+
+Locus: SNP_56153
+
+Locus: SNP_56161
+
+Locus: SNP_56163
+
+Locus: SNP_56172
+
+Locus: SNP_56205
+
+Locus: SNP_56210
+
+Locus: SNP_56211
+
+Locus: SNP_56214
+
+Locus: SNP_56257
+
+Locus: SNP_56335
+
+Locus: SNP_56350
+
+Locus: SNP_56363
+
+Locus: SNP_56373
+
+	Mom allele 1: 1
+	Mom allele 2: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: SNP_56390
+
+Locus: SNP_56391
+
+Locus: SNP_56431
+
+Locus: SNP_56443
+
+Locus: SNP_56455
+
+Locus: SNP_56492
+
+Locus: SNP_56496
+
+Locus: SNP_56498
+
+Locus: SNP_56511
+
+Locus: SNP_56618
+
+Locus: SNP_56619
+
+Locus: SNP_56623
+
+Locus: SNP_56701
+
+Locus: SNP_56731
+
+Locus: SNP_56768
+
+Locus: SNP_56770
+
+Locus: SNP_56793
+
+Locus: SNP_56809
+
+Locus: SNP_56811
+
+Locus: SNP_56867
+
+Locus: SNP_56892
+
+Locus: SNP_56952
+
+Locus: SNP_56970
+
+Locus: SNP_57013
+
+Locus: SNP_57050
+
+Locus: SNP_57218
+
+Locus: SNP_57219
+
+Locus: SNP_57220
+
+Locus: SNP_57225
+
+Locus: SNP_57243
+
+Locus: SNP_57248
+
+Locus: SNP_57356
+
+Locus: SNP_57358
+
+Locus: SNP_57361
+
+Locus: SNP_57382
+
+Locus: SNP_57570
+
+Locus: SNP_57845
+
+Locus: SNP_57929
+
+Locus: SNP_57960
+
+Locus: SNP_57971
+
+Locus: SNP_57995
+
+Locus: SNP_57998
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_58030
+
+Locus: SNP_58115
+
+Locus: SNP_58137
+
+Locus: SNP_58138
+
+Locus: SNP_58169
+
+Locus: SNP_58200
+
+Locus: SNP_58205
+
+Locus: SNP_58209
+
+Locus: SNP_58213
+
+Locus: SNP_58230
+
+Locus: SNP_58295
+
+Locus: SNP_58351
+
+Locus: SNP_58373
+
+Locus: SNP_58375
+
+Locus: SNP_58395
+
+Locus: SNP_58408
+
+Locus: SNP_58431
+
+Locus: SNP_58441
+
+Locus: SNP_58481
+
+Locus: SNP_58520
+
+Locus: SNP_58530
+
+Locus: SNP_58551
+
+Locus: SNP_58563
+
+Locus: SNP_58564
+
+Locus: SNP_58584
+
+Locus: SNP_58594
+
+Locus: SNP_58629
+
+Locus: SNP_58651
+
+Locus: SNP_58703
+
+Locus: SNP_58721
+
+Locus: SNP_58736
+
+Locus: SNP_58746
+
+Locus: SNP_58761
+
+Locus: SNP_58824
+
+Locus: SNP_58855
+
+Locus: SNP_58868
+
+Locus: SNP_58882
+
+Locus: SNP_58890
+
+Locus: SNP_58902
+
+Locus: SNP_58908
+
+Locus: SNP_58919
+
+Locus: SNP_58934
+
+Locus: SNP_58943
+
+Locus: SNP_58951
+
+Locus: SNP_58961
+
+Locus: SNP_58965
+
+Locus: SNP_58970
+
+Locus: SNP_59002
+
+Locus: SNP_59149
+
+Locus: SNP_59150
+
+Locus: SNP_59288
+
+Locus: SNP_59386
+
+Locus: SNP_59399
+
+Locus: SNP_59458
+
+Locus: SNP_59468
+
+Locus: SNP_59470
+
+Locus: SNP_59490
+
+Locus: SNP_59500
+
+Locus: SNP_59526
+
+Locus: SNP_59533
+
+Locus: SNP_59535
+
+Locus: SNP_59536
+
+Locus: SNP_59592
+
+Locus: SNP_59667
+
+Locus: SNP_59669
+
+Locus: SNP_59684
+
+Locus: SNP_59723
+
+Locus: SNP_59778
+
+Locus: SNP_59805
+
+Locus: SNP_59876
+
+Locus: SNP_59880
+
+Locus: SNP_59941
+
+Locus: SNP_60194
+
+Locus: SNP_60249
+
+Locus: SNP_60288
+
+Locus: SNP_60291
+
+Locus: SNP_60302
+
+Locus: SNP_60343
+
+Locus: SNP_60358
+
+Locus: SNP_60360
+
+Locus: SNP_60406
+
+Locus: SNP_60438
+
+Locus: SNP_60443
+
+Locus: SNP_60447
+
+Locus: SNP_60643
+
+Locus: SNP_60650
+
+Locus: SNP_60651
+
+Locus: SNP_60655
+
+Locus: SNP_60668
+
+Locus: SNP_60675
+
+Locus: SNP_60786
+
+Locus: SNP_60796
+
+Locus: SNP_60838
+
+Locus: SNP_60841
+
+Locus: SNP_60858
+
+Locus: SNP_60876
+
+Locus: SNP_60898
+
+Locus: SNP_60901
+
+Locus: SNP_60902
+
+Locus: SNP_60907
+
+Locus: SNP_60974
+
+Locus: SNP_60979
+
+Locus: SNP_61051
+
+Locus: SNP_61145
+
+Locus: SNP_61146
+
+Locus: SNP_61150
+
+Locus: SNP_61158
+
+Locus: SNP_61174
+
+Locus: SNP_61177
+
+Locus: SNP_61178
+
+Locus: SNP_61182
+
+Locus: SNP_61183
+
+Locus: SNP_61191
+
+Locus: SNP_61194
+
+Locus: SNP_61221
+
+Locus: SNP_61237
+
+Locus: SNP_61238
+
+Locus: SNP_61282
+
+Locus: SNP_61286
+
+Locus: SNP_61342
+
+Locus: SNP_61358
+
+Locus: SNP_61370
+
+Locus: SNP_61388
+
+Locus: SNP_61389
+
+Locus: SNP_61422
+
+Locus: SNP_61438
+
+Locus: SNP_61500
+
+Locus: SNP_61575
+
+Locus: SNP_61597
+
+Locus: SNP_61631
+
+Locus: SNP_61672
+
+Locus: SNP_61681
+
+Locus: SNP_61690
+
+Locus: SNP_61725
+
+Locus: SNP_61729
+
+Locus: SNP_61754
+
+Locus: SNP_61759
+
+Locus: SNP_61762
+
+Locus: SNP_61813
+
+Locus: SNP_61859
+
+Locus: SNP_61901
+
+Locus: SNP_61916
+
+Locus: SNP_61939
+
+Locus: SNP_61985
+
+Locus: SNP_61990
+
+Locus: SNP_62093
+
+Locus: SNP_62130
+
+Locus: SNP_62171
+
+Locus: SNP_62226
+
+Locus: SNP_62240
+
+Locus: SNP_62249
+
+Locus: SNP_62252
+
+Locus: SNP_62291
+
+Locus: SNP_62305
+
+Locus: SNP_62411
+
+Locus: SNP_62422
+
+Locus: SNP_62478
+
+Locus: SNP_62487
+
+Locus: SNP_62516
+
+Locus: SNP_62964
+
+Locus: SNP_63030
+
+Locus: SNP_63052
+
+Locus: SNP_63066
+
+Locus: SNP_63092
+
+Locus: SNP_63138
+
+Locus: SNP_63146
+
+Locus: SNP_63150
+
+	Mom allele 1: 3
+	Mom allele 2: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: SNP_63174
+
+Locus: SNP_63178
+
+Locus: SNP_63205
+
+Locus: SNP_63407
+
+Locus: SNP_63409
+
+Locus: SNP_63423
+
+Locus: SNP_63432
+
+Locus: SNP_63577
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_63587
+
+Locus: SNP_63630
+
+Locus: SNP_63638
+
+Locus: SNP_63711
+
+Locus: SNP_63713
+
+Locus: SNP_63922
+
+Locus: SNP_64022
+
+Locus: SNP_64413
+
+Locus: SNP_64480
+
+Locus: SNP_64482
+
+Locus: SNP_64505
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_64642
+
+Locus: SNP_64712
+
+	Mom allele 1: 3
+	Mom allele 2: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: SNP_64900
+
+Locus: SNP_64907
+
+Locus: SNP_64933
+
+Locus: SNP_64950
+
+Locus: SNP_64964
+
+Locus: SNP_65115
+
+Locus: SNP_65122
+
+Locus: SNP_65124
+
+Locus: SNP_65144
+
+Locus: SNP_65145
+
+Locus: SNP_65171
+
+Locus: SNP_65197
+
+Locus: SNP_65224
+
+Locus: SNP_65229
+
+Locus: SNP_65252
+
+Locus: SNP_65440
+
+Locus: SNP_65639
+
+Locus: SNP_65663
+
+Locus: SNP_65666
+
+Locus: SNP_65673
+
+Locus: SNP_65677
+
+Locus: SNP_65702
+
+Locus: SNP_65718
+
+Locus: SNP_65722
+
+Locus: SNP_65795
+
+Locus: SNP_65797
+
+Locus: SNP_65800
+
+Locus: SNP_65801
+
+Locus: SNP_65817
+
+Locus: SNP_65821
+
+Locus: SNP_65844
+
+Locus: SNP_65883
+
+Locus: SNP_65886
+
+Locus: SNP_65893
+
+Locus: SNP_65899
+
+Locus: SNP_65928
+
+Locus: SNP_65932
+
+Locus: SNP_65936
+
+Locus: SNP_65953
+
+Locus: SNP_65957
+
+Locus: SNP_65965
+
+Locus: SNP_65967
+
+Locus: SNP_65975
+
+Locus: SNP_65979
+
+Locus: SNP_65982
+
+Locus: SNP_66006
+
+Locus: SNP_66052
+
+Locus: SNP_66057
+
+Locus: SNP_66103
+
+Locus: SNP_66109
+
+Locus: SNP_66121
+
+Locus: SNP_66137
+
+Locus: SNP_66139
+
+Locus: SNP_66192
+
+Locus: SNP_66228
+
+Locus: SNP_66233
+
+Locus: SNP_66244
+
+Locus: SNP_66245
+
+Locus: SNP_66290
+
+Locus: SNP_66295
+
+Locus: SNP_66315
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_66358
+
+Locus: SNP_66396
+
+Locus: SNP_66426
+
+Locus: SNP_66484
+
+Locus: SNP_66492
+
+Locus: SNP_66611
+
+Locus: SNP_66613
+
+Locus: SNP_66630
+
+Locus: SNP_66663
+
+Locus: SNP_66673
+
+Locus: SNP_66733
+
+Locus: SNP_66753
+
+Locus: SNP_66767
+
+Locus: SNP_66770
+
+Locus: SNP_66781
+
+Locus: SNP_66902
+
+Locus: SNP_66940
+
+Locus: SNP_66953
+
+Locus: SNP_66961
+
+Locus: SNP_66962
+
+Locus: SNP_66970
+
+Locus: SNP_66973
+
+Locus: SNP_66974
+
+Locus: SNP_66976
+
+Locus: SNP_66990
+
+Locus: SNP_67003
+
+Locus: SNP_67017
+
+Locus: SNP_67026
+
+Locus: SNP_67029
+
+Locus: SNP_67056
+
+Locus: SNP_67070
+
+Locus: SNP_67131
+
+Locus: SNP_67195
+
+Locus: SNP_67215
+
+Locus: SNP_67337
+
+Locus: SNP_67343
+
+Locus: SNP_67433
+
+Locus: SNP_67459
+
+Locus: SNP_67582
+
+Locus: SNP_67604
+
+Locus: SNP_67629
+
+Locus: SNP_67745
+
+Locus: SNP_67748
+
+Locus: SNP_67766
+
+Locus: SNP_67776
+
+Locus: SNP_67794
+
+Locus: SNP_67815
+
+Locus: SNP_67824
+
+Locus: SNP_67855
+
+Locus: SNP_67907
+
+Locus: SNP_67922
+
+Locus: SNP_67932
+
+Locus: SNP_67939
+
+Locus: SNP_67940
+
+Locus: SNP_67984
+
+Locus: SNP_68000
+
+Locus: SNP_68029
+
+Locus: SNP_68064
+
+Locus: SNP_68068
+
+Locus: SNP_68082
+
+Locus: SNP_68121
+
+Locus: SNP_68153
+
+Locus: SNP_68172
+
+Locus: SNP_68293
+
+Locus: SNP_68302
+
+Locus: SNP_68303
+
+Locus: SNP_68304
+
+Locus: SNP_68310
+
+Locus: SNP_68367
+
+Locus: SNP_68374
+
+Locus: SNP_68379
+
+Locus: SNP_68433
+
+Locus: SNP_68434
+
+Locus: SNP_68443
+
+Locus: SNP_68483
+
+Locus: SNP_68484
+
+Locus: SNP_68547
+
+Locus: SNP_68564
+
+Locus: SNP_68577
+
+Locus: SNP_68597
+
+Locus: SNP_68617
+
+	Mom allele 1: 4
+	Mom allele 2: 1
+	Offspring allele 1: 4
+	Offspring allele 2: 1
+
+Locus: SNP_68661
+
+Locus: SNP_68689
+
+Locus: SNP_68701
+
+Locus: SNP_68713
+
+Locus: SNP_68722
+
+Locus: SNP_68921
+
+Locus: SNP_68933
+
+Locus: SNP_68957
+
+Locus: SNP_68997
+
+Locus: SNP_69098
+
+Locus: SNP_69123
+
+Locus: SNP_69167
+
+Locus: SNP_69173
+
+Locus: SNP_69283
+
+	Mom allele 1: 2
+	Mom allele 2: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: SNP_69349
+
+Locus: SNP_69355
+
+Locus: SNP_69360
+
+Locus: SNP_69440
+
+Locus: SNP_69451
+
+Locus: SNP_69475
+
+Locus: SNP_69933
+
+Locus: SNP_69946
+
+Locus: SNP_69957
+
+Locus: SNP_69962
+
+Locus: SNP_70002
+
+Locus: SNP_70114
+
+Locus: SNP_70152
+
+Locus: SNP_70220
+
+Locus: SNP_70254
+
+Locus: SNP_70294
+
+Locus: SNP_70393
+
+Locus: SNP_70402
+
+Locus: SNP_70408
+
+Locus: SNP_70437
+
+Locus: SNP_70477
+
+Locus: SNP_70529
+
+Locus: SNP_70532
+
+Locus: SNP_70551
+
+Locus: SNP_70561
+
+Locus: SNP_70573
+
+Locus: SNP_70590
+
+Locus: SNP_70795
+
+Locus: SNP_70845
+
+Locus: SNP_70858
+
+Locus: SNP_70867
+
+Locus: SNP_70923
+
+Locus: SNP_70998
+
+Locus: SNP_71035
+
+Locus: SNP_71045
+
+Locus: SNP_71075
+
+Locus: SNP_71076
+
+Locus: SNP_71187
+
+Locus: SNP_71400
+
+Locus: SNP_71476
+
+Locus: SNP_71500
+
+Locus: SNP_71517
+
+Locus: SNP_71551
+
+Locus: SNP_71557
+
+Locus: SNP_71603
+
+Locus: SNP_71649
+
+Locus: SNP_71651
+
+Locus: SNP_71652
+
+Locus: SNP_71668
+
+Locus: SNP_71736
+
+Locus: SNP_71922
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_71924
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_71925
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_71927
+
+Locus: SNP_71936
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_71941
+
+Locus: SNP_71946
+
+Locus: SNP_71947
+
+Locus: SNP_71973
+
+Locus: SNP_71975
+
+Locus: SNP_71983
+
+Locus: SNP_71992
+
+Locus: SNP_72018
+
+Locus: SNP_72073
+
+Locus: SNP_72074
+
+Locus: SNP_72177
+
+Locus: SNP_72198
+
+Locus: SNP_72201
+
+Locus: SNP_72210
+
+Locus: SNP_72220
+
+Locus: SNP_72223
+
+Locus: SNP_72327
+
+Locus: SNP_72358
+
+Locus: SNP_72359
+
+Locus: SNP_72375
+
+Locus: SNP_72380
+
+Locus: SNP_72381
+
+Locus: SNP_72399
+
+Locus: SNP_72416
+
+Locus: SNP_72502
+
+Locus: SNP_72512
+
+Locus: SNP_72580
+
+Locus: SNP_72610
+
+Locus: SNP_72730
+
+Locus: SNP_72738
+
+Locus: SNP_72742
+
+Locus: SNP_72801
+
+Locus: SNP_72804
+
+Locus: SNP_72826
+
+Locus: SNP_72831
+
+Locus: SNP_72834
+
+Locus: SNP_72836
+
+Locus: SNP_72837
+
+Locus: SNP_72838
+
+Locus: SNP_72840
+
+Locus: SNP_72842
+
+Locus: SNP_72882
+
+Locus: SNP_72898
+
+Locus: SNP_72899
+
+Locus: SNP_72913
+
+Locus: SNP_72915
+
+Locus: SNP_72960
+
+Locus: SNP_72984
+
+Locus: SNP_73002
+
+Locus: SNP_73012
+
+Locus: SNP_73025
+
+Locus: SNP_73035
+
+Locus: SNP_73062
+
+Locus: SNP_73081
+
+Locus: SNP_73101
+
+Locus: SNP_73118
+
+Locus: SNP_73178
+
+Locus: SNP_73213
+
+Locus: SNP_73221
+
+Locus: SNP_73225
+
+Locus: SNP_73227
+
+Locus: SNP_73243
+
+Locus: SNP_73254
+
+Locus: SNP_73255
+
+Locus: SNP_73269
+
+Locus: SNP_73281
+
+Locus: SNP_73314
+
+Locus: SNP_73329
+
+Locus: SNP_73333
+
+Locus: SNP_73351
+
+Locus: SNP_73354
+
+Locus: SNP_73382
+
+Locus: SNP_73392
+
+Locus: SNP_73425
+
+Locus: SNP_73428
+
+Locus: SNP_73430
+
+Locus: SNP_73431
+
+Locus: SNP_73532
+
+Locus: SNP_73749
+
+Locus: SNP_73797
+
+Locus: SNP_73989
+
+Locus: SNP_73992
+
+Locus: SNP_74023
+
+Locus: SNP_74024
+
+Locus: SNP_74026
+
+Locus: SNP_74051
+
+Locus: SNP_74077
+
+Locus: SNP_74088
+
+Locus: SNP_74120
+
+Locus: SNP_74122
+
+Locus: SNP_74186
+
+Locus: SNP_74266
+
+Locus: SNP_74288
+
+Locus: SNP_74293
+
+Locus: SNP_74351
+
+Locus: SNP_74438
+
+Locus: SNP_74447
+
+Locus: SNP_74491
+
+Locus: SNP_74505
+
+Locus: SNP_74552
+
+Locus: SNP_74620
+
+Locus: SNP_74627
+
+Locus: SNP_74636
+
+Locus: SNP_74748
+
+Locus: SNP_74758
+
+Locus: SNP_74768
+
+Locus: SNP_74771
+
+Locus: SNP_75054
+
+	Mom allele 1: 2
+	Mom allele 2: 1
+	Offspring allele 1: 2
+	Offspring allele 2: 1
+
+Locus: SNP_75093
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_75339
+
+Locus: SNP_75341
+
+Locus: SNP_75344
+
+Locus: SNP_75370
+
+Locus: SNP_75387
+
+Locus: SNP_75402
+
+Locus: SNP_75431
+
+Locus: SNP_75440
+
+Locus: SNP_75515
+
+Locus: SNP_75820
+
+Locus: SNP_76000
+
+Locus: SNP_76073
+
+Locus: SNP_76074
+
+Locus: SNP_76083
+
+Locus: SNP_76106
+
+Locus: SNP_76163
+
+Locus: SNP_76168
+
+Locus: SNP_76190
+
+Locus: SNP_76206
+
+Locus: SNP_76212
+
+Locus: SNP_76268
+
+Locus: SNP_76289
+
+Locus: SNP_76321
+
+Locus: SNP_76377
+
+Locus: SNP_76393
+
+Locus: SNP_76396
+
+Locus: SNP_76471
+
+Locus: SNP_76477
+
+Locus: SNP_76547
+
+Locus: SNP_76557
+
+Locus: SNP_76563
+
+Locus: SNP_76569
+
+Locus: SNP_76623
+
+Locus: SNP_76637
+
+Locus: SNP_76638
+
+Locus: SNP_76648
+
+Locus: SNP_76653
+
+Locus: SNP_76659
+
+Locus: SNP_76661
+
+Locus: SNP_76662
+
+Locus: SNP_76686
+
+Locus: SNP_76687
+
+Locus: SNP_76695
+
+Locus: SNP_76759
+
+Locus: SNP_76770
+
+Locus: SNP_76788
+
+Locus: SNP_76790
+
+Locus: SNP_76817
+
+Locus: SNP_76833
+
+Locus: SNP_76924
+
+Locus: SNP_76954
+
+Locus: SNP_77081
+
+Locus: SNP_77170
+
+Locus: SNP_77279
+
+Locus: SNP_77283
+
+Locus: SNP_77298
+
+Locus: SNP_77363
+
+Locus: SNP_77379
+
+Locus: SNP_77419
+
+Locus: SNP_77453
+
+Locus: SNP_77484
+
+Locus: SNP_77486
+
+Locus: SNP_77509
+
+Locus: SNP_77538
+
+Locus: SNP_77555
+
+Locus: SNP_77570
+
+Locus: SNP_77572
+
+Locus: SNP_77611
+
+Locus: SNP_77642
+
+Locus: SNP_77664
+
+Locus: SNP_77740
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_77790
+
+Locus: SNP_77846
+
+Locus: SNP_78053
+
+Locus: SNP_78055
+
+Locus: SNP_78111
+
+Locus: SNP_78311
+
+Locus: SNP_78651
+
+Locus: SNP_78665
+
+Locus: SNP_78668
+
+Locus: SNP_78674
+
+Locus: SNP_78713
+
+Locus: SNP_78794
+
+Locus: SNP_78795
+
+Locus: SNP_78912
+
+Locus: SNP_78976
+
+Locus: SNP_79007
+
+Locus: SNP_79100
+
+Locus: SNP_79149
+
+Locus: SNP_79173
+
+Locus: SNP_79181
+
+Locus: SNP_79195
+
+Locus: SNP_79197
+
+Locus: SNP_79209
+
+Locus: SNP_79228
+
+Locus: SNP_79236
+
+Locus: SNP_79250
+
+Locus: SNP_79258
+
+Locus: SNP_79296
+
+Locus: SNP_79297
+
+Locus: SNP_79300
+
+Locus: SNP_79342
+
+Locus: SNP_79441
+
+Locus: SNP_79496
+
+Locus: SNP_79522
+
+Locus: SNP_79598
+
+Locus: SNP_79606
+
+Locus: SNP_79608
+
+Locus: SNP_79661
+
+Locus: SNP_79736
+
+Locus: SNP_79859
+
+Locus: SNP_79873
+
+Locus: SNP_79974
+
+Locus: SNP_80032
+
+Locus: SNP_80034
+
+Locus: SNP_80044
+
+Locus: SNP_80048
+
+Locus: SNP_80057
+
+Locus: SNP_80096
+
+Locus: SNP_80103
+
+Locus: SNP_80129
+
+Locus: SNP_80139
+
+Locus: SNP_80171
+
+Locus: SNP_80195
+
+Locus: SNP_80200
+
+Locus: SNP_80224
+
+Locus: SNP_80294
+
+Locus: SNP_80333
+
+Locus: SNP_80334
+
+Locus: SNP_80337
+
+Locus: SNP_80382
+
+Locus: SNP_80427
+
+Locus: SNP_80438
+
+Locus: SNP_80452
+
+Locus: SNP_80459
+
+Locus: SNP_80467
+
+Locus: SNP_80478
+
+Locus: SNP_80561
+
+Locus: SNP_80626
+
+Locus: SNP_80629
+
+Locus: SNP_80637
+
+Locus: SNP_80651
+
+Locus: SNP_80657
+
+Locus: SNP_80661
+
+Locus: SNP_80689
+
+Locus: SNP_80723
+
+Locus: SNP_80742
+
+Locus: SNP_80956
+
+Locus: SNP_80988
+
+Locus: SNP_81037
+
+Locus: SNP_81038
+
+Locus: SNP_81043
+
+Locus: SNP_81046
+
+Locus: SNP_81077
+
+Locus: SNP_81099
+
+Locus: SNP_81108
+
+Locus: SNP_81134
+
+Locus: SNP_81215
+
+Locus: SNP_81327
+
+Locus: SNP_81329
+
+Locus: SNP_81334
+
+Locus: SNP_81342
+
+Locus: SNP_81408
+
+	Mom allele 1: 4
+	Mom allele 2: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 3
+
+Locus: SNP_81445
+
+Locus: SNP_81523
+
+Locus: SNP_81537
+
+Locus: SNP_81539
+
+Locus: SNP_81546
+
+Locus: SNP_81562
+
+Locus: SNP_81565
+
+Locus: SNP_81585
+
+Locus: SNP_81589
+
+Locus: SNP_81601
+
+Locus: SNP_81619
+
+Locus: SNP_81686
+
+Locus: SNP_81690
+
+Locus: SNP_81714
+
+Locus: SNP_82025
+
+Locus: SNP_82044
+
+Locus: SNP_82051
+
+Locus: SNP_82061
+
+Locus: SNP_82070
+
+Locus: SNP_82079
+
+Locus: SNP_82134
+
+Locus: SNP_82151
+
+Locus: SNP_82328
+
+Locus: SNP_82365
+
+Locus: SNP_82366
+
+Locus: SNP_82395
+
+Locus: SNP_82441
+
+Locus: SNP_82524
+
+Locus: SNP_82589
+
+Locus: SNP_82632
+
+Locus: SNP_82657
+
+Locus: SNP_82845
+
+Locus: SNP_83348
+
+Locus: SNP_84514
+
+Locus: SNP_84532
+
+Locus: SNP_84638
+
+Locus: SNP_84647
+
+Locus: SNP_84678
+
+Locus: SNP_84715
+
+Locus: SNP_84745
+
+Locus: SNP_84777
+
+Locus: SNP_84813
+
+Locus: SNP_84827
+
+Locus: SNP_84844
+
+Locus: SNP_84869
+
+Locus: SNP_84889
+
+Locus: SNP_84940
+
+Locus: SNP_84961
+
+Locus: SNP_85008
+
+Locus: SNP_85048
+
+Locus: SNP_85092
+
+Locus: SNP_85114
+
+Locus: SNP_85140
+
+Locus: SNP_85202
+
+Locus: SNP_85233
+
+Locus: SNP_85240
+
+Locus: SNP_85241
+
+Locus: SNP_85245
+
+Locus: SNP_85272
+
+Locus: SNP_85296
+
+Locus: SNP_85330
+
+Locus: SNP_85364
+
+Locus: SNP_85373
+
+Locus: SNP_85374
+
+Locus: SNP_85413
+
+Locus: SNP_85434
+
+Locus: SNP_85446
+
+Locus: SNP_85455
+
+Locus: SNP_85461
+
+Locus: SNP_85463
+
+Locus: SNP_85468
+
+Locus: SNP_85482
+
+Locus: SNP_85837
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_86897
+
+Locus: SNP_87023
+
+Locus: SNP_87468
+
+Locus: SNP_87475
+
+Locus: SNP_87476
+
+Locus: SNP_87551
+
+Locus: SNP_87570
+
+Locus: SNP_87585
+
+Locus: SNP_87682
+
+Locus: SNP_87837
+
+Locus: SNP_87898
+
+Locus: SNP_87954
+
+Locus: SNP_87962
+
+Locus: SNP_88311
+
+Locus: SNP_88336
+
+Locus: SNP_88338
+
+Locus: SNP_88339
+
+Locus: SNP_88341
+
+Locus: SNP_88358
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_88370
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_88400
+
+Locus: SNP_88404
+
+Locus: SNP_88420
+
+Locus: SNP_88423
+
+Locus: SNP_88424
+
+Locus: SNP_88425
+
+Locus: SNP_88503
+
+Locus: SNP_88516
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_88533
+
+Locus: SNP_88581
+
+Locus: SNP_88651
+
+Locus: SNP_88784
+
+Locus: SNP_88785
+
+Locus: SNP_88825
+
+Locus: SNP_88863
+
+Locus: SNP_88886
+
+Locus: SNP_88965
+
+Locus: SNP_88973
+
+Locus: SNP_88978
+
+Locus: SNP_88996
+
+Locus: SNP_89029
+
+Locus: SNP_89032
+
+Locus: SNP_89069
+
+Locus: SNP_89072
+
+Locus: SNP_89100
+
+Locus: SNP_89118
+
+Locus: SNP_89165
+
+Locus: SNP_89180
+
+Locus: SNP_89190
+
+Locus: SNP_89209
+
+Locus: SNP_89221
+
+Locus: SNP_89264
+
+Locus: SNP_89282
+
+Locus: SNP_89302
+
+Locus: SNP_89304
+
+Locus: SNP_89349
+
+Locus: SNP_89432
+
+Locus: SNP_89580
+
+Locus: SNP_89735
+
+Locus: SNP_89763
+
+Locus: SNP_89792
+
+Locus: SNP_89802
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_89919
+
+Locus: SNP_90022
+
+Locus: SNP_90056
+
+Locus: SNP_90186
+
+Locus: SNP_90266
+
+Locus: SNP_90285
+
+Locus: SNP_90286
+
+Locus: SNP_90320
+
+Locus: SNP_90338
+
+Locus: SNP_90344
+
+Locus: SNP_90345
+
+Locus: SNP_90361
+
+Locus: SNP_90371
+
+Locus: SNP_90409
+
+Locus: SNP_90415
+
+Locus: SNP_90488
+
+Locus: SNP_90535
+
+Locus: SNP_90581
+
+Locus: SNP_90614
+
+Locus: SNP_90623
+
+	Mom allele 1: 4
+	Mom allele 2: 1
+	Offspring allele 1: 4
+	Offspring allele 2: 1
+
+Locus: SNP_90757
+
+Locus: SNP_90803
+
+Locus: SNP_90988
+
+Locus: SNP_91015
+
+Locus: SNP_91033
+
+Locus: SNP_91035
+
+Locus: SNP_91072
+
+Locus: SNP_91172
+
+Locus: SNP_91175
+
+Locus: SNP_91200
+
+Locus: SNP_91203
+
+Locus: SNP_91204
+
+Locus: SNP_91223
+
+Locus: SNP_91228
+
+Locus: SNP_91406
+
+Locus: SNP_91410
+
+Locus: SNP_91470
+
+Locus: SNP_91511
+
+Locus: SNP_91559
+
+Locus: SNP_91578
+
+Locus: SNP_91699
+
+Locus: SNP_91726
+
+Locus: SNP_91740
+
+Locus: SNP_91744
+
+Locus: SNP_91798
+
+Locus: SNP_91869
+
+	Mom allele 1: 4
+	Mom allele 2: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 3
+
+Locus: SNP_91879
+
+Locus: SNP_91884
+
+Locus: SNP_91886
+
+Locus: SNP_91892
+
+Locus: SNP_92077
+
+Locus: SNP_92078
+
+Locus: SNP_92080
+
+Locus: SNP_92089
+
+Locus: SNP_92113
+
+Locus: SNP_92133
+
+Locus: SNP_92139
+
+Locus: SNP_92154
+
+Locus: SNP_92182
+
+Locus: SNP_92193
+
+Locus: SNP_92238
+
+Locus: SNP_92256
+
+Locus: SNP_92296
+
+Locus: SNP_92316
+
+Locus: SNP_92319
+
+Locus: SNP_92352
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_92382
+
+Locus: SNP_92386
+
+Locus: SNP_92438
+
+Locus: SNP_92441
+
+Locus: SNP_92549
+
+Locus: SNP_92561
+
+Locus: SNP_92566
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_92634
+
+Locus: SNP_92649
+
+Locus: SNP_92716
+
+Locus: SNP_92726
+
+Locus: SNP_92730
+
+Locus: SNP_92732
+
+Locus: SNP_92782
+
+Locus: SNP_92789
+
+Locus: SNP_92813
+
+Locus: SNP_92839
+
+Locus: SNP_92844
+
+Locus: SNP_92884
+
+Locus: SNP_92902
+
+Locus: SNP_92906
+
+Locus: SNP_92925
+
+Locus: SNP_92926
+
+Locus: SNP_93009
+
+Locus: SNP_93019
+
+Locus: SNP_93026
+
+Locus: SNP_93034
+
+Locus: SNP_93082
+
+Locus: SNP_93088
+
+Locus: SNP_93137
+
+Locus: SNP_93139
+
+Locus: SNP_93318
+
+Locus: SNP_93326
+
+Locus: SNP_93344
+
+Locus: SNP_93350
+
+Locus: SNP_93397
+
+Locus: SNP_93555
+
+Locus: SNP_93579
+
+Locus: SNP_93665
+
+Locus: SNP_93686
+
+Locus: SNP_93715
+
+Locus: SNP_93731
+
+Locus: SNP_93761
+
+Locus: SNP_94054
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_94104
+
+Locus: SNP_94123
+
+Locus: SNP_94140
+
+Locus: SNP_94141
+
+Locus: SNP_94173
+
+Locus: SNP_94175
+
+Locus: SNP_94180
+
+Locus: SNP_94234
+
+Locus: SNP_94243
+
+Locus: SNP_94251
+
+Locus: SNP_94254
+
+Locus: SNP_94255
+
+Locus: SNP_94256
+
+Locus: SNP_94262
+
+Locus: SNP_94278
+
+Locus: SNP_94284
+
+Locus: SNP_94291
+
+Locus: SNP_94300
+
+Locus: SNP_94308
+
+Locus: SNP_94333
+
+Locus: SNP_94340
+
+Locus: SNP_94343
+
+Locus: SNP_94383
+
+Locus: SNP_94515
+
+Locus: SNP_94654
+
+Locus: SNP_94665
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_94666
+
+Locus: SNP_94668
+
+Locus: SNP_94954
+
+Locus: SNP_95165
+
+Locus: SNP_95171
+
+Locus: SNP_95173
+
+Locus: SNP_95179
+
+Locus: SNP_95198
+
+Locus: SNP_95204
+
+Locus: SNP_95339
+
+Locus: SNP_95347
+
+Locus: SNP_95361
+
+Locus: SNP_95372
+
+Locus: SNP_95477
+
+Locus: SNP_95479
+
+	Mom allele 1: 3
+	Mom allele 2: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: SNP_95508
+
+Locus: SNP_95509
+
+Locus: SNP_95511
+
+Locus: SNP_95541
+
+Locus: SNP_95590
+
+Locus: SNP_95597
+
+Locus: SNP_95616
+
+Locus: SNP_95626
+
+Locus: SNP_95643
+
+Locus: SNP_95671
+
+Locus: SNP_95714
+
+Locus: SNP_95757
+
+Locus: SNP_95760
+
+Locus: SNP_95767
+
+Locus: SNP_95780
+
+Locus: SNP_95806
+
+Locus: SNP_95814
+
+Locus: SNP_95847
+
+Locus: SNP_95935
+
+Locus: SNP_95970
+
+Locus: SNP_95971
+
+Locus: SNP_96010
+
+Locus: SNP_96051
+
+Locus: SNP_96053
+
+Locus: SNP_96057
+
+Locus: SNP_96068
+
+Locus: SNP_96086
+
+Locus: SNP_96087
+
+Locus: SNP_96095
+
+Locus: SNP_96097
+
+Locus: SNP_96108
+
+Locus: SNP_96114
+
+Locus: SNP_96115
+
+Locus: SNP_96155
+
+Locus: SNP_96167
+
+Locus: SNP_96183
+
+Locus: SNP_96241
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_96249
+
+Locus: SNP_96257
+
+Locus: SNP_96270
+
+Locus: SNP_96271
+
+Locus: SNP_96280
+
+	Mom allele 1: 1
+	Mom allele 2: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: SNP_96325
+
+Locus: SNP_96452
+
+Locus: SNP_96459
+
+Locus: SNP_96487
+
+Locus: SNP_96507
+
+Locus: SNP_96516
+
+Locus: SNP_96534
+
+Locus: SNP_96548
+
+Locus: SNP_96565
+
+Locus: SNP_96580
+
+Locus: SNP_96610
+
+Locus: SNP_96656
+
+Locus: SNP_96692
+
+Locus: SNP_96701
+
+Locus: SNP_96704
+
+Locus: SNP_96766
+
+Locus: SNP_96825
+
+Locus: SNP_96897
+
+Locus: SNP_96898
+
+Locus: SNP_96944
+
+Locus: SNP_96951
+
+Locus: SNP_96956
+
+Locus: SNP_96958
+
+Locus: SNP_97242
+
+Locus: SNP_97264
+
+Locus: SNP_97279
+
+Locus: SNP_97324
+
+Locus: SNP_97328
+
+Locus: SNP_97338
+
+Locus: SNP_97394
+
+Locus: SNP_97466
+
+Locus: SNP_97469
+
+Locus: SNP_97577
+
+Locus: SNP_97585
+
+Locus: SNP_97635
+
+Locus: SNP_97637
+
+Locus: SNP_97730
+
+Locus: SNP_97738
+
+Locus: SNP_97766
+
+Locus: SNP_97770
+
+Locus: SNP_97796
+
+Locus: SNP_98154
+
+Locus: SNP_98174
+
+Locus: SNP_99541
+
+Locus: SNP_99576
+
+Locus: SNP_99579
+
+Locus: SNP_99580
+
+Locus: SNP_99600
+
+Locus: SNP_99669
+
+Locus: SNP_99705
+
+Locus: SNP_99742
+
+Locus: SNP_99769
+
+Locus: SNP_99888
+
+Locus: SNP_99932
+
+Locus: SNP_100007
+
+Locus: SNP_100027
+
+Locus: SNP_100060
+
+Locus: SNP_100063
+
+Locus: SNP_100096
+
+Locus: SNP_100097
+
+Locus: SNP_100103
+
+Locus: SNP_100137
+
+Locus: SNP_100191
+
+Locus: SNP_100210
+
+Locus: SNP_100219
+
+Locus: SNP_100248
+
+Locus: SNP_100264
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_100293
+
+Locus: SNP_100326
+
+Locus: SNP_100333
+
+Locus: SNP_100370
+
+Locus: SNP_100383
+
+Locus: SNP_100430
+
+Locus: SNP_100450
+
+Locus: SNP_100466
+
+Locus: SNP_100468
+
+Locus: SNP_100588
+
+	Mom allele 1: 4
+	Mom allele 2: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 3
+
+Locus: SNP_100681
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_100699
+
+Locus: SNP_100709
+
+Locus: SNP_100737
+
+Locus: SNP_100747
+
+Locus: SNP_100768
+
+Locus: SNP_100786
+
+Locus: SNP_100795
+
+Locus: SNP_100869
+
+Locus: SNP_100907
+
+Locus: SNP_100926
+
+	Mom allele 1: 3
+	Mom allele 2: 2
+	Offspring allele 1: 3
+	Offspring allele 2: 2
+
+Locus: SNP_100958
+
+Locus: SNP_100999
+
+Locus: SNP_101018
+
+Locus: SNP_101031
+
+Locus: SNP_101063
+
+	Mom allele 1: 4
+	Mom allele 2: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 3
+
+Locus: SNP_101082
+
+Locus: SNP_101411
+
+Locus: SNP_101483
+
+Locus: SNP_101540
+
+Locus: SNP_101591
+
+Locus: SNP_101594
+
+Locus: SNP_101603
+
+Locus: SNP_101704
+
+Locus: SNP_101798
+
+Locus: SNP_101800
+
+Locus: SNP_101809
+
+Locus: SNP_101816
+
+Locus: SNP_101818
+
+Locus: SNP_101838
+
+Locus: SNP_101950
+
+Locus: SNP_101969
+
+Locus: SNP_101974
+
+Locus: SNP_102011
+
+Locus: SNP_102024
+
+Locus: SNP_102028
+
+Locus: SNP_102029
+
+Locus: SNP_102113
+
+Locus: SNP_102123
+
+Locus: SNP_102124
+
+Locus: SNP_102125
+
+Locus: SNP_102162
+
+Locus: SNP_102216
+
+Locus: SNP_102222
+
+Locus: SNP_102255
+
+Locus: SNP_102320
+
+Locus: SNP_102505
+
+Locus: SNP_102554
+
+Locus: SNP_102570
+
+Locus: SNP_102662
+
+Locus: SNP_102747
+
+Locus: SNP_103022
+
+Locus: SNP_103023
+
+Locus: SNP_103026
+
+Locus: SNP_103028
+
+Locus: SNP_103051
+
+Locus: SNP_103087
+
+Locus: SNP_103092
+
+Locus: SNP_103432
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_103760
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_104384
+
+	Mom allele 1: 2
+	Mom allele 2: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: SNP_104789
+
+Locus: SNP_104979
+
+Locus: SNP_104989
+
+Locus: SNP_104998
+
+Locus: SNP_105002
+
+Locus: SNP_105004
+
+Locus: SNP_105019
+
+Locus: SNP_105145
+
+Locus: SNP_105166
+
+Locus: SNP_105492
+
+Locus: SNP_105600
+
+Locus: SNP_105622
+
+Locus: SNP_105626
+
+Locus: SNP_105646
+
+Locus: SNP_105669
+
+Locus: SNP_105680
+
+Locus: SNP_105720
+
+Locus: SNP_105760
+
+Locus: SNP_105793
+
+Locus: SNP_105796
+
+Locus: SNP_105870
+
+Locus: SNP_105997
+
+Locus: SNP_106022
+
+Locus: SNP_106060
+
+Locus: SNP_106145
+
+Locus: SNP_106146
+
+Locus: SNP_106147
+
+Locus: SNP_106150
+
+Locus: SNP_106176
+
+Locus: SNP_106219
+
+Locus: SNP_106239
+
+Locus: SNP_106246
+
+Locus: SNP_106257
+
+Locus: SNP_106274
+
+Locus: SNP_106276
+
+Locus: SNP_106306
+
+Locus: SNP_106307
+
+Locus: SNP_106315
+
+Locus: SNP_106337
+
+Locus: SNP_106382
+
+Locus: SNP_106390
+
+Locus: SNP_106412
+
+Locus: SNP_106419
+
+Locus: SNP_106423
+
+Locus: SNP_106432
+
+Locus: SNP_106648
+
+Locus: SNP_106671
+
+Locus: SNP_106739
+
+Locus: SNP_106849
+
+Locus: SNP_106899
+
+Locus: SNP_107000
+
+Locus: SNP_107031
+
+Locus: SNP_107038
+
+Locus: SNP_107120
+
+Locus: SNP_107227
+
+Locus: SNP_107286
+
+Locus: SNP_107288
+
+Locus: SNP_107371
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_107608
+
+Locus: SNP_107613
+
+Locus: SNP_107621
+
+Locus: SNP_107658
+
+Locus: SNP_107672
+
+Locus: SNP_107707
+
+Locus: SNP_107733
+
+Locus: SNP_107743
+
+Locus: SNP_107766
+
+Locus: SNP_107779
+
+Locus: SNP_107784
+
+Locus: SNP_107847
+
+Locus: SNP_107850
+
+Locus: SNP_107871
+
+Locus: SNP_107946
+
+Locus: SNP_107951
+
+Locus: SNP_107953
+
+Locus: SNP_107960
+
+Locus: SNP_107987
+
+Locus: SNP_107997
+
+Locus: SNP_107998
+
+Locus: SNP_108000
+
+Locus: SNP_108022
+
+Locus: SNP_108028
+
+Locus: SNP_108049
+
+Locus: SNP_108054
+
+Locus: SNP_108056
+
+Locus: SNP_108071
+
+Locus: SNP_108081
+
+Locus: SNP_108118
+
+Locus: SNP_108126
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_108205
+
+Locus: SNP_108239
+
+Locus: SNP_108283
+
+Locus: SNP_108316
+
+Locus: SNP_108319
+
+Locus: SNP_108322
+
+Locus: SNP_108330
+
+Locus: SNP_108337
+
+Locus: SNP_108342
+
+Locus: SNP_108355
+
+Locus: SNP_108384
+
+Locus: SNP_108473
+
+Locus: SNP_108478
+
+Locus: SNP_108480
+
+Locus: SNP_108490
+
+Locus: SNP_108534
+
+Locus: SNP_108536
+
+Locus: SNP_108551
+
+Locus: SNP_108600
+
+Locus: SNP_108615
+
+Locus: SNP_108635
+
+Locus: SNP_108643
+
+Locus: SNP_108670
+
+Locus: SNP_108692
+
+Locus: SNP_108696
+
+Locus: SNP_108713
+
+Locus: SNP_108768
+
+Locus: SNP_109046
+
+Locus: SNP_109049
+
+Locus: SNP_109697
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_109698
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_109700
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_109702
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_109888
+
+Locus: SNP_109895
+
+Locus: SNP_109897
+
+Locus: SNP_109951
+
+Locus: SNP_109954
+
+Locus: SNP_109993
+
+Locus: SNP_109994
+
+Locus: SNP_110049
+
+Locus: SNP_110102
+
+Locus: SNP_110104
+
+Locus: SNP_110140
+
+Locus: SNP_110144
+
+Locus: SNP_110266
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_110275
+
+Locus: SNP_110299
+
+Locus: SNP_110370
+
+Locus: SNP_110395
+
+Locus: SNP_110529
+
+Locus: SNP_110562
+
+Locus: SNP_110567
+
+Locus: SNP_110570
+
+Locus: SNP_110583
+
+Locus: SNP_110587
+
+Locus: SNP_110599
+
+Locus: SNP_110641
+
+Locus: SNP_110642
+
+Locus: SNP_110668
+
+Locus: SNP_110673
+
+Locus: SNP_110682
+
+Locus: SNP_110702
+
+Locus: SNP_110710
+
+Locus: SNP_110716
+
+Locus: SNP_110736
+
+Locus: SNP_110813
+
+Locus: SNP_110826
+
+Locus: SNP_110827
+
+Locus: SNP_110869
+
+Locus: SNP_111037
+
+Locus: SNP_111066
+
+Locus: SNP_111145
+
+Locus: SNP_111147
+
+Locus: SNP_111173
+
+Locus: SNP_111194
+
+Locus: SNP_111224
+
+Locus: SNP_111225
+
+Locus: SNP_111253
+
+Locus: SNP_111278
+
+Locus: SNP_111305
+
+Locus: SNP_111309
+
+Locus: SNP_111332
+
+Locus: SNP_111401
+
+Locus: SNP_111431
+
+Locus: SNP_111565
+
+Locus: SNP_111568
+
+Locus: SNP_111574
+
+Locus: SNP_111616
+
+Locus: SNP_111625
+
+Locus: SNP_111671
+
+Locus: SNP_111678
+
+Locus: SNP_111702
+
+Locus: SNP_111735
+
+Locus: SNP_111770
+
+Locus: SNP_111775
+
+Locus: SNP_111830
+
+Locus: SNP_111846
+
+Locus: SNP_111861
+
+Locus: SNP_111870
+
+Locus: SNP_111967
+
+Locus: SNP_111970
+
+Locus: SNP_111989
+
+Locus: SNP_112035
+
+Locus: SNP_112040
+
+Locus: SNP_112064
+
+Locus: SNP_112098
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_112105
+
+Locus: SNP_112112
+
+Locus: SNP_112336
+
+Locus: SNP_112368
+
+Locus: SNP_112423
+
+Locus: SNP_112516
+
+Locus: SNP_112533
+
+Locus: SNP_112558
+
+Locus: SNP_112591
+
+Locus: SNP_112629
+
+Locus: SNP_112668
+
+Locus: SNP_112669
+
+Locus: SNP_112674
+
+Locus: SNP_112689
+
+Locus: SNP_112730
+
+Locus: SNP_112736
+
+Locus: SNP_112775
+
+Locus: SNP_112785
+
+Locus: SNP_112805
+
+Locus: SNP_112848
+
+Locus: SNP_112911
+
+Locus: SNP_112912
+
+Locus: SNP_112959
+
+Locus: SNP_112968
+
+Locus: SNP_113085
+
+Locus: SNP_113122
+
+Locus: SNP_113172
+
+Locus: SNP_113181
+
+Locus: SNP_113232
+
+Locus: SNP_113270
+
+Locus: SNP_113280
+
+Locus: SNP_113290
+
+Locus: SNP_113310
+
+Locus: SNP_113346
+
+Locus: SNP_113366
+
+Locus: SNP_113370
+
+Locus: SNP_113453
+
+Locus: SNP_113462
+
+Locus: SNP_113476
+
+Locus: SNP_113504
+
+Locus: SNP_113509
+
+Locus: SNP_113522
+
+Locus: SNP_113570
+
+Locus: SNP_113572
+
+Locus: SNP_113576
+
+Locus: SNP_113579
+
+Locus: SNP_113607
+
+Locus: SNP_113624
+
+Locus: SNP_113684
+
+Locus: SNP_113694
+
+Locus: SNP_113771
+
+Locus: SNP_113776
+
+Locus: SNP_113790
+
+Locus: SNP_113803
+
+Locus: SNP_113872
+
+Locus: SNP_113972
+
+Locus: SNP_114056
+
+Locus: SNP_114061
+
+Locus: SNP_114147
+
+Locus: SNP_114151
+
+Locus: SNP_114189
+
+Locus: SNP_114201
+
+Locus: SNP_114203
+
+Locus: SNP_114205
+
+Locus: SNP_114301
+
+Locus: SNP_114546
+
+Locus: SNP_114548
+
+Locus: SNP_114551
+
+Locus: SNP_114610
+
+Locus: SNP_115099
+
+Locus: SNP_115126
+
+Locus: SNP_115195
+
+Locus: SNP_115205
+
+Locus: SNP_115295
+
+Locus: SNP_115313
+
+Locus: SNP_115371
+
+Locus: SNP_115386
+
+Locus: SNP_115425
+
+Locus: SNP_115448
+
+Locus: SNP_115472
+
+	Mom allele 1: 3
+	Mom allele 2: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: SNP_115532
+
+Locus: SNP_115541
+
+Locus: SNP_115542
+
+Locus: SNP_115571
+
+Locus: SNP_115574
+
+Locus: SNP_115576
+
+Locus: SNP_115648
+
+Locus: SNP_115651
+
+Locus: SNP_115655
+
+Locus: SNP_115672
+
+Locus: SNP_115673
+
+Locus: SNP_115679
+
+Locus: SNP_115680
+
+Locus: SNP_115697
+
+Locus: SNP_115699
+
+Locus: SNP_115879
+
+Locus: SNP_115882
+
+Locus: SNP_115904
+
+Locus: SNP_115910
+
+Locus: SNP_115935
+
+Locus: SNP_116042
+
+Locus: SNP_116101
+
+Locus: SNP_116130
+
+Locus: SNP_116154
+
+Locus: SNP_116173
+
+Locus: SNP_116175
+
+Locus: SNP_116312
+
+Locus: SNP_116313
+
+Locus: SNP_116314
+
+Locus: SNP_116328
+
+Locus: SNP_116346
+
+Locus: SNP_116382
+
+Locus: SNP_116388
+
+Locus: SNP_116395
+
+Locus: SNP_116397
+
+Locus: SNP_116413
+
+	Mom allele 1: 4
+	Mom allele 2: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 3
+
+Locus: SNP_116418
+
+Locus: SNP_116446
+
+Locus: SNP_116448
+
+Locus: SNP_116509
+
+Locus: SNP_116514
+
+Locus: SNP_116550
+
+Locus: SNP_116774
+
+Locus: SNP_117102
+
+Locus: SNP_117103
+
+Locus: SNP_117104
+
+Locus: SNP_117116
+
+Locus: SNP_117149
+
+Locus: SNP_117300
+
+Locus: SNP_117371
+
+Locus: SNP_117451
+
+Locus: SNP_117487
+
+Locus: SNP_117757
+
+Locus: SNP_117759
+
+Locus: SNP_117780
+
+Locus: SNP_117783
+
+Locus: SNP_117786
+
+Locus: SNP_117803
+
+Locus: SNP_117814
+
+Locus: SNP_117817
+
+Locus: SNP_117907
+
+Locus: SNP_117917
+
+Locus: SNP_117945
+
+Locus: SNP_117953
+
+Locus: SNP_117955
+
+Locus: SNP_118290
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_118327
+
+Locus: SNP_118350
+
+Locus: SNP_118422
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_118467
+
+Locus: SNP_118472
+
+Locus: SNP_118475
+
+Locus: SNP_118484
+
+Locus: SNP_118563
+
+Locus: SNP_118574
+
+Locus: SNP_118661
+
+Locus: SNP_118727
+
+Locus: SNP_118817
+
+Locus: SNP_118842
+
+Locus: SNP_118848
+
+Locus: SNP_118860
+
+Locus: SNP_119077
+
+Locus: SNP_119099
+
+Locus: SNP_119137
+
+Locus: SNP_119161
+
+Locus: SNP_119174
+
+Locus: SNP_119237
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_119244
+
+Locus: SNP_119415
+
+Locus: SNP_119422
+
+Locus: SNP_119425
+
+Locus: SNP_119509
+
+Locus: SNP_119511
+
+Locus: SNP_119513
+
+Locus: SNP_119520
+
+Locus: SNP_119525
+
+Locus: SNP_119598
+
+Locus: SNP_119599
+
+Locus: SNP_119619
+
+Locus: SNP_119638
+
+Locus: SNP_119669
+
+Locus: SNP_119740
+
+Locus: SNP_119762
+
+Locus: SNP_119790
+
+Locus: SNP_119805
+
+Locus: SNP_119887
+
+Locus: SNP_120002
+
+Locus: SNP_120010
+
+Locus: SNP_120302
+
+Locus: SNP_120315
+
+Locus: SNP_120675
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_120701
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_121214
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_121621
+
+Locus: SNP_121654
+
+Locus: SNP_121657
+
+Locus: SNP_121897
+
+Locus: SNP_121912
+
+Locus: SNP_121916
+
+Locus: SNP_121926
+
+Locus: SNP_122002
+
+Locus: SNP_122028
+
+Locus: SNP_122429
+
+Locus: SNP_122772
+
+Locus: SNP_122774
+
+Locus: SNP_123111
+
+Locus: SNP_123181
+
+Locus: SNP_123234
+
+Locus: SNP_123264
+
+Locus: SNP_123288
+
+Locus: SNP_123296
+
+Locus: SNP_123324
+
+Locus: SNP_123357
+
+Locus: SNP_123476
+
+Locus: SNP_123489
+
+Locus: SNP_123529
+
+Locus: SNP_123576
+
+Locus: SNP_123690
+
+Locus: SNP_123694
+
+Locus: SNP_123713
+
+Locus: SNP_123741
+
+Locus: SNP_123743
+
+Locus: SNP_123767
+
+Locus: SNP_123771
+
+Locus: SNP_123806
+
+Locus: SNP_123810
+
+Locus: SNP_123819
+
+Locus: SNP_123825
+
+Locus: SNP_123852
+
+Locus: SNP_123885
+
+Locus: SNP_123887
+
+Locus: SNP_123893
+
+Locus: SNP_123905
+
+Locus: SNP_123926
+
+Locus: SNP_123967
+
+Locus: SNP_123985
+
+Locus: SNP_124018
+
+Locus: SNP_124024
+
+Locus: SNP_124044
+
+Locus: SNP_124061
+
+Locus: SNP_124075
+
+Locus: SNP_124096
+
+Locus: SNP_124164
+
+Locus: SNP_124187
+
+Locus: SNP_124197
+
+Locus: SNP_124216
+
+Locus: SNP_124238
+
+Locus: SNP_124245
+
+Locus: SNP_124327
+
+Locus: SNP_124375
+
+Locus: SNP_124377
+
+Locus: SNP_124381
+
+Locus: SNP_124384
+
+Locus: SNP_124386
+
+Locus: SNP_124561
+
+Locus: SNP_124568
+
+Locus: SNP_124572
+
+Locus: SNP_124599
+
+Locus: SNP_124690
+
+Locus: SNP_124696
+
+Locus: SNP_124721
+
+Locus: SNP_124739
+
+Locus: SNP_124742
+
+Locus: SNP_124750
+
+Locus: SNP_124762
+
+Locus: SNP_124834
+
+Locus: SNP_124839
+
+Locus: SNP_124847
+
+Locus: SNP_124893
+
+Locus: SNP_124910
+
+Locus: SNP_125033
+
+Locus: SNP_125054
+
+Locus: SNP_125119
+
+Locus: SNP_125360
+
+Locus: SNP_125363
+
+Locus: SNP_125394
+
+Locus: SNP_125436
+
+Locus: SNP_125473
+
+Locus: SNP_125487
+
+Locus: SNP_125495
+
+Locus: SNP_125507
+
+Locus: SNP_125531
+
+Locus: SNP_125571
+
+Locus: SNP_125589
+
+Locus: SNP_125604
+
+Locus: SNP_125683
+
+Locus: SNP_125731
+
+Locus: SNP_125740
+
+Locus: SNP_125768
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_125779
+
+Locus: SNP_125801
+
+Locus: SNP_125897
+
+Locus: SNP_125904
+
+Locus: SNP_125920
+
+Locus: SNP_125935
+
+Locus: SNP_125943
+
+Locus: SNP_126089
+
+Locus: SNP_126107
+
+Locus: SNP_126166
+
+Locus: SNP_126209
+
+Locus: SNP_126235
+
+Locus: SNP_126242
+
+Locus: SNP_126259
+
+Locus: SNP_126339
+
+Locus: SNP_126357
+
+Locus: SNP_126358
+
+Locus: SNP_126364
+
+Locus: SNP_126379
+
+Locus: SNP_126403
+
+Locus: SNP_126415
+
+Locus: SNP_126418
+
+Locus: SNP_126527
+
+Locus: SNP_126529
+
+Locus: SNP_126530
+
+Locus: SNP_126535
+
+Locus: SNP_126679
+
+Locus: SNP_126703
+
+Locus: SNP_126769
+
+Locus: SNP_126774
+
+Locus: SNP_126833
+
+Locus: SNP_126892
+
+Locus: SNP_126896
+
+Locus: SNP_126959
+
+Locus: SNP_126984
+
+Locus: SNP_126986
+
+Locus: SNP_126989
+
+Locus: SNP_127013
+
+Locus: SNP_127069
+
+Locus: SNP_127206
+
+Locus: SNP_127240
+
+Locus: SNP_127390
+
+Locus: SNP_127405
+
+Locus: SNP_127416
+
+Locus: SNP_127478
+
+Locus: SNP_127504
+
+Locus: SNP_127537
+
+Locus: SNP_127549
+
+Locus: SNP_127610
+
+Locus: SNP_127639
+
+Locus: SNP_127702
+
+Locus: SNP_127704
+
+Locus: SNP_127759
+
+Locus: SNP_127776
+
+Locus: SNP_127777
+
+Locus: SNP_127785
+
+Locus: SNP_127787
+
+Locus: SNP_127794
+
+Locus: SNP_127860
+
+Locus: SNP_127895
+
+Locus: SNP_127916
+
+Locus: SNP_127926
+
+Locus: SNP_127947
+
+Locus: SNP_128438
+
+Locus: SNP_128525
+
+Locus: SNP_128540
+
+Locus: SNP_128611
+
+Locus: SNP_128650
+
+Locus: SNP_128653
+
+Locus: SNP_128669
+
+Locus: SNP_128703
+
+Locus: SNP_128705
+
+Locus: SNP_128768
+
+Locus: SNP_128786
+
+Locus: SNP_128788
+
+Locus: SNP_129035
+
+Locus: SNP_129042
+
+Locus: SNP_129052
+
+Locus: SNP_129064
+
+Locus: SNP_129077
+
+Locus: SNP_129102
+
+Locus: SNP_129109
+
+Locus: SNP_129119
+
+Locus: SNP_129138
+
+Locus: SNP_129151
+
+Locus: SNP_129224
+
+Locus: SNP_129284
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_129285
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_129358
+
+Locus: SNP_129408
+
+Locus: SNP_129413
+
+Locus: SNP_129431
+
+Locus: SNP_129435
+
+Locus: SNP_129454
+
+Locus: SNP_129487
+
+Locus: SNP_129492
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_129494
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_129528
+
+Locus: SNP_129625
+
+Locus: SNP_129764
+
+Locus: SNP_129767
+
+Locus: SNP_129790
+
+Locus: SNP_130288
+
+Locus: SNP_130346
+
+Locus: SNP_130348
+
+Locus: SNP_130353
+
+Locus: SNP_130360
+
+Locus: SNP_130365
+
+Locus: SNP_130500
+
+Locus: SNP_130664
+
+Locus: SNP_130673
+
+Locus: SNP_130729
+
+Locus: SNP_130735
+
+Locus: SNP_130755
+
+Locus: SNP_130762
+
+Locus: SNP_130880
+
+Locus: SNP_130886
+
+Locus: SNP_131008
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_131181
+
+Locus: SNP_131201
+
+Locus: SNP_131224
+
+Locus: SNP_131240
+
+Locus: SNP_131242
+
+Locus: SNP_131269
+
+Locus: SNP_131272
+
+Locus: SNP_131292
+
+Locus: SNP_131313
+
+	Mom allele 1: 2
+	Mom allele 2: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: SNP_131391
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_131406
+
+Locus: SNP_131411
+
+Locus: SNP_131457
+
+Locus: SNP_131486
+
+Locus: SNP_131495
+
+Locus: SNP_131539
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_131586
+
+Locus: SNP_131603
+
+Locus: SNP_131608
+
+Locus: SNP_131669
+
+Locus: SNP_131725
+
+Locus: SNP_131844
+
+Locus: SNP_131857
+
+Locus: SNP_131868
+
+Locus: SNP_131904
+
+Locus: SNP_131937
+
+Locus: SNP_131963
+
+Locus: SNP_131976
+
+Locus: SNP_131991
+
+Locus: SNP_132004
+
+Locus: SNP_132007
+
+Locus: SNP_132044
+
+Locus: SNP_132052
+
+Locus: SNP_132105
+
+Locus: SNP_132153
+
+Locus: SNP_132196
+
+Locus: SNP_132217
+
+Locus: SNP_132223
+
+Locus: SNP_132226
+
+Locus: SNP_132228
+
+Locus: SNP_132233
+
+Locus: SNP_132265
+
+Locus: SNP_132271
+
+Locus: SNP_132337
+
+Locus: SNP_132398
+
+	Mom allele 1: 3
+	Mom allele 2: 2
+	Offspring allele 1: 3
+	Offspring allele 2: 2
+
+Locus: SNP_132399
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_132421
+
+Locus: SNP_132422
+
+Locus: SNP_132509
+
+Locus: SNP_132583
+
+Locus: SNP_132620
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_132621
+
+	Mom allele 1: 3
+	Mom allele 2: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: SNP_132670
+
+Locus: SNP_132674
+
+Locus: SNP_132740
+
+Locus: SNP_132755
+
+Locus: SNP_132758
+
+Locus: SNP_132772
+
+Locus: SNP_132793
+
+Locus: SNP_132794
+
+Locus: SNP_132795
+
+Locus: SNP_132801
+
+Locus: SNP_132808
+
+Locus: SNP_132809
+
+Locus: SNP_132837
+
+Locus: SNP_132986
+
+Locus: SNP_132991
+
+Locus: SNP_133127
+
+Locus: SNP_133132
+
+Locus: SNP_133149
+
+Locus: SNP_133179
+
+Locus: SNP_133182
+
+Locus: SNP_133217
+
+Locus: SNP_133229
+
+Locus: SNP_133233
+
+Locus: SNP_133234
+
+Locus: SNP_133256
+
+Locus: SNP_133261
+
+Locus: SNP_133303
+
+Locus: SNP_133354
+
+Locus: SNP_133444
+
+Locus: SNP_133451
+
+Locus: SNP_133495
+
+Locus: SNP_133504
+
+Locus: SNP_133528
+
+Locus: SNP_133534
+
+Locus: SNP_133548
+
+Locus: SNP_133569
+
+Locus: SNP_133574
+
+Locus: SNP_133586
+
+Locus: SNP_133588
+
+Locus: SNP_133631
+
+Locus: SNP_133647
+
+Locus: SNP_133651
+
+Locus: SNP_133654
+
+Locus: SNP_133662
+
+Locus: SNP_133689
+
+Locus: SNP_133705
+
+Locus: SNP_133730
+
+Locus: SNP_133778
+
+Locus: SNP_133779
+
+Locus: SNP_133802
+
+Locus: SNP_133810
+
+Locus: SNP_133858
+
+Locus: SNP_133870
+
+Locus: SNP_133928
+
+Locus: SNP_133941
+
+Locus: SNP_133954
+
+Locus: SNP_133957
+
+Locus: SNP_133964
+
+Locus: SNP_133969
+
+Locus: SNP_133970
+
+Locus: SNP_133984
+
+Locus: SNP_133988
+
+Locus: SNP_133990
+
+Locus: SNP_133996
+
+Locus: SNP_134006
+
+Locus: SNP_134012
+
+Locus: SNP_134047
+
+Locus: SNP_134055
+
+Locus: SNP_134060
+
+Locus: SNP_134066
+
+Locus: SNP_134067
+
+Locus: SNP_134077
+
+Locus: SNP_134080
+
+Locus: SNP_134085
+
+Locus: SNP_134217
+
+Locus: SNP_134248
+
+Locus: SNP_134270
+
+Locus: SNP_134323
+
+Locus: SNP_134342
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_134426
+
+Locus: SNP_134440
+
+Locus: SNP_134446
+
+Locus: SNP_134503
+
+Locus: SNP_134512
+
+Locus: SNP_134522
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_134524
+
+	Mom allele 1: 4
+	Mom allele 2: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 3
+
+Locus: SNP_134549
+
+Locus: SNP_134561
+
+Locus: SNP_134569
+
+Locus: SNP_134576
+
+Locus: SNP_134610
+
+Locus: SNP_134686
+
+Locus: SNP_134734
+
+Locus: SNP_134745
+
+Locus: SNP_134771
+
+Locus: SNP_134772
+
+Locus: SNP_134859
+
+Locus: SNP_134861
+
+Locus: SNP_134956
+
+Locus: SNP_134974
+
+Locus: SNP_135009
+
+Locus: SNP_135036
+
+Locus: SNP_135089
+
+Locus: SNP_135096
+
+Locus: SNP_135281
+
+Locus: SNP_135708
+
+Locus: SNP_135709
+
+Locus: SNP_135741
+
+Locus: SNP_135748
+
+Locus: SNP_135756
+
+Locus: SNP_135812
+
+Locus: SNP_135814
+
+Locus: SNP_135823
+
+Locus: SNP_135859
+
+Locus: SNP_135901
+
+Locus: SNP_135916
+
+Locus: SNP_135926
+
+Locus: SNP_135927
+
+Locus: SNP_135934
+
+Locus: SNP_135948
+
+Locus: SNP_136006
+
+Locus: SNP_136007
+
+Locus: SNP_136010
+
+Locus: SNP_136138
+
+Locus: SNP_136194
+
+Locus: SNP_136272
+
+Locus: SNP_136294
+
+Locus: SNP_136321
+
+Locus: SNP_136336
+
+Locus: SNP_136341
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_136350
+
+Locus: SNP_136369
+
+Locus: SNP_136391
+
+Locus: SNP_136394
+
+Locus: SNP_136436
+
+Locus: SNP_136441
+
+Locus: SNP_136444
+
+Locus: SNP_136446
+
+Locus: SNP_136451
+
+Locus: SNP_136464
+
+Locus: SNP_136473
+
+Locus: SNP_136498
+
+Locus: SNP_136524
+
+Locus: SNP_136594
+
+Locus: SNP_136612
+
+Locus: SNP_136617
+
+Locus: SNP_136618
+
+Locus: SNP_136620
+
+Locus: SNP_136665
+
+Locus: SNP_136707
+
+Locus: SNP_136813
+
+Locus: SNP_136854
+
+Locus: SNP_136863
+
+Locus: SNP_136868
+
+Locus: SNP_136875
+
+Locus: SNP_136918
+
+Locus: SNP_136925
+
+Locus: SNP_137084
+
+Locus: SNP_137295
+
+Locus: SNP_137340
+
+Locus: SNP_137392
+
+Locus: SNP_137396
+
+Locus: SNP_137400
+
+Locus: SNP_137445
+
+Locus: SNP_137458
+
+Locus: SNP_137465
+
+Locus: SNP_137483
+
+Locus: SNP_137494
+
+Locus: SNP_137551
+
+Locus: SNP_137714
+
+Locus: SNP_137752
+
+Locus: SNP_137753
+
+Locus: SNP_137775
+
+Locus: SNP_137795
+
+Locus: SNP_137983
+
+Locus: SNP_138015
+
+Locus: SNP_138026
+
+Locus: SNP_138050
+
+Locus: SNP_138052
+
+Locus: SNP_138060
+
+Locus: SNP_138132
+
+Locus: SNP_138158
+
+Locus: SNP_138188
+
+Locus: SNP_138208
+
+Locus: SNP_138238
+
+Locus: SNP_138270
+
+Locus: SNP_138445
+
+Locus: SNP_138453
+
+Locus: SNP_138474
+
+	Mom allele 1: 2
+	Mom allele 2: 1
+	Offspring allele 1: 2
+	Offspring allele 2: 1
+
+Locus: SNP_138516
+
+Locus: SNP_138603
+
+Locus: SNP_138641
+
+Locus: SNP_138645
+
+Locus: SNP_138720
+
+Locus: SNP_138721
+
+Locus: SNP_138733
+
+Locus: SNP_138740
+
+Locus: SNP_138773
+
+Locus: SNP_138782
+
+Locus: SNP_138791
+
+Locus: SNP_138818
+
+Locus: SNP_138840
+
+Locus: SNP_138843
+
+Locus: SNP_138857
+
+Locus: SNP_138860
+
+Locus: SNP_138906
+
+Locus: SNP_138915
+
+Locus: SNP_138967
+
+Locus: SNP_139012
+
+Locus: SNP_139043
+
+Locus: SNP_139109
+
+Locus: SNP_139193
+
+Locus: SNP_139197
+
+Locus: SNP_139251
+
+Locus: SNP_139448
+
+Locus: SNP_139543
+
+Locus: SNP_139580
+
+Locus: SNP_139583
+
+Locus: SNP_139595
+
+Locus: SNP_139596
+
+Locus: SNP_139643
+
+Locus: SNP_139644
+
+Locus: SNP_139645
+
+Locus: SNP_139684
+
+Locus: SNP_139736
+
+Locus: SNP_139756
+
+Locus: SNP_139826
+
+Locus: SNP_139846
+
+Locus: SNP_139882
+
+Locus: SNP_139941
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_139947
+
+Locus: SNP_140031
+
+Locus: SNP_140051
+
+Locus: SNP_140067
+
+Locus: SNP_140074
+
+Locus: SNP_140076
+
+Locus: SNP_140084
+
+Locus: SNP_140093
+
+Locus: SNP_140112
+
+Locus: SNP_140117
+
+Locus: SNP_140123
+
+Locus: SNP_140124
+
+Locus: SNP_140125
+
+Locus: SNP_140214
+
+Locus: SNP_140241
+
+Locus: SNP_140295
+
+Locus: SNP_140302
+
+Locus: SNP_140337
+
+Locus: SNP_140653
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_140708
+
+Locus: SNP_140725
+
+Locus: SNP_140730
+
+Locus: SNP_140739
+
+Locus: SNP_140759
+
+Locus: SNP_140763
+
+Locus: SNP_140822
+
+Locus: SNP_140897
+
+Locus: SNP_140898
+
+Locus: SNP_141207
+
+Locus: SNP_141235
+
+Locus: SNP_141258
+
+Locus: SNP_141270
+
+Locus: SNP_141292
+
+Locus: SNP_141527
+
+Locus: SNP_141529
+
+Locus: SNP_141548
+
+Locus: SNP_141553
+
+Locus: SNP_141585
+
+Locus: SNP_141668
+
+Locus: SNP_141696
+
+Locus: SNP_141746
+
+Locus: SNP_141747
+
+Locus: SNP_141764
+
+Locus: SNP_141778
+
+Locus: SNP_141785
+
+Locus: SNP_141881
+
+Locus: SNP_141994
+
+Locus: SNP_142002
+
+Locus: SNP_142318
+
+Locus: SNP_142344
+
+Locus: SNP_142407
+
+Locus: SNP_142417
+
+Locus: SNP_142418
+
+Locus: SNP_142430
+
+Locus: SNP_142454
+
+Locus: SNP_142461
+
+Locus: SNP_142473
+
+Locus: SNP_142508
+
+Locus: SNP_142535
+
+Locus: SNP_142543
+
+Locus: SNP_142553
+
+Locus: SNP_142573
+
+Locus: SNP_142754
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_142772
+
+Locus: SNP_142791
+
+Locus: SNP_142810
+
+Locus: SNP_142826
+
+Locus: SNP_142841
+
+Locus: SNP_142844
+
+Locus: SNP_142872
+
+Locus: SNP_142948
+
+Locus: SNP_142985
+
+Locus: SNP_142995
+
+Locus: SNP_143085
+
+Locus: SNP_143090
+
+Locus: SNP_143147
+
+Locus: SNP_143164
+
+Locus: SNP_143166
+
+Locus: SNP_143186
+
+Locus: SNP_143252
+
+Locus: SNP_143255
+
+Locus: SNP_143264
+
+Locus: SNP_143275
+
+Locus: SNP_143288
+
+Locus: SNP_143362
+
+Locus: SNP_143404
+
+Locus: SNP_143448
+
+Locus: SNP_143612
+
+Locus: SNP_143617
+
+Locus: SNP_143626
+
+Locus: SNP_143631
+
+Locus: SNP_143685
+
+Locus: SNP_143691
+
+Locus: SNP_143735
+
+Locus: SNP_143987
+
+Locus: SNP_144002
+
+Locus: SNP_144012
+
+Locus: SNP_144062
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_144092
+
+Locus: SNP_144155
+
+Locus: SNP_144208
+
+Locus: SNP_144209
+
+Locus: SNP_144245
+
+Locus: SNP_144259
+
+Locus: SNP_144263
+
+Locus: SNP_144267
+
+Locus: SNP_144276
+
+Locus: SNP_144279
+
+Locus: SNP_144283
+
+Locus: SNP_144309
+
+Locus: SNP_144311
+
+Locus: SNP_144313
+
+Locus: SNP_144314
+
+Locus: SNP_144321
+
+Locus: SNP_144325
+
+Locus: SNP_144382
+
+Locus: SNP_144388
+
+Locus: SNP_144436
+
+Locus: SNP_144738
+
+Locus: SNP_144748
+
+Locus: SNP_144964
+
+Locus: SNP_144986
+
+Locus: SNP_145291
+
+Locus: SNP_145315
+
+Locus: SNP_145367
+
+Locus: SNP_145396
+
+Locus: SNP_145397
+
+Locus: SNP_145406
+
+Locus: SNP_145421
+
+Locus: SNP_145444
+
+Locus: SNP_145479
+
+Locus: SNP_145481
+
+Locus: SNP_145487
+
+Locus: SNP_145503
+
+Locus: SNP_145509
+
+Locus: SNP_145518
+
+Locus: SNP_145522
+
+Locus: SNP_145525
+
+Locus: SNP_145540
+
+Locus: SNP_145544
+
+Locus: SNP_145570
+
+Locus: SNP_145588
+
+Locus: SNP_145597
+
+Locus: SNP_145691
+
+Locus: SNP_145712
+
+Locus: SNP_145716
+
+Locus: SNP_145717
+
+Locus: SNP_145720
+
+Locus: SNP_145726
+
+Locus: SNP_145735
+
+Locus: SNP_145739
+
+Locus: SNP_145742
+
+Locus: SNP_145744
+
+Locus: SNP_145785
+
+Locus: SNP_145891
+
+Locus: SNP_145937
+
+Locus: SNP_145938
+
+Locus: SNP_145939
+
+Locus: SNP_145942
+
+Locus: SNP_145943
+
+Locus: SNP_145978
+
+Locus: SNP_146094
+
+Locus: SNP_146120
+
+Locus: SNP_146141
+
+Locus: SNP_146214
+
+Locus: SNP_146336
+
+Locus: SNP_146338
+
+Locus: SNP_146339
+
+Locus: SNP_146375
+
+Locus: SNP_146534
+
+Locus: SNP_146554
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_146616
+
+Locus: SNP_146656
+
+Locus: SNP_146661
+
+Locus: SNP_147280
+
+Locus: SNP_147319
+
+Locus: SNP_147390
+
+Locus: SNP_147523
+
+Locus: SNP_147678
+
+Locus: SNP_147704
+
+Locus: SNP_147770
+
+Locus: SNP_147801
+
+Locus: SNP_147811
+
+Locus: SNP_147822
+
+Locus: SNP_147828
+
+Locus: SNP_147960
+
+Locus: SNP_148056
+
+Locus: SNP_148098
+
+Locus: SNP_148139
+
+Locus: SNP_148168
+
+Locus: SNP_148219
+
+Locus: SNP_148234
+
+Locus: SNP_148375
+
+Locus: SNP_148615
+
+Locus: SNP_148643
+
+Locus: SNP_148811
+
+Locus: SNP_148823
+
+Locus: SNP_148894
+
+Locus: SNP_148972
+
+Locus: SNP_148993
+
+Locus: SNP_149037
+
+Locus: SNP_149068
+
+Locus: SNP_149113
+
+Locus: SNP_149127
+
+Locus: SNP_149154
+
+Locus: SNP_149171
+
+Locus: SNP_149177
+
+Locus: SNP_149181
+
+Locus: SNP_149259
+
+Locus: SNP_149263
+
+Locus: SNP_149361
+
+Locus: SNP_149435
+
+Locus: SNP_149444
+
+Locus: SNP_149537
+
+Locus: SNP_149538
+
+Locus: SNP_149642
+
+Locus: SNP_149678
+
+Locus: SNP_149694
+
+Locus: SNP_149726
+
+Locus: SNP_149915
+
+Locus: SNP_149916
+
+Locus: SNP_149934
+
+Locus: SNP_149942
+
+Locus: SNP_149975
+
+Locus: SNP_150002
+
+Locus: SNP_150026
+
+Locus: SNP_150174
+
+Locus: SNP_150228
+
+Locus: SNP_150251
+
+Locus: SNP_150270
+
+Locus: SNP_150275
+
+Locus: SNP_150283
+
+Locus: SNP_150284
+
+Locus: SNP_150288
+
+Locus: SNP_150298
+
+Locus: SNP_150299
+
+Locus: SNP_150303
+
+Locus: SNP_150307
+
+Locus: SNP_150320
+
+Locus: SNP_150325
+
+Locus: SNP_150346
+
+Locus: SNP_150351
+
+Locus: SNP_150425
+
+Locus: SNP_150475
+
+Locus: SNP_150511
+
+Locus: SNP_150513
+
+Locus: SNP_150525
+
+Locus: SNP_150540
+
+Locus: SNP_150591
+
+Locus: SNP_150622
+
+Locus: SNP_150624
+
+Locus: SNP_150671
+
+Locus: SNP_150692
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_150720
+
+Locus: SNP_150727
+
+Locus: SNP_150731
+
+Locus: SNP_150737
+
+Locus: SNP_150798
+
+Locus: SNP_150805
+
+Locus: SNP_150835
+
+Locus: SNP_150836
+
+Locus: SNP_150924
+
+Locus: SNP_150983
+
+Locus: SNP_150985
+
+Locus: SNP_151081
+
+Locus: SNP_151201
+
+Locus: SNP_151273
+
+Locus: SNP_151281
+
+Locus: SNP_151283
+
+Locus: SNP_151345
+
+Locus: SNP_151372
+
+Locus: SNP_151407
+
+Locus: SNP_151409
+
+Locus: SNP_151419
+
+Locus: SNP_151453
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_151476
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_151526
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_151571
+
+Locus: SNP_151584
+
+Locus: SNP_151639
+
+Locus: SNP_151674
+
+Locus: SNP_151676
+
+Locus: SNP_151710
+
+Locus: SNP_151729
+
+Locus: SNP_151768
+
+Locus: SNP_151776
+
+Locus: SNP_151784
+
+Locus: SNP_151787
+
+Locus: SNP_151874
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_151875
+
+Locus: SNP_151881
+
+Locus: SNP_151932
+
+Locus: SNP_151962
+
+Locus: SNP_151965
+
+Locus: SNP_151969
+
+Locus: SNP_151970
+
+Locus: SNP_152007
+
+Locus: SNP_152235
+
+Locus: SNP_152281
+
+Locus: SNP_152350
+
+Locus: SNP_152417
+
+Locus: SNP_152565
+
+Locus: SNP_152603
+
+Locus: SNP_152702
+
+Locus: SNP_152704
+
+Locus: SNP_152709
+
+Locus: SNP_152710
+
+Locus: SNP_152712
+
+Locus: SNP_152715
+
+Locus: SNP_152802
+
+Locus: SNP_152821
+
+Locus: SNP_152825
+
+Locus: SNP_152952
+
+Locus: SNP_152961
+
+Locus: SNP_153035
+
+Locus: SNP_153049
+
+Locus: SNP_153051
+
+Locus: SNP_153076
+
+Locus: SNP_153086
+
+Locus: SNP_153207
+
+Locus: SNP_153210
+
+Locus: SNP_153272
+
+Locus: SNP_153297
+
+Locus: SNP_153299
+
+Locus: SNP_153381
+
+Locus: SNP_153382
+
+Locus: SNP_153399
+
+Locus: SNP_153618
+
+Locus: SNP_153685
+
+Locus: SNP_153702
+
+Locus: SNP_153726
+
+Locus: SNP_153752
+
+Locus: SNP_153754
+
+Locus: SNP_153761
+
+Locus: SNP_153762
+
+Locus: SNP_153766
+
+Locus: SNP_153782
+
+Locus: SNP_153808
+
+Locus: SNP_153825
+
+Locus: SNP_153884
+
+Locus: SNP_153889
+
+Locus: SNP_153952
+
+Locus: SNP_154263
+
+Locus: SNP_154322
+
+Locus: SNP_154325
+
+Locus: SNP_154346
+
+Locus: SNP_154351
+
+Locus: SNP_154353
+
+Locus: SNP_154416
+
+Locus: SNP_154500
+
+Locus: SNP_154583
+
+Locus: SNP_154584
+
+Locus: SNP_154588
+
+Locus: SNP_154660
+
+Locus: SNP_154931
+
+Locus: SNP_154950
+
+Locus: SNP_154982
+
+Locus: SNP_154985
+
+Locus: SNP_154994
+
+Locus: SNP_154995
+
+Locus: SNP_155008
+
+Locus: SNP_155011
+
+Locus: SNP_155022
+
+Locus: SNP_155035
+
+Locus: SNP_155062
+
+Locus: SNP_155064
+
+Locus: SNP_155070
+
+Locus: SNP_155080
+
+Locus: SNP_155083
+
+Locus: SNP_155107
+
+Locus: SNP_155121
+
+Locus: SNP_155123
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_155154
+
+Locus: SNP_155298
+
+Locus: SNP_155307
+
+Locus: SNP_155308
+
+Locus: SNP_155319
+
+Locus: SNP_155398
+
+Locus: SNP_155399
+
+Locus: SNP_155404
+
+Locus: SNP_155477
+
+Locus: SNP_155496
+
+Locus: SNP_155501
+
+Locus: SNP_155601
+
+Locus: SNP_155605
+
+Locus: SNP_155615
+
+Locus: SNP_155704
+
+Locus: SNP_155717
+
+Locus: SNP_155763
+
+Locus: SNP_155772
+
+Locus: SNP_155792
+
+Locus: SNP_155793
+
+Locus: SNP_155809
+
+Locus: SNP_155835
+
+Locus: SNP_155842
+
+Locus: SNP_155886
+
+Locus: SNP_155888
+
+Locus: SNP_155928
+
+Locus: SNP_156293
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_157373
+
+Locus: SNP_157840
+
+Locus: SNP_157896
+
+Locus: SNP_157912
+
+Locus: SNP_157993
+
+Locus: SNP_158005
+
+Locus: SNP_158017
+
+Locus: SNP_158023
+
+Locus: SNP_158069
+
+Locus: SNP_158122
+
+Locus: SNP_158172
+
+Locus: SNP_158217
+
+Locus: SNP_158228
+
+Locus: SNP_158253
+
+Locus: SNP_158255
+
+Locus: SNP_158265
+
+Locus: SNP_158278
+
+Locus: SNP_158306
+
+Locus: SNP_158340
+
+Locus: SNP_158349
+
+Locus: SNP_158367
+
+Locus: SNP_158380
+
+Locus: SNP_158386
+
+Locus: SNP_159082
+
+Locus: SNP_159135
+
+Locus: SNP_159230
+
+Locus: SNP_159257
+
+Locus: SNP_159290
+
+Locus: SNP_159302
+
+Locus: SNP_159326
+
+Locus: SNP_159382
+
+Locus: SNP_159413
+
+Locus: SNP_159443
+
+Locus: SNP_159496
+
+Locus: SNP_159527
+
+Locus: SNP_159562
+
+Locus: SNP_159572
+
+Locus: SNP_159595
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_159608
+
+Locus: SNP_159611
+
+Locus: SNP_159871
+
+Locus: SNP_159894
+
+Locus: SNP_159942
+
+Locus: SNP_159993
+
+Locus: SNP_159998
+
+Locus: SNP_160000
+
+Locus: SNP_160012
+
+Locus: SNP_160075
+
+Locus: SNP_160086
+
+Locus: SNP_160125
+
+Locus: SNP_160531
+
+Locus: SNP_160549
+
+Locus: SNP_160561
+
+Locus: SNP_160631
+
+Locus: SNP_160641
+
+Locus: SNP_160653
+
+Locus: SNP_160655
+
+Locus: SNP_160658
+
+Locus: SNP_160661
+
+Locus: SNP_160676
+
+Locus: SNP_160685
+
+Locus: SNP_160702
+
+Locus: SNP_160705
+
+Locus: SNP_160736
+
+Locus: SNP_160758
+
+Locus: SNP_160771
+
+Locus: SNP_160776
+
+Locus: SNP_160788
+
+Locus: SNP_160826
+
+Locus: SNP_160843
+
+Locus: SNP_160850
+
+Locus: SNP_160856
+
+Locus: SNP_160858
+
+Locus: SNP_160860
+
+Locus: SNP_160874
+
+Locus: SNP_160887
+
+Locus: SNP_160906
+
+Locus: SNP_160918
+
+Locus: SNP_160959
+
+Locus: SNP_160962
+
+Locus: SNP_160992
+
+Locus: SNP_161026
+
+Locus: SNP_161031
+
+Locus: SNP_161037
+
+Locus: SNP_161063
+
+Locus: SNP_161110
+
+Locus: SNP_161116
+
+Locus: SNP_161130
+
+Locus: SNP_161137
+
+Locus: SNP_161141
+
+Locus: SNP_161168
+
+Locus: SNP_161170
+
+Locus: SNP_161431
+
+Locus: SNP_161434
+
+Locus: SNP_161441
+
+Locus: SNP_161442
+
+Locus: SNP_161446
+
+Locus: SNP_161452
+
+Locus: SNP_161488
+
+Locus: SNP_161521
+
+Locus: SNP_161579
+
+Locus: SNP_161633
+
+Locus: SNP_161642
+
+Locus: SNP_161693
+
+Locus: SNP_161770
+
+Locus: SNP_161772
+
+Locus: SNP_161773
+
+Locus: SNP_161797
+
+Locus: SNP_161895
+
+Locus: SNP_161930
+
+Locus: SNP_161955
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_161959
+
+Locus: SNP_161967
+
+Locus: SNP_162051
+
+Locus: SNP_162055
+
+Locus: SNP_162090
+
+Locus: SNP_162094
+
+Locus: SNP_162234
+
+Locus: SNP_162236
+
+Locus: SNP_162243
+
+Locus: SNP_162256
+
+Locus: SNP_162258
+
+Locus: SNP_162263
+
+Locus: SNP_162271
+
+Locus: SNP_162465
+
+Locus: SNP_162492
+
+Locus: SNP_162517
+
+Locus: SNP_162544
+
+Locus: SNP_162553
+
+Locus: SNP_162557
+
+Locus: SNP_162560
+
+Locus: SNP_162586
+
+Locus: SNP_162598
+
+Locus: SNP_162687
+
+Locus: SNP_162708
+
+Locus: SNP_162709
+
+Locus: SNP_162737
+
+Locus: SNP_162773
+
+Locus: SNP_162776
+
+Locus: SNP_162809
+
+Locus: SNP_162830
+
+Locus: SNP_162847
+
+Locus: SNP_162848
+
+Locus: SNP_162854
+
+Locus: SNP_162856
+
+Locus: SNP_162894
+
+Locus: SNP_162901
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_162902
+
+Locus: SNP_162924
+
+Locus: SNP_162946
+
+Locus: SNP_162989
+
+Locus: SNP_163018
+
+Locus: SNP_163019
+
+Locus: SNP_163037
+
+Locus: SNP_163059
+
+Locus: SNP_163066
+
+Locus: SNP_163100
+
+Locus: SNP_163130
+
+Locus: SNP_163161
+
+Locus: SNP_163180
+
+Locus: SNP_163226
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_163234
+
+Locus: SNP_163239
+
+Locus: SNP_163255
+
+Locus: SNP_163270
+
+Locus: SNP_163300
+
+Locus: SNP_163307
+
+Locus: SNP_163319
+
+Locus: SNP_163338
+
+Locus: SNP_163361
+
+Locus: SNP_163400
+
+Locus: SNP_163401
+
+Locus: SNP_163403
+
+Locus: SNP_163425
+
+Locus: SNP_163427
+
+Locus: SNP_163624
+
+Locus: SNP_163630
+
+Locus: SNP_163722
+
+	Mom allele 1: 1
+	Mom allele 2: 4
+	Offspring allele 1: 1
+	Offspring allele 2: 4
+
+Locus: SNP_163723
+
+	Mom allele 1: 2
+	Mom allele 2: 1
+	Offspring allele 1: 2
+	Offspring allele 2: 1
+
+Locus: SNP_163732
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_163733
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_163734
+
+	Mom allele 1: 3
+	Mom allele 2: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: SNP_163774
+
+Locus: SNP_163775
+
+Locus: SNP_163779
+
+Locus: SNP_163782
+
+Locus: SNP_164085
+
+Locus: SNP_164111
+
+Locus: SNP_164127
+
+Locus: SNP_164133
+
+Locus: SNP_164172
+
+Locus: SNP_164208
+
+Locus: SNP_164217
+
+Locus: SNP_164239
+
+Locus: SNP_164280
+
+Locus: SNP_164290
+
+Locus: SNP_164353
+
+Locus: SNP_164380
+
+Locus: SNP_164417
+
+Locus: SNP_164435
+
+Locus: SNP_164478
+
+Locus: SNP_164531
+
+Locus: SNP_164536
+
+Locus: SNP_164539
+
+Locus: SNP_164552
+
+Locus: SNP_164554
+
+Locus: SNP_164556
+
+Locus: SNP_164566
+
+Locus: SNP_164567
+
+Locus: SNP_164582
+
+Locus: SNP_164584
+
+Locus: SNP_164590
+
+Locus: SNP_164594
+
+Locus: SNP_164609
+
+Locus: SNP_164614
+
+Locus: SNP_164627
+
+Locus: SNP_164658
+
+Locus: SNP_164662
+
+Locus: SNP_164677
+
+Locus: SNP_164710
+
+Locus: SNP_164736
+
+Locus: SNP_164754
+
+Locus: SNP_164761
+
+Locus: SNP_164771
+
+Locus: SNP_164778
+
+Locus: SNP_164792
+
+Locus: SNP_164804
+
+Locus: SNP_164815
+
+Locus: SNP_164857
+
+Locus: SNP_164862
+
+Locus: SNP_164881
+
+Locus: SNP_164895
+
+Locus: SNP_164917
+
+Locus: SNP_164935
+
+Locus: SNP_164941
+
+Locus: SNP_164943
+
+Locus: SNP_164944
+
+Locus: SNP_164948
+
+Locus: SNP_164975
+
+Locus: SNP_165015
+
+Locus: SNP_165053
+
+Locus: SNP_165064
+
+Locus: SNP_165068
+
+Locus: SNP_165081
+
+Locus: SNP_165094
+
+Locus: SNP_165098
+
+Locus: SNP_165100
+
+Locus: SNP_165116
+
+Locus: SNP_165119
+
+Locus: SNP_165168
+
+Locus: SNP_165171
+
+Locus: SNP_165172
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_165190
+
+Locus: SNP_165200
+
+Locus: SNP_165251
+
+Locus: SNP_165268
+
+Locus: SNP_165322
+
+Locus: SNP_165324
+
+Locus: SNP_165326
+
+Locus: SNP_165341
+
+Locus: SNP_165344
+
+Locus: SNP_165401
+
+Locus: SNP_165424
+
+Locus: SNP_165512
+
+Locus: SNP_165527
+
+Locus: SNP_165553
+
+Locus: SNP_165554
+
+Locus: SNP_165608
+
+Locus: SNP_165617
+
+Locus: SNP_165792
+
+Locus: SNP_165931
+
+Locus: SNP_165935
+
+Locus: SNP_165953
+
+Locus: SNP_165960
+
+Locus: SNP_166058
+
+Locus: SNP_166071
+
+Locus: SNP_166098
+
+Locus: SNP_166106
+
+Locus: SNP_166234
+
+Locus: SNP_166342
+
+Locus: SNP_166359
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP_166398
+
+Locus: SNP_166426
+
+Locus: SNP_166452
+
+Locus: SNP_166481
+
+Locus: SNP_166529
+
+Locus: SNP_166580
+
+Locus: SNP_166674
+
+Locus: SNP_166690
+
+Locus: SNP_166749
+
+Locus: SNP_166771
+
+Locus: SNP_166950
+
+Locus: SNP_166972
+
+Locus: SNP_166985
+
+Locus: SNP_167012
+
+Locus: SNP_167119
+
+Locus: SNP_167139
+
+Locus: SNP_167158
+
+Locus: SNP_167161
+
+Locus: SNP_167213
+
+Locus: SNP_167216
+
+Locus: SNP_167218
+
+Locus: SNP_167220
+
+Locus: SNP_167338
+
+Locus: SNP_167357
+
+Locus: SNP_167372
+
+Locus: SNP_167378
+
+Locus: SNP_167421
+
+Locus: SNP_167423
+
+Locus: SNP_167465
+
+Locus: SNP_167503
+
+Locus: SNP_167541
+
+Locus: SNP_167595
+
+Locus: SNP_167668
+
+Locus: SNP_167684
+
+Locus: SNP_167688
+
+Locus: SNP_167717
+
+Locus: SNP_167944
+
+Locus: SNP_167947
+
+Locus: SNP_167967
+
+Locus: SNP_167970
+
+Locus: SNP_167999
+
+Locus: SNP_168039
+
+Locus: SNP_168040
+
+Locus: SNP_168048
+
+Locus: SNP_168102
+
+Locus: SNP_168176
+
+Locus: SNP_168181
+
+Locus: SNP_168183
+
+Locus: SNP_168235
+
+Locus: SNP_168246
+
+Locus: SNP_168261
+
+Locus: SNP_168267
+
+Locus: SNP_168302
+
+Locus: SNP_168303
+
+Locus: SNP_168310
+
+Locus: SNP_168339
+
+Locus: SNP_168347
+
+Locus: SNP_168417
+
+Locus: SNP_168418
+
+Locus: SNP_168501
+
+Locus: SNP_168502
+
+Locus: SNP_168527
+
+Locus: SNP_168551
+
+Locus: SNP_168558
+
+Locus: SNP_168567
+
+Locus: SNP_168582
+
+Locus: SNP_168589
+
+Locus: SNP_168658
+
+Locus: SNP_168703
+
+Locus: SNP_168733
+
+Locus: SNP_168793
+
+Locus: SNP_168795
+
+Locus: SNP_168798
+
+Locus: SNP_168820
+
+Locus: SNP_169218
+
+Locus: SNP_169298
+
+Locus: SNP_169303
+
+Locus: SNP_169315
+
+Locus: SNP_169331
+
+Locus: SNP_169334
+
+Locus: SNP_169407
+
+Locus: SNP_169408
+
+Locus: SNP_169477
+
+Locus: SNP_169488
+
+Locus: SNP_169496
+
+Locus: SNP_169592
+
+Locus: SNP_169653
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_169668
+
+Locus: SNP_169713
+
+Locus: SNP_169828
+
+Locus: SNP_169857
+
+Locus: SNP_169858
+
+Locus: SNP_169957
+
+Locus: SNP_169960
+
+Locus: SNP_169980
+
+	Mom allele 1: 2
+	Mom allele 2: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: SNP_170021
+
+Locus: SNP_170088
+
+Locus: SNP_170125
+
+Locus: SNP_170133
+
+Locus: SNP_170135
+
+Locus: SNP_170155
+
+Locus: SNP_170244
+
+Locus: SNP_170249
+
+Locus: SNP_170391
+
+Locus: SNP_170396
+
+Locus: SNP_170402
+
+Locus: SNP_170451
+
+Locus: SNP_170461
+
+Locus: SNP_170471
+
+Locus: SNP_170493
+
+Locus: SNP_170550
+
+Locus: SNP_170583
+
+Locus: SNP_170608
+
+Locus: SNP_170615
+
+Locus: SNP_170677
+
+Locus: SNP_170715
+
+Locus: SNP_170752
+
+	Mom allele 1: 4
+	Mom allele 2: 1
+	Offspring allele 1: 4
+	Offspring allele 2: 1
+
+Locus: SNP_170798
+
+Locus: SNP_170806
+
+Locus: SNP_170921
+
+Locus: SNP_170942
+
+Locus: SNP_171059
+
+Locus: SNP_171068
+
+Locus: SNP_171099
+
+Locus: SNP_171163
+
+Locus: SNP_171164
+
+Locus: SNP_171194
+
+Locus: SNP_171231
+
+Locus: SNP_171354
+
+Locus: SNP_171359
+
+Locus: SNP_171367
+
+Locus: SNP_171369
+
+Locus: SNP_171421
+
+Locus: SNP_171428
+
+Locus: SNP_171433
+
+Locus: SNP_171444
+
+Locus: SNP_171465
+
+Locus: SNP_171497
+
+Locus: SNP_171534
+
+Locus: SNP_171546
+
+Locus: SNP_171569
+
+Locus: SNP_171599
+
+Locus: SNP_171703
+
+Locus: SNP_171761
+
+Locus: SNP_171822
+
+Locus: SNP_171827
+
+Locus: SNP_171882
+
+Locus: SNP_171887
+
+Locus: SNP_171896
+
+Locus: SNP_171920
+
+Locus: SNP_172036
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_172052
+
+Locus: SNP_172057
+
+Locus: SNP_172125
+
+Locus: SNP_172247
+
+Locus: SNP_172253
+
+Locus: SNP_172277
+
+Locus: SNP_172324
+
+Locus: SNP_172331
+
+Locus: SNP_172342
+
+Locus: SNP_172347
+
+Locus: SNP_172360
+
+Locus: SNP_172366
+
+Locus: SNP_172426
+
+Locus: SNP_172433
+
+Locus: SNP_172468
+
+Locus: SNP_172473
+
+Locus: SNP_172527
+
+Locus: SNP_172530
+
+Locus: SNP_172531
+
+Locus: SNP_172543
+
+Locus: SNP_172549
+
+Locus: SNP_172578
+
+Locus: SNP_172619
+
+Locus: SNP_172636
+
+Locus: SNP_172638
+
+Locus: SNP_172661
+
+Locus: SNP_172676
+
+Locus: SNP_173690
+
+Locus: SNP_173691
+
+Locus: SNP_173710
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_173728
+
+Locus: SNP_173729
+
+Locus: SNP_173745
+
+Locus: SNP_173751
+
+Locus: SNP_173785
+
+Locus: SNP_173786
+
+Locus: SNP_173803
+
+Locus: SNP_173822
+
+Locus: SNP_173829
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_173870
+
+	Mom allele 1: 2
+	Mom allele 2: 3
+	Offspring allele 1: 2
+	Offspring allele 2: 3
+
+Locus: SNP_174035
+
+Locus: SNP_175576
+
+Locus: SNP_175596
+
+Locus: SNP_175625
+
+Locus: SNP_175656
+
+Locus: SNP_175764
+
+Locus: SNP_175765
+
+Locus: SNP_175771
+
+Locus: SNP_175815
+
+Locus: SNP_175854
+
+Locus: SNP_175882
+
+Locus: SNP_175883
+
+Locus: SNP_175905
+
+Locus: SNP_175909
+
+Locus: SNP_175918
+
+Locus: SNP_175932
+
+Locus: SNP_175936
+
+Locus: SNP_175977
+
+Locus: SNP_175998
+
+Locus: SNP_176004
+
+Locus: SNP_176018
+
+Locus: SNP_176076
+
+Locus: SNP_176082
+
+Locus: SNP_176088
+
+Locus: SNP_176126
+
+Locus: SNP_176145
+
+Locus: SNP_176147
+
+Locus: SNP_176148
+
+Locus: SNP_176205
+
+Locus: SNP_176215
+
+Locus: SNP_176300
+
+Locus: SNP_176323
+
+Locus: SNP_176362
+
+Locus: SNP_176371
+
+Locus: SNP_176380
+
+Locus: SNP_176406
+
+Locus: SNP_176414
+
+Locus: SNP_176445
+
+Locus: SNP_176448
+
+Locus: SNP_176455
+
+Locus: SNP_176463
+
+Locus: SNP_176470
+
+Locus: SNP_176475
+
+Locus: SNP_176490
+
+Locus: SNP_176595
+
+Locus: SNP_176633
+
+Locus: SNP_176639
+
+Locus: SNP_176649
+
+Locus: SNP_176665
+
+Locus: SNP_176673
+
+Locus: SNP_176685
+
+Locus: SNP_176688
+
+Locus: SNP_176744
+
+Locus: SNP_176781
+
+Locus: SNP_176803
+
+Locus: SNP_176826
+
+Locus: SNP_176990
+
+Locus: SNP_177007
+
+Locus: SNP_177008
+
+Locus: SNP_177009
+
+Locus: SNP_177050
+
+Locus: SNP_177095
+
+Locus: SNP_177098
+
+Locus: SNP_177106
+
+Locus: SNP_177152
+
+Locus: SNP_177160
+
+Locus: SNP_177169
+
+Locus: SNP_177174
+
+Locus: SNP_177201
+
+Locus: SNP_177204
+
+Locus: SNP_177241
+
+Locus: SNP_177246
+
+Locus: SNP_177252
+
+Locus: SNP_177311
+
+Locus: SNP_177343
+
+Locus: SNP_177344
+
+Locus: SNP_177353
+
+Locus: SNP_177460
+
+Locus: SNP_177601
+
+Locus: SNP_177630
+
+Locus: SNP_177632
+
+Locus: SNP_177663
+
+Locus: SNP_177677
+
+Locus: SNP_177688
+
+Locus: SNP_177699
+
+Locus: SNP_177704
+
+Locus: SNP_177719
+
+Locus: SNP_177721
+
+Locus: SNP_177755
+
+Locus: SNP_177759
+
+Locus: SNP_177761
+
+Locus: SNP_177772
+
+Locus: SNP_178175
+
+Locus: SNP_178192
+
+Locus: SNP_178428
+
+Locus: SNP_178433
+
+Locus: SNP_178437
+
+Locus: SNP_178451
+
+Locus: SNP_178457
+
+Locus: SNP_178462
+
+Locus: SNP_178632
+
+Locus: SNP_178648
+
+Locus: SNP_178666
+
+Locus: SNP_178727
+
+Locus: SNP_178767
+
+Locus: SNP_178866
+
+Locus: SNP_179087
+
+Locus: SNP_179149
+
+Locus: SNP_179180
+
+Locus: SNP_179216
+
+Locus: SNP_179235
+
+Locus: SNP_179276
+
+Locus: SNP_179282
+
+Locus: SNP_179357
+
+Locus: SNP_179394
+
+Locus: SNP_179457
+
+Locus: SNP_179490
+
+Locus: SNP_179492
+
+Locus: SNP_179520
+
+Locus: SNP_179536
+
+Locus: SNP_179689
+
+Locus: SNP_179691
+
+Locus: SNP_179708
+
+Locus: SNP_179731
+
+Locus: SNP_179748
+
+Locus: SNP_179769
+
+Locus: SNP_179786
+
+Locus: SNP_179804
+
+Locus: SNP_179805
+
+Locus: SNP_180036
+
+Locus: SNP_180062
+
+Locus: SNP_180078
+
+Locus: SNP_180153
+
+Locus: SNP_180176
+
+Locus: SNP_180186
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_180188
+
+Locus: SNP_180200
+
+Locus: SNP_180202
+
+Locus: SNP_180206
+
+Locus: SNP_180209
+
+Locus: SNP_180230
+
+Locus: SNP_180302
+
+	Mom allele 1: 3
+	Mom allele 2: 2
+	Offspring allele 1: 3
+	Offspring allele 2: 2
+
+Locus: SNP_180307
+
+Locus: SNP_180309
+
+Locus: SNP_180315
+
+Locus: SNP_180369
+
+Locus: SNP_180378
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
+
+Locus: SNP_180379
+
+Locus: SNP_180380
+
+Locus: SNP_180516
+
+Locus: SNP_180605
+
+	Mom allele 1: 2
+	Mom allele 2: 1
+	Offspring allele 1: 2
+	Offspring allele 2: 1
+
+Locus: SNP_180714
+
+Locus: SNP_180793
+
+Locus: SNP_180823
+
+Locus: SNP_180844
+
+Locus: SNP_180861
+
+Locus: SNP_180926
+
+Locus: SNP_180937
+
+Locus: SNP_180992
+
+Locus: SNP_181090
+
+Locus: SNP_181108
+
+Locus: SNP_181119
+
+Locus: SNP_181149
+
+Locus: SNP_181183
+
+Locus: SNP_181205
+
+Locus: SNP_181206
+
+Locus: SNP_181267
+
+Locus: SNP_181290
+
+Locus: SNP_181292
+
+Locus: SNP_181305
+
+Locus: SNP_181356
+
+Locus: SNP_181388
+
+Locus: SNP_181398
+
+Locus: SNP_181408
+
+Locus: SNP_181409
+
+Locus: SNP_181417
+
+Locus: SNP_181607
+
+Locus: SNP_181610
+
+Locus: SNP_181616
+
+Locus: SNP_181624
+
+Locus: SNP_181628
+
+Locus: SNP_181633
+
+Locus: SNP_181644
+
+Locus: SNP_181649
+
+Locus: SNP_181678
+
+Locus: SNP_181679
+
+Locus: SNP_181689
+
+Locus: SNP_181746
+
+Locus: SNP_181753
+
+Locus: SNP_181778
+
+Locus: SNP_181867
+
+Locus: SNP_181947
+
+Locus: SNP_181968
+
+Locus: SNP_181970
+
+Locus: SNP_181981
+
+Locus: SNP_181983
+
+Locus: SNP_181999
+
+Locus: SNP_182019
+
+Locus: SNP_182022
+
+Locus: SNP_182083
+
+Locus: SNP_182090
+
+Locus: SNP_182094
+
+Locus: SNP_182103
+
+Locus: SNP_182154
+
+Locus: SNP_182167
+
+Locus: SNP_182181
+
+Locus: SNP_182233
+
+Locus: SNP_182234
+
+Locus: SNP_182265
+
+Locus: SNP_182268
+
+Locus: SNP_182306
+
+Locus: SNP_182395
+
+Locus: SNP_182405
+
+Locus: SNP_182413
+
+Locus: SNP_182453
+
+Locus: SNP_182458
+
+Locus: SNP_182488
+
+Locus: SNP_182510
+
+Locus: SNP_182525
+
+Locus: SNP_182540
+
+Locus: SNP_182559
+
+Locus: SNP_182569
+
+Locus: SNP_182606
+
+Locus: SNP_182859
+
+Locus: SNP_182908
+
+Locus: SNP_182909
+
+Locus: SNP_183023
+
+Locus: SNP_183030
+
+Locus: SNP_183053
+
+Locus: SNP_183066
+
+Locus: SNP_183067
+
+Locus: SNP_183104
+
+Locus: SNP_183113
+
+Locus: SNP_183131
+
+Locus: SNP_183161
+
+Locus: SNP_183167
+
+Locus: SNP_183193
+
+Locus: SNP_183236
+
+Locus: SNP_183268
+
+Locus: SNP_183332
+
+Locus: SNP_183334
+
+Locus: SNP_183357
+
+Locus: SNP_183406
+
+Locus: SNP_183430
+
+Locus: SNP_183436
+
+Locus: SNP_183440
+
+Locus: SNP_183448
+
+Locus: SNP_183472
+
+Locus: SNP_183476
+
+Locus: SNP_183478
+
+Locus: SNP_183497
+
+Locus: SNP_183521
+
+Locus: SNP_183544
+
+Locus: SNP_183563
+
+Locus: SNP_183568
+
+Locus: SNP_183589
+
+Locus: SNP_183629
+
+Locus: SNP_183690
+
+Locus: SNP_183789
+
+Locus: SNP_183833
+
+Locus: SNP_183871
+
+Locus: SNP_183954
+
+Locus: SNP_183996
+
+Locus: SNP_184005
+
+Locus: SNP_184016
+
+Locus: SNP_184019
+
+Locus: SNP_184035
+
+Locus: SNP_184055
+
+Locus: SNP_184057
+
+Locus: SNP_184074
+
+Locus: SNP_184088
+
+Locus: SNP_184143
+
+Locus: SNP_184148
+
+Locus: SNP_184178
+
+Locus: SNP_184185
+
+Locus: SNP_184187
+
+Locus: SNP_184188
+
+Locus: SNP_184197
+
+Locus: SNP_184201
+
+Locus: SNP_184268
+
+Locus: SNP_184270
+
+Locus: SNP_184273
+
+Locus: SNP_184274
+
+Locus: SNP_184288
+
+Locus: SNP_184299
+
+Locus: SNP_184330
+
+Locus: SNP_184356
+
+Locus: SNP_184514
+
+Locus: SNP_184524
+
+Locus: SNP_184525
+
+Locus: SNP_184549
+
+Locus: SNP_184554
+
+Locus: SNP_184556
+
+Locus: SNP_184565
+
+Locus: SNP_184630
+
+Locus: SNP_184646
+
+Locus: SNP_184648
+
+Locus: SNP_184650
+
+Locus: SNP_184656
+
+Locus: SNP_184659
+
+Locus: SNP_184682
+
+Locus: SNP_184689
+
+Locus: SNP_184701
+
+Locus: SNP_184871
+
+Locus: SNP_184890
+
+Locus: SNP_184927
+
+Locus: SNP_184964
+
+Locus: SNP_185781
+
+Locus: SNP_185799
+
+Locus: SNP_185806
+
+Locus: SNP_185819
+
+Locus: SNP_185837
+
+Locus: SNP_185839
+
+Locus: SNP_185864
+
+Locus: SNP_185880
+
+Locus: SNP_185907
+
+Locus: SNP_185921
+
+Locus: SNP_185933
+
+Locus: SNP_185945
+
+Locus: SNP_185951
+
+Locus: SNP_186077
+
+Locus: SNP_186092
+
+Locus: SNP_186157
+
+Locus: SNP_186171
+
+Locus: SNP_186243
+
+Locus: SNP_186262
+
+Locus: SNP_186274
+
+Locus: SNP_186288
+
+Locus: SNP_186291
+
+Locus: SNP_186299
+
+Locus: SNP_186307
+
+Locus: SNP_186322
+
+Locus: SNP_186364
+
+Locus: SNP_186368
+
+Locus: SNP_186392
+
+Locus: SNP_186461
+
+Locus: SNP_186526
+
+Locus: SNP_186556
+
+Locus: SNP_186562
+
+Locus: SNP_186633
+
+Locus: SNP_186635
+
+Locus: SNP_186639
+
+Locus: SNP_186640
+
+Locus: SNP_186642
+
+Locus: SNP_186662
+
+Locus: SNP_186685
+
+Locus: SNP_186710
+
+Locus: SNP_186735
+
+Locus: SNP_186738
+
+Locus: SNP_186740
+
+Locus: SNP_186745
+
+Locus: SNP_186781
+
+Locus: SNP_186812
+
+Locus: SNP_186860
+
+Locus: SNP_186879
+
+Locus: SNP_186891
+
+Locus: SNP_186892
+
+Locus: SNP_186896
+
+Locus: SNP_186920
+
+Locus: SNP_186921
+
+Locus: SNP_186937
+
+Locus: SNP_186946
+
+Locus: SNP_186953
+
+Locus: SNP_186956
+
+Locus: SNP_186968
+
+Locus: SNP_187018
+
+Locus: SNP_187020
+
+Locus: SNP_187024
+
+Locus: SNP_187026
+
+Locus: SNP_187028
+
+Locus: SNP_187040
+
+Locus: SNP_187064
+
+Locus: SNP_187092
+
+Locus: SNP_187146
+
+Locus: SNP_187150
+
+Locus: SNP_187160
+
+Locus: SNP_187168
+
+Locus: SNP_187221
+
+Locus: SNP_187334
+
+Locus: SNP_187346
+
+Locus: SNP_187383
+
+Locus: SNP_187384
+
+Locus: SNP_187387
+
+Locus: SNP_187389
+
+Locus: SNP_187413
+
+Locus: SNP_187443
+
+Locus: SNP_187446
+
+Locus: SNP_187532
+
+Locus: SNP_187551
+
+Locus: SNP_187563
+
+Locus: SNP_187591
+
+Locus: SNP_187726
+
+Locus: SNP_187741
+
+Locus: SNP_187753
+
+Locus: SNP_187760
+
+Locus: SNP_187803
+
+Locus: SNP_187806
+
+Locus: SNP_188190
+
+Locus: SNP_188499
+
+Locus: SNP_188570
+
+Locus: SNP_188603
+
+Locus: SNP_188615
+
+Locus: SNP_188641
+
+Locus: SNP_188647
+
+Locus: SNP_188669
+
+Locus: SNP_188674
+
+Locus: SNP_188680
+
+Locus: SNP_188725
+
+Locus: SNP_188771
+
+Locus: SNP_188782
+
+Locus: SNP_188804
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_188831
+
+Locus: SNP_188834
+
+Locus: SNP_188855
+
+Locus: SNP_188909
+
+Locus: SNP_188985
+
+Locus: SNP_189076
+
+Locus: SNP_189200
+
+Locus: SNP_189315
+
+Locus: SNP_189361
+
+Locus: SNP_189362
+
+Locus: SNP_189376
+
+Locus: SNP_189386
+
+Locus: SNP_189394
+
+Locus: SNP_189403
+
+Locus: SNP_189404
+
+Locus: SNP_189555
+
+Locus: SNP_189602
+
+Locus: SNP_189609
+
+Locus: SNP_189644
+
+Locus: SNP_189645
+
+Locus: SNP_189646
+
+Locus: SNP_189647
+
+Locus: SNP_189667
+
+Locus: SNP_189669
+
+Locus: SNP_189691
+
+Locus: SNP_189712
+
+Locus: SNP_189713
+
+Locus: SNP_189728
+
+Locus: SNP_189745
+
+Locus: SNP_189747
+
+Locus: SNP_189764
+
+Locus: SNP_189815
+
+Locus: SNP_189816
+
+Locus: SNP_189832
+
+Locus: SNP_189888
+
+Locus: SNP_189958
+
+Locus: SNP_189978
+
+Locus: SNP_190126
+
+Locus: SNP_190139
+
+Locus: SNP_190142
+
+Locus: SNP_190147
+
+Locus: SNP_190151
+
+Locus: SNP_190152
+
+Locus: SNP_190235
+
+Locus: SNP_190236
+
+Locus: SNP_190237
+
+Locus: SNP_190350
+
+Locus: SNP_190362
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_190364
+
+Locus: SNP_190481
+
+Locus: SNP_190482
+
+Locus: SNP_190504
+
+Locus: SNP_190513
+
+Locus: SNP_190517
+
+Locus: SNP_190520
+
+Locus: SNP_190539
+
+Locus: SNP_190544
+
+Locus: SNP_190564
+
+Locus: SNP_190586
+
+Locus: SNP_190634
+
+Locus: SNP_190757
+
+Locus: SNP_190925
+
+Locus: SNP_190926
+
+Locus: SNP_190933
+
+Locus: SNP_191098
+
+Locus: SNP_191114
+
+Locus: SNP_191125
+
+Locus: SNP_191127
+
+Locus: SNP_191143
+
+Locus: SNP_191150
+
+Locus: SNP_191162
+
+Locus: SNP_191191
+
+Locus: SNP_191194
+
+Locus: SNP_191209
+
+Locus: SNP_191210
+
+Locus: SNP_191213
+
+Locus: SNP_191217
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP_191251
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+

@@ -14,7 +14,7 @@ in_dir=TEST-DATA-SETS/INFILES/
 #file, and use an error rate of 0.01
 for file in $in_dir/*           
 do			
-	python3 ParthenoGenius.py $file $file --error 0.01
+	./ParthenoGenius.py $file $file --error 0.01
 done
 
 

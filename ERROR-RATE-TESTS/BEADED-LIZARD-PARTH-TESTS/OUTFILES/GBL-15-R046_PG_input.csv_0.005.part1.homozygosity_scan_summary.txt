@@ -1,0 +1,31 @@
+######## PARTHENOGENIUS - OUTPUT FILE: SUMMARY OF HOMOZYGOUS LOCUS SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 10/06/2024 12:35:20 #########
+
+
+Parameters:
+	Infile = ERROR-RATE-TESTS/BEADED-LIZARD-PARTH-TESTS/INFILES/GBL-15-R046_PG_input.csv
+	Outfile = ERROR-RATE-TESTS/BEADED-LIZARD-PARTH-TESTS/INFILES/GBL-15-R046_PG_input.csv_0.005
+	Error = 0.005
+
+
+Total number of loci in input file scanned (may include loci with missing data): 3094
+
+
+THE FOLLOWING STATS REFERS ONLY TO LOCI AT WHICH NEITHER THE MOTHER NOR OFFSPRING HAVE MISSING DATA:
+
+	Number of loci for which mom is homozygous and offspring are not missing data: 2156
+	Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 468
+	Maximum number of homozygous loci expected to differ between mom and offspring based on error rate: 10.78
+	Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.21707
+	Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: 0.78293
+
+
+THE OFFSPRING IS UNLIKELY TO BE A PARTHENOGEN.
+
+	The number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles is greater than the number expected from the genotyping error rate alone.
+	Incongruence between maternal genotypes and offspring genotypes may be due to presence of paternal alleles.
+
+
+Note: Part 2 maternal heterozygosity analysis will not be conducted to test for mode of parthenogenesis.
+Note: Part 2 heterozygosity outfiles will not be created.

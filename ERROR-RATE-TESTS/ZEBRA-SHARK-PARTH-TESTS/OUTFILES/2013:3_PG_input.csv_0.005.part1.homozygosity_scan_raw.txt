@@ -1,0 +1,23 @@
+######## PARTHENOGENIUS - OUTPUT FILE: PART 1 MATERNAL HOMOZYGOUS LOCI SCAN ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: (D/M/Y) 11/06/2024 15:30:49 #########
+
+
+Parameters:
+	Infile = ERROR-RATE-TESTS/ZEBRA-SHARK-PARTH-TESTS/INFILES/2013:3_PG_input.csv
+	Outfile = ERROR-RATE-TESTS/ZEBRA-SHARK-PARTH-TESTS/INFILES/2013:3_PG_input.csv_0.005
+	Error = 0.005
+
+
+The following are the IDs for the loci at which the mom is homozygous. Loci at which the mom or offspring have missing data are not included.
+If an offspring allele differs from the maternal homozygous genotype, the incongruous maternal allele and offspring allele are printed below the locus.
+
+Please refer to the maternal homozygous loci scan summary output file for summary statistics.
+
+
+Locus: Sfa418
+
+	Mom homozygous allele: 231
+	Offspring allele 1: 225
+	Offspring allele 2: 231
+
