@@ -79,7 +79,7 @@ Note - IDs in the ```ID_pairs.txt``` and ```genotypes.csv``` must be the same. T
 
 
 ```PG_file_prep.sh``` will generate *ParthenoGenius* input files for each mother/offspring pair. One can then run all generated input files through *ParthenoGenius* using ```PG_wrapper.sh```.
-To do so, modify the wrapper script to reflect name of the directory containing the input files and, optionally, the user-defined error rate. The only contents of the directory containing the input files should be the input files. Then, execute the wrapper script from the command line as follows:
+To do so, modify the wrapper script to reflect name of the directory containing the input files and, optionally, the user-defined error rates for Parts 1 and 2. The only contents of the directory containing the input files should be the input files. Then, execute the wrapper script from the command line as follows:
 
 ```./PG_wrapper.sh```
 
