@@ -9,7 +9,10 @@ ____________________________________________
 
 # Installation
 
-*ParthenoGenius* is writted in python3 and requires the following modules: argparse (https://docs.python.org/3/library/argparse.html), pandas (https://pandas.pydata.org), and datetime (https://docs.python.org/3/library/datetime.html).
+*ParthenoGenius* can be downloaded by cloning the GitHub repository:
+git clone 
+
+*ParthenoGenius* is writted in python and requires the pandas module (https://pandas.pydata.org).
 
 ____________________________________________
 
@@ -18,12 +21,12 @@ ____________________________________________
 The help menu can be accessed using the "-h" argument.
 
 ```
-python3 ParthenoGenius.py -h
+./ParthenoGenius.py -h
 ```
 The mandatory arguments to run *ParthenoGenius* are an input file formatted as a .csv (e.g., mydata.csv) and a user-defined prefix for naming the output files (e.g., "mydata-out").
 
 ```
-python3 ParthenoGenius.py mydata.csv mydata-out
+./ParthenoGenius.py mydata.csv mydata-out
 ```
 
 The user may provide an optional estimated per-base error rate. The default value for this parameter is 0.001.
