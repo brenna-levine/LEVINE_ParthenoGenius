@@ -9,10 +9,10 @@ ____________________________________________
 
 # Installation
 
-*ParthenoGenius* can be downloaded by cloning the GitHub repository. It is ready to use once it has been downloaded:
-
+*ParthenoGenius* can be downloaded by using Git to clone the GitHub repository. It is ready to use once it has been downloaded:
+```
 git clone "https://github.com/brenna-levine/LEVINE_ParthenoGenius"
-
+```
 *ParthenoGenius* is writted in python and requires the pandas module (https://pandas.pydata.org).
 
 ____________________________________________
