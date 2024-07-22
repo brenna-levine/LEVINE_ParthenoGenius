@@ -38,7 +38,7 @@ _________________________________________________
 
 # Input File
 
-The input file is a .csv file containing diploid co-dominant locus names and the genotypes for a mother and offspring. Missing data can be coded as -9. The file format is similar to that of a Structure file, with two lines for each individual. Alleles can be written as letters or numbers, with no restrictions on the length of the allele (i.e., SNP allele vs microsatellite length). For example:
+The input file is a .csv file containing diploid co-dominant locus names and the genotypes for a mother and offspring. Missing data can be coded as -9. The file format is similar to that of a Structure file, with two lines for each individual. To create the input file for *ParthenoGenius* from a Structure file, the user can delete the columns that do not contain the sample IDs or genotypes. If the user does not have a Structure file but rather a VCF file or other common bioinformatics file format, the user can use PGDSpider (https://cmpg.unibe.ch/software/PGDSpider/", software with a graphical user interface, to convert their file to a Structure file. Alleles can be written as letters or numbers, with no restrictions on the length of the allele (i.e., SNP allele vs microsatellite length). For example:
 
 ```
 ,SNP1,SNP2,SNP3,SNP4,SNP5
