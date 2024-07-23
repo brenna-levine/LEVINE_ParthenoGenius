@@ -79,11 +79,11 @@ Once you have the two files prepared, ```PG_file_prep.sh``` can be run from the 
 
 
 ```PG_file_prep.sh``` will generate *ParthenoGenius* input files for each mother/offspring pair. One can then run all generated input files through *ParthenoGenius* using ```PG_wrapper.sh```.
-To do so, modify the wrapper script to reflect name of the directory containing the input files and, optionally, the user-defined error rates for Parts 1 and 2. The only contents of the directory containing the input files should be the input files. Then, execute the wrapper script from the command line as follows:
+The only contents of the directory containing the input files should be the input files. To run the wrapper script, provide the input file directory (<input_directory>), the output file directory (<output_directory), the error rate for Part 1 (Part_1_error_rate), and optionally a user-defined error rate for Part 2 (P2_user_defined_error_rate>) as command line arguments. Note - the output directory does not have to already exist and is optionally created by the program if it does not yet exist. Execute the wrapper script from the command line as follows:
 
-```./PG_wrapper.sh```
+```./PG_wrapper.sh <input_directory> <output_directory> <Part_1_error_rate> <P2_user_defined_error_rate>```
 
-Output files will be automatically named according to the input file name and can be found in the directory containing the input files.
+Output files will be automatically named according to the input file name and can be found in the output directory provided as an argument by the user. 
 
 # Tutorial
 
@@ -93,7 +93,7 @@ First, navigate to the tutorial directory from the ParthenoGenius home directory
 
 ```cd TUTORIAL```
 
-Next, use ```less``` to view the ```ID_pairs.txt``` and ```genotypes.csv``` file. Notice that the ID names in the ```ID_pairs.txt``` file match those in the ```genotypes.csv``` file. Now, execute the local copy of ```PG_file_prep.sh```.
+Next, use ```less``` to view the ```ID_pairs.txt``` and ```genotypes.csv``` file. Notice that the ID names in the ```ID_pairs.txt``` file match those in the ```genotypes.csv``` file. Now, execute the local copy of ```PG_file_prep.sh```. Note - this script must be in the same directory as the files in order to run.
 
 ```./PG_file_prep.sh```
 
@@ -107,17 +107,18 @@ Then, navigate back to main ParthenoGenius directory.
 
 ```../```
 
-I have already modified the ```PG_wrapper.sh``` script to reflect the location of the infiles and created a copy of the wrapper script specific to this tutorial (```PG_wrapper-TUTORIAL.sh```). View this version of the wrapper script with ```less``` and notice that the infile directory location is ```./TUTORIAL/INFILES```. I have also modified this wrapper script to include the optional user-defined error rate. Notice that ```--error 0.01``` is specified in the ParthenoGenius command. Now, execute the ```PG_wrapper-TUTORIAL.sh``` script.
+To run *ParthenoGenius* on all input files in this new directory and store the results in the outfile directory, type the following on the command line:
 
-```./PG_wrapper-TUTORIAL.sh```
+```./PG_wrapper-TUTORIAL.sh TUTORIAL/INFILES TUTORIAL/OUTFILES 0.01 0.01```
 
-Upon completion of the wrapper script, navigate to the tutorial infile directory.
+This command declares the path to the input directory (TUTORIAL/INFILES), the path to the output directory (TUTORIAL/OUTFILES), the user-defined error rate for Part 1 (0.01; default = 0.001), and the optional user-defined error rate for Part 2 (0.01).
 
-```cd TUTORIAL/INFILES```
+Upon completion of the wrapper script, navigate to the tutorial outfile directory.
 
-Use ```ls``` to view the contents of the directory. Notice that there are now three sets of outfiles - one set for each mother/offspring pair. You can now move the outfiles to the ```OUTFILES``` directory to maintain organization.
+```cd TUTORIAL/OUTFILES```
 
-```mv *part* ../OUTFILES/```
+Use ```ls``` to view the contents of the directory. Notice that there are now three sets of outfiles - one set for each mother/offspring pair. 
+`
 
 
 
