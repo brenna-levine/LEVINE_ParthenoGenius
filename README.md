@@ -79,7 +79,7 @@ Once you have the two files prepared, ```PG_file_prep.sh``` can be run from the 
 
 
 ```PG_file_prep.sh``` will generate *ParthenoGenius* input files for each mother/offspring pair. One can then run all generated input files through *ParthenoGenius* using ```PG_wrapper.sh```.
-The only contents of the directory containing the input files should be the input files. To run the wrapper script, provide the input file directory (<input_directory>), the output file directory (<output_directory), the error rate for Part 1 (Part_1_error_rate), and optionally a user-defined error rate for Part 2 (P2_user_defined_error_rate>) as command line arguments. Note - the output directory does not have to already exist and is optionally created by the program if it does not yet exist. Execute the wrapper script from the command line as follows:
+The only contents of the directory containing the input files should be the input files. To run the wrapper script, provide the input file directory (<input_directory>), the output file directory (<output_directory), the user-defined error rate for Part 1 (Part_1_error_rate), and optionally a user-defined error rate for Part 2 (P2_user_defined_error_rate>) as command line arguments. Note - the output directory does not have to already exist and is optionally created by the program if it does not yet exist. Execute the wrapper script from the command line as follows:
 
 ```./PG_wrapper.sh <input_directory> <output_directory> <Part_1_error_rate> <P2_user_defined_error_rate>```
 
@@ -111,7 +111,7 @@ To run *ParthenoGenius* on all input files in this new directory and store the r
 
 ```./PG_wrapper-TUTORIAL.sh TUTORIAL/INFILES TUTORIAL/OUTFILES 0.01 0.01```
 
-This command declares the path to the input directory (TUTORIAL/INFILES), the path to the output directory (TUTORIAL/OUTFILES), the user-defined error rate for Part 1 (0.01; default = 0.001), and the optional user-defined error rate for Part 2 (0.01).
+This command declares the path to the input directory (TUTORIAL/INFILES), the path to the output directory (TUTORIAL/OUTFILES), the user-defined error rate for Part 1 (0.01), and the optional user-defined error rate for Part 2 (0.01).
 
 Upon completion of the wrapper script, navigate to the tutorial outfile directory.
 
