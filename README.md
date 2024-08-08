@@ -109,7 +109,7 @@ Then, navigate back to main ParthenoGenius directory.
 
 To run *ParthenoGenius* on all input files in this new directory and store the results in the outfile directory, type the following on the command line:
 
-```./PG_wrapper-TUTORIAL.sh TUTORIAL/INFILES TUTORIAL/OUTFILES 0.01 0.01```
+```./PG_wrapper.sh TUTORIAL/INFILES TUTORIAL/OUTFILES 0.01 0.01```
 
 This command declares the path to the input directory (TUTORIAL/INFILES), the path to the output directory (TUTORIAL/OUTFILES), the user-defined error rate for Part 1 (0.01), and the optional user-defined error rate for Part 2 (0.01).
 
