@@ -13,7 +13,7 @@ ____________________________________________
 ```
 git clone "https://github.com/brenna-levine/LEVINE_ParthenoGenius"
 ```
-*ParthenoGenius* is writted in python and requires the pandas module (https://pandas.pydata.org). Users who don't have Python on their local machines can register for a free beginner PythonAnywhere account (https://www.pythonanywhere.com) to run the code remotely.
+*ParthenoGenius* is writted in python and requires the pandas module (https://pandas.pydata.org). Users who don't have Python on their local machines can register for a free beginner PythonAnywhere account (https://www.pythonanywhere.com) to run the code remotely. The GitHub repository can be cloned to a PythonAnywhere beginner account.
 
 ____________________________________________
 
