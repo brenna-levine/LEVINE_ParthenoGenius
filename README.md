@@ -117,7 +117,7 @@ Upon completion of the wrapper script, navigate to the tutorial outfile director
 
 ```cd TUTORIAL/OUTFILES```
 
-Use ```ls``` to view the contents of the directory. Notice that there are now three sets of outfiles - one set for each mother/offspring pair. 
+Use ```ls``` to view the contents of the directory. Notice that there are now three sets of outfiles - one set for each mother/offspring pair. The contents of each file can be viewed with ```less -S <filename.txt>```.
 `
 
 
