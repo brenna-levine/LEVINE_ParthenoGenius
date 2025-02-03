@@ -3,7 +3,11 @@ A user-friendly heuristic for inferring presence and mechanism of facultative pa
 
 **Author:** Dr. Brenna A. Levine - levine.brenna.a@gmail.com
 
-**How to cite:** Levine BA, Booth W. 2024. ParthenoGenius: A user-friendly heuristic for inferring presence and mechanism of facultative parthenogenesis from genetic and genomic data sets. https://github.com/brenna-levine/LEVINE_ParthenoGenius/tree/main
+**How to cite the program:** Levine BA, Booth W. 2024. _ParthenoGenius_. https://github.com/brenna-levine/LEVINE_ParthenoGenius/tree/main
+
+**How to cite the paper:** Levine BA, Booth W. 2025. _ParthenoGenius_: A user-friendly heuristic for inferring presence and mechanism of facultative parthenogenesis from genetic and genomic datasets. _Journal of Heredity_, 116: 34-42. DOI: https://doi.org/10.1093/jhered/esae060
+
+
 
 ____________________________________________
 
